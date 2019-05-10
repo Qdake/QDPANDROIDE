@@ -1,10 +1,12 @@
 import sys
 import pygame
+if "./pybot" not in sys.path:
+    sys.path.append("./pybot");
 from robot import Robot
 from wall import Wall
-from math import cos, sin, radians
-import threading
-import random
+#from math import cos, sin, radians
+#import threading
+#import random
 
 # Parametre
 maze = 2
@@ -43,8 +45,8 @@ wc = Wall((width, 0), (width - 1, height - 1))
 wd = Wall((0, height), (width - 1, height - 1))
 walls += [wa, wb, wc, wd]
 
-robotimg = pygame.image.load("ressources/robot.gif")
-finishimg = pygame.image.load("ressources/finish.png")
+robotimg = pygame.image.load("./pybot/ressources/robot.gif")
+finishimg = pygame.image.load("./pybot/ressources/finish.png")
 
 def affichage(robot,clock,screen,finish):
 #    print("fps :" + str(int(clock.get_fps())), end='\r', flush=True)

@@ -6,7 +6,7 @@ fitness_threshold     = 100
 ## A:population size of 250
 pop_size              = 50 
 reset_on_extinction   = False
-
+ 
 [DefaultGenome]
 # node activation options
 activation_default      = random

@@ -9,8 +9,9 @@ Created on Tue Apr  9 10:50:10 2019
 # il reste a ajuster les parametres dans le ficher config
 
 import neat
-import main
-import random
+#import main
+from pybot import main as robot
+#import pybot.main as robot
 from collide import distc
 # a robot that finishes within five units of the goal counts as a solution
 
@@ -24,8 +25,9 @@ from collide import distc
 def eval_genomes(genomes, config):
     for genome_id, genome in genomes:
         net = neat.nn.FeedForwardNetwork.create(genome, config)
-        positionFinale = main.simulationNavigationSansImage(net.activate);
-        genome.fitness = -distc(positionFinale, main.finish_position);
+#        positionFinale = main.simulationNavigationSansImage(net.activate);
+        positionFinale = robot.simulationNavigation(net.activate);
+        genome.fitness = -distc(positionFinale, robot.finish_position);
         print("robot {}: fini a la position {}, distance avec goal {}".format(genome_id,positionFinale,genome.fitness));
 # Load configuration.
 config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
