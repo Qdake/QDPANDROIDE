@@ -16,28 +16,22 @@ from collide import distc
 # a robot that finishes within five units of the goal counts as a solution
 
 
-#def isSolution(pos,finish_position):
-#    if distc(pos,finish_position)<=5:
-#        return True;
-#    else:
-#        return False;
-import numpy as np
+cases = [[0 for i in range(40)] for j in range(20)];
 position = [];
-T = 10;
 def eval_genomes(genomes, config):
     for genome_id, genome in genomes:
-        distances = [];
-        for i in range(T): 
-            net = neat.nn.FeedForwardNetwork.create(genome, config)
-            positionFinale = robot.simulationNavigationSansImage(net.activate);
-#            positionFinale = robot.simulationNavigation(net.activate);
-            if positionFinale[0] < 0 or positionFinale[1]< 0:
-                print("******************position: ",position);
-                break;
-            position.append(positionFinale);
-            distances.append(-distc(positionFinale, robot.finish_position));
-        genome.fitness = np.mean(distances);
-        print("robot {}: fini a la position {}, \n distance avec goal {}".format(genome_id,positionFinale,genome.fitness));
+        net = neat.nn.FeedForwardNetwork.create(genome, config)
+        positionFinale = robot.simulationNavigationSansImage(net.activate);
+        position.append(positionFinale);
+#        positionFinale = robot.simulationNavigation(net.activate);
+        genome.fitness = 0;
+        if cases[positionFinale[0]//10][positionFinale[1]//10] == 0:
+            genome.fitness += 1;
+            cases[positionFinale[0]//10][positionFinale[1]//10] = 1;
+        if distc(positionFinale, robot.finish_position) < 40 :
+            print("***********solution trouveeee****************");
+            return;
+        print("robot {}: fini a la position {}, \n fitness {}".format(genome_id,positionFinale,genome.fitness));
 # Load configuration.
 config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
                      neat.DefaultSpeciesSet, neat.DefaultStagnation,
@@ -50,7 +44,7 @@ p = neat.Population(config)
 p.add_reporter(neat.StdOutReporter(False))
 
 # Run until a solution is found.
-winner = p.run(eval_genomes,10); 
+winner = p.run(eval_genomes,50); 
 
 # Display the winning genome.
 print('\nBest genome:\n{!s}'.format(winner))

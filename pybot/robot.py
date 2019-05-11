@@ -39,12 +39,11 @@ class Robot(pygame.Rect):
         self.centerx += ox
         self.centery += oy
         if self.left < 0 or self.right > width or self.top < 0 or self.bottom > height:
-            self.centerx -= self.speed * ox
-            self.centery -= self.speed * oy
-
-        if self.collideWalls(walls):
-            self.centerx -= self.speed * ox
-            self.centery -= self.speed * oy
+            self.centerx -= ox
+            self.centery -= oy
+        elif self.collideWalls(walls):
+            self.centerx -= ox
+            self.centery -= oy
 
         if distc(self.center, (width, height)) > distc(old_center, (width, height)):
             res = 0

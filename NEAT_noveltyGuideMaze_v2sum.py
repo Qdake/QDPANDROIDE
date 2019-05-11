@@ -14,30 +14,41 @@ from pybot import main as robot
 #import pybot.main as robot
 from collide import distc
 # a robot that finishes within five units of the goal counts as a solution
-
-
-#def isSolution(pos,finish_position):
-#    if distc(pos,finish_position)<=5:
-#        return True;
-#    else:
-#        return False;
-import numpy as np
+k = 5
+cases = [[0 for i in range(200//k)] for j in range(400//k)];
 position = [];
-T = 10;
 def eval_genomes(genomes, config):
+    pos = []
+    distances = [[0 for i in range(len(genomes))] for j in range(len(genomes))]
     for genome_id, genome in genomes:
-        distances = [];
-        for i in range(T): 
-            net = neat.nn.FeedForwardNetwork.create(genome, config)
-            positionFinale = robot.simulationNavigationSansImage(net.activate);
-#            positionFinale = robot.simulationNavigation(net.activate);
-            if positionFinale[0] < 0 or positionFinale[1]< 0:
+        net = neat.nn.FeedForwardNetwork.create(genome, config)
+        #affichage de image
+        positionFinale = robot.simulationNavigation(net.activate);
+#        positionFinale = robot.simulationNavigationSansImage(net.activate);
+        position.append(positionFinale);
+        if positionFinale[0] < 0 or positionFinale[1]< 0:
                 print("******************position: ",position);
                 break;
-            position.append(positionFinale);
-            distances.append(-distc(positionFinale, robot.finish_position));
-        genome.fitness = np.mean(distances);
-        print("robot {}: fini a la position {}, \n distance avec goal {}".format(genome_id,positionFinale,genome.fitness));
+        # evaluation
+        pos.append(positionFinale);
+        print("--> la position finale {}".format(positionFinale));
+    for i in range(len(genomes)):
+        for j in range(len(genomes)):
+            if i<=j:
+                distances[i][j] = distc(pos[i],pos[j]);
+                distances[j][i] = distc(pos[j],pos[i]);
+                
+        tb = list(reversed(sorted(distances[i][:])));
+        genomes[i][1].fitness = sum(tb[0:15])
+        
+        if cases[positionFinale[0]//k][positionFinale[1]//k] == 0:
+            genomes[i][1].fitness += 10000;
+            cases[positionFinale[0]//k][positionFinale[1]//k] = 1;
+        if distc(positionFinale, robot.finish_position) < 10 :
+            print("***********solution trouveeee****************");
+            solution = genomes[i];
+            break;
+        print("--> fitness: ",genomes[i][1].fitness)
 # Load configuration.
 config = neat.Config(neat.DefaultGenome, neat.DefaultReproduction,
                      neat.DefaultSpeciesSet, neat.DefaultStagnation,
@@ -50,7 +61,7 @@ p = neat.Population(config)
 p.add_reporter(neat.StdOutReporter(False))
 
 # Run until a solution is found.
-winner = p.run(eval_genomes,10); 
+winner = p.run(eval_genomes,20); 
 
 # Display the winning genome.
 print('\nBest genome:\n{!s}'.format(winner))
@@ -86,5 +97,5 @@ img.show();
 
 
 for p in position:
-    draw.ellipse([(p[0]-1,p[1]-1),(p[0]+1,p[1]+1)],fill = 0);
+    draw.ellipse([(p[0]-1,p[1]-1),(p[0],p[1])],fill = 0);
 img.show()
