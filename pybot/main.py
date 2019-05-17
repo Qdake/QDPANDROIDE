@@ -1,21 +1,19 @@
 import sys
 import pygame
-if "./pybot" not in sys.path:
-    sys.path.append("./pybot");
 from robot import Robot
 from wall import Wall
 #from math import cos, sin, radians
 #import threading
 #import random
-
+budgetRestant = [[None for i in range(200//5)] for j in range(400//5)]; # utiliser dans mapElite
 # Parametre
 maze = 2
 background_color = 255, 255, 255
 NbOfRobot = 1
 fps = 99
-speed = 10
 debug = True
-budget = 300;
+budget = 100;
+speed = 10
 radarRayon = 50
 # Creation des murs & choix du maze
 if maze == 1:
@@ -30,7 +28,7 @@ if maze == 1:
 
 elif maze == 2:
     size = width, height = 400, 200
-    start_position = (20,20)
+    start_position = (width // 10, height * 3 // 10)
     finish_position = (370,150)
     w1 = Wall((50, 80), (340, 200))
     w2 = Wall((120, 0), (70, 50))
@@ -47,8 +45,8 @@ wc = Wall((width, 0), (width - 1, height - 1))
 wd = Wall((0, height), (width - 1, height - 1))
 walls += [wa, wb, wc, wd]
 
-robotimg = pygame.image.load("./pybot/ressources/robot.gif")
-finishimg = pygame.image.load("./pybot/ressources/finish.png")
+robotimg = pygame.image.load("ressources/robot.gif")
+finishimg = pygame.image.load("ressources/finish.png")
 
 def affichage(robot,clock,screen,finish):
 #    print("fps :" + str(int(clock.get_fps())), end='\r', flush=True)
@@ -87,6 +85,7 @@ def simulationNavigation(brain):
             if event.type == pygame.QUIT:
                 sys.exit()
         # Déplacement
+        budgetRestant[robot.center[0],robot.center[1]] = budget;
         robot.move(speed, width, height, walls);
         # Réussite
         if finish.collidelist([robot]) != -1:
@@ -105,7 +104,7 @@ def simulationNavigationSansImage(brain):
     clock = pygame.time.Clock()
     font = pygame.font.Font(None, 30)
     # creation de robot
-    robot = Robot((width / 10, height * 3 / 10), robotimg, radarRayon,brain,finish.center, speed)
+    robot = Robot(start_position, robotimg, radarRayon,brain,finish.center, speed)
     # Boucle de "Jeu"
     for i in range(budget):
         for event in pygame.event.get():
