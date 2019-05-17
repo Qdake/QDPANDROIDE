@@ -106,27 +106,4 @@ def eval_genomes(population,generation,nb_run):
             #croisement
             individu3,individu4 = croissement(individu1,individu2);
             #mutation
-            individu3 = mutation(individu3,probMutation);
-            individu4 = mutation(individu4,probMutation);
-            #ajouter dans la prochaine population
-            nextPopulation.append(individu3);
-            nextPopulation.append(individu4);
-        population = nextPopulation;
-        
-        
-        #generation de graph
-        print("j=", j);
-        if j%2 == 0 and j!=0:
-            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-
-    
-    
-
-# a robot that finishes within five units of the goal counts as a solution
-N = 250
-p = genererPopulation(N,[16,12,1])
-probMutation = 0.005
-nb_generation = 20
-for nb_run in range(1,4):
-    position = [];
-    eval_genomes(p,nb_generation,nb_run);
+       

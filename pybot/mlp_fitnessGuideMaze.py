@@ -11,12 +11,63 @@ from collide import distc
 
 from Mlp import Mlp,genererPopulation,mutation,croissement,rangementParQualite,selection
 
+from PIL import Image, ImageDraw;
 
-def eval_genomes(population,generation):
+import time
+
+def butAtteint(position,start_time,nb_run):
+    if distc(position, robot.finish_position) < 10 :
+        f=open("./result/fitnessGuideMaze_{}_run_resultat.out".format(nb_run),"w");
+        f.write("***********solution trouveeee****************\n");
+        f.write("position d'arete:",position);
+        f.write("temps utilise: ",time.time()-start_time);
+        f.close();
+        plotmaze(position,"./result/fitnessGuideMaze_{}_run_final.png".format(nb_run))
+        return True;
+    else:
+        return False;
+    
+def plotmaze(visitedPositions,filename):
+    """position:ensemble de toutes les positions atteintes par au moins un robot 
+    """
+    print("plotmaze, len(visitedPositions) =",len(visitedPositions));
+    h = 400;
+    l = 200;
+    o = (0,0)
+    img = Image.new('RGBA', (h, l),(255,255,255))
+    draw = ImageDraw.Draw(img);
+    draw.line([o,(h-1,0)],fill = 0);
+    draw.line([o,(0,l-1)],fill = 0);
+    draw.line([(0,l-1),(h-1,l-1)],fill = 0);
+    draw.line([(h-1,0),(h-1,l-1)],fill = 0);
+    draw.line([(50,80),(340,200)],fill = 0);
+    draw.line([(120,0),(70,50)],fill = 0);
+    draw.line([(220,0),(170,70)],fill = 0);
+    draw.line([(350,0),(300,100)],fill = 0);
+    draw.line([(350,140),(380,200)],fill = 0);
+    draw.line([(120,60),(150,125)],fill = 0);
+    draw.line([(220,85),(250,190)],fill = 0);
+    #goal
+    draw.ellipse([(370,150),(380,160)],fill = 0);
+    #start
+    draw.ellipse([(3,20),(13,30)],fill = 0);
+    #draw.ellipse([(3,18),(4,23)],fill = 1);
+    #img.show()
+    
+    
+    for p in visitedPositions:
+        draw.point(p,"red");
+    #    draw.ellipse([(p[0],p[1]),(p[0]+2,p[1]+2)],fill = "red");
+    img.save(filename);
+
+
+def eval_genomes(population,generation,probMutation,nb_run):
     global solution;
+    start_time = time.time();
     taillePopulation =len(population);
-    for i in range(generation):
-        print(i,"ieme generation")
+    visitedPositions = set();
+    for j in range(generation):
+        print(j,"ieme generation")
         pos = []
         dis = []
         ### evaluation des reseaux neurones
@@ -24,15 +75,12 @@ def eval_genomes(population,generation):
             #affichage de image
 #            positionFinale = robot.simulationNavigation(genome);
             positionFinale = robot.simulationNavigationSansImage(genome);
-            position.append(positionFinale);
+            visitedPositions.add((positionFinale[0],positionFinale[1]));
             # evaluation
             pos.append(positionFinale);
-            dis.append(10000-distc(positionFinale,robot.finish_position),)
-            print("--> la position finale {}".format(positionFinale));
-            if distc(positionFinale, robot.finish_position) < 10 :
-                print("***********solution trouveeee****************");
-                solution = population[i];
-                break;
+            dis.append(10000-distc(positionFinale,robot.finish_position))
+            if butAtteint(positionFinale,start_time,genome):
+                return;   
         ### generer prochaine generation
         nextPopulation = [];      
         distribution = rangementParQualite(p = 0.3,taille = taillePopulation);
@@ -48,51 +96,19 @@ def eval_genomes(population,generation):
             nextPopulation.append(individu3);
             nextPopulation.append(individu4);
         population = nextPopulation;
+        
+        ### plot
+        #generation de graph
+        if j%2 == 0 and j!=0:
+            plotmaze(visitedPositions,"./result/fitnessGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+
     
     
 
-# a robot that finishes within five units of the goal counts as a solution
-k = 5
-cases = [[0 for i in range(200//k)] for j in range(400//k)];
-position = [];
-N = 10
-p = genererPopulation(N,[16,12,1])
-probMutation = 0.005
-eval_genomes(p,20);
-solution = None;
-
-#### affichage
-
-from PIL import Image, ImageDraw;
-h = 400;
-l = 200;
-o = (0,0)
-size = (h,l);
-img = Image.new('RGBA', (h, l),(255,255,255))
-draw = ImageDraw.Draw(img);
-draw.line([o,(h-1,0)],fill = 0);
-draw.line([o,(0,l-1)],fill = 0);
-draw.line([(0,l-1),(h-1,l-1)],fill = 0);
-draw.line([(h-1,0),(h-1,l-1)],fill = 0);
-draw.line([(50,80),(340,200)],fill = 0);
-draw.line([(120,0),(70,50)],fill = 0);
-draw.line([(220,0),(170,70)],fill = 0);
-draw.line([(350,0),(300,100)],fill = 0);
-draw.line([(350,140),(380,200)],fill = 0);
-draw.line([(120,60),(150,125)],fill = 0);
-draw.line([(220,85),(250,190)],fill = 0);
-#goal
-draw.ellipse([(370,150),(380,160)],fill = 0);
-#start
-draw.ellipse([robot.start_position,(robot.start_position[0]+5,robot.start_position[1]+5)],fill = 0);
-#draw.ellipse([(3,18),(4,23)],fill = 1);
-#img.show()
-
-#img.save('/home/wei/Documents/QDPY/mywork/novelty search/mediumMap.bmp');
-
-
-
-for p in position:
-    draw.point(p,"red");
-#    draw.ellipse([(p[0],p[1]),(p[0]+2,p[1]+2)],fill = "red");
-img.show()
+## main
+N = 250  #nombre de generation
+probMutation = 0.005 ## probabilite de mutation
+solution = None
+for nb_run in range(5):
+    p = genererPopulation(N,[16,12,1])
+    eval_genomes(p,20,probMutation,nb_run);

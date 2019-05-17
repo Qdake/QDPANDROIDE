@@ -14,11 +14,11 @@ from Mlp import Mlp,genererPopulation,mutation,croissement,rangementParQualite,s
 def eval_genomes(population,generation,nb_run):
     global solution;
     start_time = time.time()
-    f=open("resultat_{}ieme_run.out".format(nb_run),"w");
+    f=open("./result/resultat_{}ieme_run.out".format(nb_run),"w");
     taillePopulation =len(population);
     for i in range(generation):
         if i%5 == 0 and i!=0:
-            plotmaze(position,"resultat_{}ieme_run_{}_generation_image.rgba".format(nb_run,i))
+            plotmaze(position,"./result/resultat_{}ieme_run_{}_generation_image.rgba".format(nb_run,i))
         print(i,"ieme generation")
         pos = []
         distances = [[0 for i in range(len(population))] for j in range(len(population))]
@@ -33,7 +33,7 @@ def eval_genomes(population,generation,nb_run):
                 f.write("position a'arete:",positionFinale);
                 f.write("temps utilise: ",time.time-start_time);
                 f.close();
-                plotmaze(position,"resultat_{}ieme_run_final_image.png".format(nb_run))
+                plotmaze(position,"./result/resultat_{}ieme_run_final_image.png".format(nb_run))
                 return
             position.append(positionFinale);
             # evaluation
@@ -79,7 +79,7 @@ probMutation = 0.005
 for i in range(1,2):
     eval_genomes(p,3,i);
 solution = None;
-plotmaze(position,"resultat_{}ieme_run_image.png".format(-1))
+plotmaze(position,"./result/resultat_{}ieme_run_image.png".format(-1))
 #### affichage
 
 from PIL import Image, ImageDraw;

@@ -12,8 +12,8 @@ background_color = 255, 255, 255
 NbOfRobot = 1
 fps = 99
 debug = True
-budget = 100;
-speed = 10
+budget = 200;
+speed = 5
 radarRayon = 50
 # Creation des murs & choix du maze
 if maze == 1:
@@ -84,10 +84,10 @@ def simulationNavigation(brain):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 sys.exit()
-        # Déplacement
+        # Deplacement
         budgetRestant[robot.center[0],robot.center[1]] = budget;
         robot.move(speed, width, height, walls);
-        # Réussite
+        # Reussite
         if finish.collidelist([robot]) != -1:
             print("Finish est atteint")
             break
@@ -110,9 +110,9 @@ def simulationNavigationSansImage(brain):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 sys.exit()
-        # Déplacement
+        # Deplacement
         robot.move(speed, width, height, walls);
-        # Réussite
+        # Reussite
         if finish.collidelist([robot]) != -1:
             print("Finish est atteint")
             break    
