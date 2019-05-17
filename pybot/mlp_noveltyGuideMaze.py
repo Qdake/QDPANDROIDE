@@ -17,7 +17,7 @@ def eval_genomes(population,generation,nb_run):
     f=open("resultat_{}ieme_run.out".format(nb_run),"w");
     taillePopulation =len(population);
     for i in range(generation):
-        if i%5 == 0:
+        if i%5 == 0 and i!=0:
             plotmaze(position,"resultat_{}ieme_run_{}_generation_image.rgba".format(nb_run,i))
         print(i,"ieme generation")
         pos = []

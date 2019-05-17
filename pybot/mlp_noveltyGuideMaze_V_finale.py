@@ -18,7 +18,7 @@ def butAtteint(position,start_time,f):
         f.write("position d'arete:",position);
         f.write("temps utilise: ",time.time-start_time);
         f.close();
-        plotmaze(position,"map_elite_resultat_{}ieme_run_final_image.png".format(nb_run))
+        plotmaze(position,"resultat_{}ieme_run_final_image.png".format(nb_run))
         return True;
     else:
         return False;
@@ -26,12 +26,10 @@ def butAtteint(position,start_time,f):
 def eval_genomes(population,generation,nb_run):
     global solution;
     start_time = time.time()
-    f=open("map_elite_resultat_{}ieme_run.out".format(nb_run),"w");
+    f=open("resultat_{}ieme_run.out".format(nb_run),"w");
     
     taillePopulation =len(population);
     for i in range(generation):
-        if i%5 == 0 and i!=0:
-            plotmaze(position,"map_elite_resultat_{}ieme_run_{}_generation_image.rgba".format(nb_run,i))
         print(i,"ieme generation")
         pos = []
         visitedPosition = set();
@@ -75,6 +73,11 @@ def eval_genomes(population,generation,nb_run):
             nextPopulation.append(individu3);
             nextPopulation.append(individu4);
         population = nextPopulation;
+        
+        #generation de graph
+        if i%5 == 0 and i!=0:
+            plotmaze(visitedPosition,"resultat_{}ieme_run_{}_generation_image.rgba".format(nb_run,i))
+
     
     
 
@@ -92,6 +95,8 @@ solution = None;
 
 from PIL import Image, ImageDraw;
 def plotmaze(position,filename):
+    """position:ensemble de toutes les positions atteintes par au moins un robot 
+    """
     h = 400;
     l = 200;
     o = (0,0)
