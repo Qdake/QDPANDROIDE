@@ -13,8 +13,8 @@ background_color = 255, 255, 255
 NbOfRobot = 1
 fps = 99
 debug = True
-budget = 100;
-speed = 10
+budget = 50;
+speed = 20
 radarRayon = 50
 # Creation des murs & choix du maze
 if maze == 1:

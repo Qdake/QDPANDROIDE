@@ -1,0 +1,25 @@
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+0 -ieme generation
+j= 0
+1 -ieme generation
+j= 1
+2 -ieme generation
+j= 2
+3 -ieme generation
+j= 3
+4 -ieme generation
+j= 4
+5 -ieme generation
+j= 5
+plotmaze, len(visitedPositions) = 823
+Traceback (most recent call last):
+  File "mlp_noveltyGuideMaze_V_finale.py", line 138, in <module>
+    eval_genomes(p,nb_generation,nb_run);
+  File "mlp_noveltyGuideMaze_V_finale.py", line 124, in eval_genomes
+    plotmaze(visitedPosition,"./result1805/result_probaMutation1sur100_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+  File "mlp_noveltyGuideMaze_V_finale.py", line 51, in plotmaze
+    img.save(filename);
+  File "/usr/local/lib/python3.5/dist-packages/PIL/Image.py", line 1947, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: './result1805/result_probaMutation1sur100_250000evaluations/noveltyGuideMaze_4_run_5_generation_image.png'

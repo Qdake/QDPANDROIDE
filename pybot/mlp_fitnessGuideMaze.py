@@ -15,14 +15,8 @@ from PIL import Image, ImageDraw;
 
 import time
 
-def butAtteint(position,start_time,nb_run):
-    if distc(position, robot.finish_position) < 10 :
-        f=open("./result_probaMutation1sur100_250000evaluations/fitnessGuideMaze_{}_run_resultat.out".format(nb_run),"w");
-        f.write("***********solution trouveeee****************\n");
-        f.write("position d'arete:",position);
-        f.write("temps utilise: ",time.time()-start_time);
-        f.close();
-        plotmaze(position,"./result_probaMutation1sur100_250000evaluations/fitnessGuideMaze_{}_run_final.png".format(nb_run))
+def butAtteint(positionFinale):
+    if distc(positionFinale, robot.finish_position) < 10 :
         return True;
     else:
         return False;
@@ -63,7 +57,6 @@ def plotmaze(visitedPositions,filename):
 
 def eval_genomes(population,generation,probMutation,nb_run):
     global solution;
-    start_time = time.time();
     taillePopulation =len(population);
     visitedPositions = set();
     for j in range(generation):
@@ -75,15 +68,16 @@ def eval_genomes(population,generation,probMutation,nb_run):
             #affichage de image
 #            positionFinale = robot.simulationNavigation(genome);
             positionFinale = robot.simulationNavigationSansImage(genome);
-            visitedPositions.add((positionFinale[0],positionFinale[1]));
+            visitedPositions.add(positionFinale);
             # evaluation
             pos.append(positionFinale);
             dis.append(10000-distc(positionFinale,robot.finish_position))
-            if butAtteint(positionFinale,start_time,genome):
+            if butAtteint(positionFinale):
+                plotmaze(visitedPositions,"./result1805/result_pb5sur100p01_250000evaluations/fitnessGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
                 return;   
         ### generer prochaine generation
         nextPopulation = [];      
-        distribution = rangementParQualite(p = 0.3,taille = taillePopulation);
+        distribution = rangementParQualite(p = 0.05,taille = taillePopulation);
         for i in range(taillePopulation//2):
             #selection
             individu1,individu2 = selection(population,dis,distribution); 
@@ -99,15 +93,15 @@ def eval_genomes(population,generation,probMutation,nb_run):
         
         ### plot
         #generation de graph
-        if j%5 == 0 and j!=0:
-            plotmaze(visitedPositions,"./result_probaMutation1sur100_250000evaluations/fitnessGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+        if j%50 == 0 and j!=0:
+            plotmaze(visitedPositions,"./result1805/result_pb5sur100p01_250000evaluations/fitnessGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
 
     
     
 
 ## main
 N = 250  #taille de population
-probMutation = 0.01 ## probabilite de mutation
+probMutation = 0.05 ## probabilite de mutation
 solution = None
 for nb_run in range(4,5):
     p = genererPopulation(N,[16,12,1])
