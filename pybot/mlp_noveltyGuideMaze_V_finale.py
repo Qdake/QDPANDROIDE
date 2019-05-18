@@ -13,6 +13,7 @@ from PIL import Image, ImageDraw;
 
 def butAtteint(positionFinale):
     if distc(positionFinale, robot.finish_position) < 10 :
+        print("**************goal atteint************************")
         return True;
     else:
         return False;   
@@ -73,9 +74,8 @@ def eval_genomes(population,generation,nb_run):
     global position
     k = 20; #nombre de voisins les plus proches
     visitedPosition = set();
-    taillePopulation =len(population);
     R = set();
-    for j in range(generation):
+    for j in range(1,generation+1):
         print(j,"-ieme generation")
         delta = 0;
         pos = []
@@ -101,8 +101,8 @@ def eval_genomes(population,generation,nb_run):
                 delta += 1;
             # verifier si le but est atteint
             if butAtteint(positionFinale):
-#                plotmaze(visitedPosition,"./result1805/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
-                plotmaze(visitedPosition,"./test/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
+                plotmaze(visitedPosition,"./result1805/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
+#                plotmaze(visitedPosition,"./test/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
                 return;    
             
             
@@ -114,8 +114,7 @@ def eval_genomes(population,generation,nb_run):
             heapq.heapify(distances);
             for p in R:
                 heapq.heappush(distances,distc(pos[i],p))
-            nouveaute[i] += sum(distances[0:k+1])
-#            print("distances: ",distances)
+            nouveaute[i] += sum([heapq.heappop(distances) for d in range(k+1)]);
 #            print("len(distance) :",len(distances))
 #            print("len(visitedPOsition) :",len(visitedPosition));
 #            print("positionFi ", pos[i]);
@@ -148,16 +147,14 @@ def eval_genomes(population,generation,nb_run):
         # adjuster la probabilite de mutatioin dynamiquement    
         if delta <20:
             probMutation += 0.005
+        print("prob mutation ",probMutation);
         
         #generation de graph
         print("j=", j);
-        if j%2 == 0 and j!=0:
-#            plotmaze(visitedPosition,"./result1805/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-            plotmaze(visitedPosition,"./test/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+        if j%50 == 0 and j!=0:
+            plotmaze(visitedPosition,"./result1805/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+#            plotmaze(visitedPosition,"./test/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
 
-    
-test_var1  = 1;
-test_var2  = 1;
 
 # a robot that finishes within five units of the goal counts as a solution
 N = 250 #taille population

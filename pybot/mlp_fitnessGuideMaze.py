@@ -60,7 +60,7 @@ def eval_genomes(population,generation,nb_run):
     taillePopulation =len(population);
     visitedPositions = set();
     for j in range(generation):
-        print(j,"ieme generation")
+        print(j,"-ieme generation")
         pos = []
         dis = []
         delta = 0;
