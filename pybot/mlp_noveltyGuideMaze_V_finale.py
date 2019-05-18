@@ -57,7 +57,24 @@ def plotmaze(visitedPositions,filename):
         draw.point(p,"red");
     #    draw.ellipse([(p[0],p[1]),(p[0]+2,p[1]+2)],fill = "red");
     img.save(filename);
-         
+    
+def les_k_plus_petits_elements(k,l):
+    t = l[:k];
+    for e in l[k:]:
+        x = None;
+        m = None
+        for i in range(len(t)):
+            if t[i]>e:
+                if x == None:
+                    x = i;
+                    m = t[i]
+                elif t[i]>m:
+                    x = i;
+                    m = t[i]
+        if x != None:
+            t[x] = m;
+            
+
 def eval_genomes(population,generation,nb_run):
     global solution;
     global probMutation
