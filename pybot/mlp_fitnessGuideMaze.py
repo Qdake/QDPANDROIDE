@@ -17,12 +17,12 @@ import time
 
 def butAtteint(position,start_time,nb_run):
     if distc(position, robot.finish_position) < 10 :
-        f=open("./result/fitnessGuideMaze_{}_run_resultat.out".format(nb_run),"w");
+        f=open("./result_probaMutation1sur100_250000evaluations/fitnessGuideMaze_{}_run_resultat.out".format(nb_run),"w");
         f.write("***********solution trouveeee****************\n");
         f.write("position d'arete:",position);
         f.write("temps utilise: ",time.time()-start_time);
         f.close();
-        plotmaze(position,"./result/fitnessGuideMaze_{}_run_final.png".format(nb_run))
+        plotmaze(position,"./result_probaMutation1sur100_250000evaluations/fitnessGuideMaze_{}_run_final.png".format(nb_run))
         return True;
     else:
         return False;
@@ -99,16 +99,16 @@ def eval_genomes(population,generation,probMutation,nb_run):
         
         ### plot
         #generation de graph
-        if j%2 == 0 and j!=0:
-            plotmaze(visitedPositions,"./result/fitnessGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+        if j%5 == 0 and j!=0:
+            plotmaze(visitedPositions,"./result_probaMutation1sur100_250000evaluations/fitnessGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
 
     
     
 
 ## main
-N = 250  #nombre de generation
-probMutation = 0.005 ## probabilite de mutation
+N = 250  #taille de population
+probMutation = 0.01 ## probabilite de mutation
 solution = None
-for nb_run in range(5):
+for nb_run in range(4,5):
     p = genererPopulation(N,[16,12,1])
-    eval_genomes(p,20,probMutation,nb_run);
+    eval_genomes(p,1000,probMutation,nb_run);
