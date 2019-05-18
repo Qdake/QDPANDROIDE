@@ -11,11 +11,6 @@ from collide import distc
 from Mlp import Mlp,genererPopulation,mutation,croissement,rangementParQualite,selection
 from PIL import Image, ImageDraw;
 
-def butAtteint(positionFinale):
-    if distc(positionFinale, robot.finish_position) < 10 :
-        return True;
-    else:
-        return False;
     
 def plotmaze(visitedPositions,filename):
     """position:ensemble de toutes les positions atteintes par au moins un robot 

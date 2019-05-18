@@ -5,28 +5,36 @@ Created on Tue Apr  9 10:50:10 2019
 
 @author: qiu
 """
+import random
 import heapq
 import main as robot
 from collide import distc
 import time
 from Mlp import Mlp,genererPopulation,mutation,croissement,rangementParQualite,selection
 from PIL import Image, ImageDraw;
-def butAtteint(position,start_time,nb_run):
-    if distc(position, robot.finish_position) < 10 :
-#        f=open("./result/noveltyGuideMaze_{}_run_resultat.out".format(nb_run),"w");
-        f=open("./test_result/NS_mapElite_Maze_{}_run_resultat.out".format(nb_run),"w");
-        print("***********solution trouveeee****************\n");
-        f.write("***********solution trouveeee****************\n");
-        f.write("position d'arete:",position);
-        f.write("temps utilise: ",time.time()-start_time);
-        f.close();
-#        plotmaze(position,"./result/noveltyGuideMaze_{}_run_final.png".format(nb_run))
-        plotmaze(position,"./test_result/NS_mapElite_Maze_{}_run_final.png".format(nb_run))
+
+def butAtteint(positionFinale):
+    if distc(positionFinale, robot.finish_position) < 10 :
         return True;
     else:
         return False;
-    
-    
+def les_k_plus_petits_elements(k,l):
+    t = l[:k];
+    for e in l[k:]:
+        x = None;
+        m = None
+        for i in range(len(t)):
+            if t[i]>e:
+                if x == None:
+                    x = i;
+                    m = t[i]
+                elif t[i]>m:
+                    x = i;
+                    m = t[i]
+        if x != None:
+            t[x] = e;
+    return t;
+
 def plotmaze(visitedPositions,filename):
     """position:ensemble de toutes les positions atteintes par au moins un robot 
     """
@@ -62,13 +70,25 @@ def plotmaze(visitedPositions,filename):
          
 def eval_genomes(nb_run):
     global size_layers;
-    B = 250
+    
+    visitedPosition = set();
+    X = [[None for i in range(400)] for j in range(200)]
+    P = [[0 for]]
     
     #generate and evaluate B random genomes
-    P = [Mlp(size_layers) for i in range(B)];
-    for genome in P:
-        positionFinale = robot.simulationNavigationSansImage(genome);
-        
+    B = [Mlp(size_layers) for i in range(250)];
+    pos = [robot.simulationNavigationSansImage(genome) for genome in P];
+    for genome,position in zip(P,pos):
+        if position not in visitedPosition:
+            visitedPosition.add(position);
+            X[position[0]][position[1]] = genome;
+        else:
+            if random.randint(0,1) == 1:
+                X[position[0]][position[1]] = genome;
+    
+    for generation in range(1000):
+                
+      
     
     
     
