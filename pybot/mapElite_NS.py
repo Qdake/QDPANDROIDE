@@ -103,8 +103,8 @@ def eval_genomes(nb_run):
     visitedPosition = set();
     R = set();
     
-    #generate and evaluate B random genomes
-    B = [Mlp(size_layers) for i in range(250)];
+    #generate and evaluate B random genomes initiales
+    B = [Mlp(size_layers) for i in range(1000)]; 
     pos = [robot.simulationNavigationSansImage(genome) for genome in B];
     for genome,position in zip(B,pos):
         R.add(position)
@@ -117,7 +117,7 @@ def eval_genomes(nb_run):
             
     for generation in range(1000):
         # choisir 250 genomes dans la population par rapport a sa nouveaute
-        positions = select_k_position(50,nouveaute_position);
+        positions = select_k_position(250,nouveaute_position);
         B = [X[position[0]][position[1]] for position in positions];
         # mutation pour generer leurs enfants
         B = [mutation(genome,1) for genome in B];
@@ -133,12 +133,12 @@ def eval_genomes(nb_run):
         for position in visitedPosition:
             nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
         # calculer nouveaute pour tout genome dans le list R
-        if len(R)>500:
+        if len(R)>1250:  #250*5
             l = [];
             for position in R:
                 nvt = sum(les_k_plus_petits_elements(20,[distc(position,i) for i in visitedPosition]))
                 l.append([position,nvt]);
-            R =set([i[0] for i in sorted(l,key=lambda x :-x[1])[:500]]) ;
+            R =set([i[0] for i in sorted(l,key=lambda x :-x[1])[:1250]]) ;
         print("len(R) ",len(R))
         #generation de graph
         print("generation = ",generation );
