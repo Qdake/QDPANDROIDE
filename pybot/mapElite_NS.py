@@ -12,6 +12,23 @@ from collide import distc
 import time
 from Mlp import Mlp,genererPopulation,mutation,croissement,rangementParQualite,selection
 from PIL import Image, ImageDraw;
+import numpy as np
+import heapq
+
+class MyHeap(object):
+   def __init__(self, initial=None, key=lambda x:x):
+       self.key = key
+       if initial:
+           self._data = [(key(item), item) for item in initial]
+           heapq.heapify(self._data)
+       else:
+           self._data = []
+
+   def push(self, item):
+       heapq.heappush(self._data, (self.key(item), item))
+
+   def pop(self):
+       return heapq.heappop(self._data)[1]
 
 def butAtteint(positionFinale):
     if distc(positionFinale, robot.finish_position) < 10 :
@@ -67,102 +84,67 @@ def plotmaze(visitedPositions,filename):
         draw.point(p,"red");
     #    draw.ellipse([(p[0],p[1]),(p[0]+2,p[1]+2)],fill = "red");
     img.save(filename);
-         
+
+def select_k_position(k,position_nouveaute):
+#    print("test2")
+    positions =[i[0] for i in sorted(position_nouveaute,key = lambda x:x[1])];
+#    print(positions);
+#    print("test 1");
+    distribution = rangementParQualite(0.1,len(positions))
+#    print("test 3");
+#    print(distribution)
+    r = np.random.choice(len(positions),k,replace=False,p=distribution);
+    r = [positions[i] for i in r];
+    return r;
 def eval_genomes(nb_run):
-    global size_layers;
+    size_layers = (16,12,1);
     
+    X = [[None for i in range(200)] for j in range(400)]
     visitedPosition = set();
-    X = [[None for i in range(400)] for j in range(200)]
-    P = [[0 for]]
+    R = set();
     
     #generate and evaluate B random genomes
     B = [Mlp(size_layers) for i in range(250)];
-    pos = [robot.simulationNavigationSansImage(genome) for genome in P];
-    for genome,position in zip(P,pos):
-        if position not in visitedPosition:
-            visitedPosition.add(position);
-            X[position[0]][position[1]] = genome;
-        else:
-            if random.randint(0,1) == 1:
-                X[position[0]][position[1]] = genome;
+    pos = [robot.simulationNavigationSansImage(genome) for genome in B];
+    for genome,position in zip(B,pos):
+        R.add(position)
+        X[position[0]][position[1]] = genome;
+        visitedPosition.add(position);
     
+    nouveaute_position = [];
+    for position in visitedPosition:
+        nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
+            
     for generation in range(1000):
-                
-      
-    
-    
-    
-    
-    global solution;
-    global probMutation
-    global position
-    k = 20; #nombre de voisins les plus proches
-    start_time = time.time()
-    visitedPosition = set();
-    taillePopulation =len(population);
-    for j in range(generation):
-        print(j,"-ieme generation")
-        pos = []
-        nouveaute = []
-        ### evaluate population and add into archive of past behaviors
-        for genome in population:
-            #affichage de image
-#            positionFinale = robot.simulationNavigation(genome);
-            positionFinale = robot.simulationNavigationSansImage(genome);
-            # ajouter la positionFinale dans l'ensemble de positions visitees par la population
-            pos.append(positionFinale);
-            # MAJ de nouveaute
-            if (positionFinale[0],positionFinale[1]) not in visitedPosition:
-                nouveaute.append(10000)
-            else:
-                nouveaute.append(0);
-            
-            # ajouter la positionFinale dans l'ensemble de positions visitees
-            visitedPosition.add((positionFinale[0],positionFinale[1]));
-            # verifier si le but est atteint
-            if butAtteint(positionFinale,start_time,nb_run):
-                return;            
-            
-            
-        ### calculer le nouveaute par rapport a ses distances avec les voisins pour chaque genome dans la population
-#        print("visitedPosition: ",visitedPosition);
-        for i in range(len(population)):
-            #calculer les distances entre cette position et toutes les autres positions visitees
-            distances = [];
-            heapq.heapify(distances);
-            for p in visitedPosition:
-                heapq.heappush(distances,distc(pos[i],p))
-            nouveaute[i] += sum(distances[0:k+1])
-#            print("distances: ",distances)
-#            print("len(distance) :",len(distances))
-#            print("len(visitedPOsitions) :",len(visitedPosition));
-#            print("positionFi ", pos[i]);
-#            print("pos[i] nouveaute: ",nouveaute[i]);
-#        print("nouveaute: ",nouveaute) 
-#        print("pos : ",pos);
-        
-        ### generer prochaine generation
-        nextPopulation = [];      
-        distribution = rangementParQualite(p = 0.3,taille = taillePopulation);
-        for i in range(taillePopulation//2):
-            #selection
-            individu1,individu2 = selection(population,nouveaute,distribution); 
-            #croisement
-            individu3,individu4 = croissement(individu1,individu2);
-            #mutation
-            individu3 = mutation(individu3,probMutation);
-            individu4 = mutation(individu4,probMutation);
-            #ajouter dans la prochaine population
-            nextPopulation.append(individu3);
-            nextPopulation.append(individu4);
-        population = nextPopulation;
-        
-        
+        # choisir 250 genomes dans la population par rapport a sa nouveaute
+        positions = select_k_position(50,nouveaute_position);
+        B = [X[position[0]][position[1]] for position in positions];
+        # mutation pour generer leurs enfants
+        B = [mutation(genome,1) for genome in B];
+        # evaluer les genomes
+        pos = [robot.simulationNavigationSansImage(genome) for genome in B];
+        # ajouter dans les grid et la list de positions  visitees dans le passe
+        for genome,position in zip(B,pos):
+            R.add(position)
+            X[position[0]][position[1]] = genome;
+            visitedPosition.add(position);
+            nouveaute_position = [];
+        # calculer nouveaute pour tout genome de la population
+        for position in visitedPosition:
+            nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
+        # calculer nouveaute pour tout genome dans le list R
+        if len(R)>500:
+            l = [];
+            for position in R:
+                nvt = sum(les_k_plus_petits_elements(20,[distc(position,i) for i in visitedPosition]))
+                l.append([position,nvt]);
+            R =set([i[0] for i in sorted(l,key=lambda x :-x[1])[:500]]) ;
+        print("len(R) ",len(R))
         #generation de graph
-        print("j=", j);
-        if j%5 == 0 and j!=0:
+        print("generation = ",generation );
+        if generation%3 == 0 and generation!=0:
 #            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-            plotmaze(visitedPosition,"./test_result/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,j))
+            plotmaze(visitedPosition,"./result1805/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
 
 for nb_run in range(1):
     eval_genomes(nb_run);
