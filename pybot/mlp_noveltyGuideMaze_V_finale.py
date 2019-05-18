@@ -17,10 +17,10 @@ def butAtteint(positionFinale):
     else:
         return False;
     
-def plotmaze(visitedPositions,filename):
+def plotmaze(visitedPosition,filename):
     """position:ensemble de toutes les positions atteintes par au moins un robot 
     """
-    print("plotmaze, len(visitedPositions) =",len(visitedPositions));
+    print("plotmaze, len(visitedPosition) =",len(visitedPosition));
     h = 400;
     l = 200;
     o = (0,0)
@@ -45,7 +45,7 @@ def plotmaze(visitedPositions,filename):
     #img.show()
     
     
-    for p in visitedPositions:
+    for p in visitedPosition:
         draw.point(p,"red");
     #    draw.ellipse([(p[0],p[1]),(p[0]+2,p[1]+2)],fill = "red");
     img.save(filename);
@@ -61,6 +61,7 @@ def eval_genomes(population,generation,nb_run):
     taillePopulation =len(population);
     for j in range(generation):
         print(j,"-ieme generation")
+        delta = 0;
         pos = []
         nouveaute = []
         ### evaluate population and add into archive of past behaviors
@@ -77,10 +78,12 @@ def eval_genomes(population,generation,nb_run):
                 nouveaute.append(0);
             
             # ajouter la positionFinale dans l'ensemble de positions visitees
-            visitedPosition.add((positionFinale[0],positionFinale[1]));
+            if positionFinale not in visitedPosition:
+                visitedPosition.add(positionFinale);
+                delta += 1;
             # verifier si le but est atteint
             if butAtteint(positionFinale):
-                plotmaze(visitedPosition,"./result1805/result_pb5sur100p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
+                plotmaze(visitedPosition,"./result1805/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
                 return;    
             
             
@@ -95,7 +98,7 @@ def eval_genomes(population,generation,nb_run):
             nouveaute[i] += sum(distances[0:k+1])
 #            print("distances: ",distances)
 #            print("len(distance) :",len(distances))
-#            print("len(visitedPOsitions) :",len(visitedPosition));
+#            print("len(visitedPOsition) :",len(visitedPosition));
 #            print("positionFi ", pos[i]);
 #            print("pos[i] nouveaute: ",nouveaute[i]);
 #        print("nouveaute: ",nouveaute) 
@@ -103,7 +106,7 @@ def eval_genomes(population,generation,nb_run):
         
         ### generer prochaine generation
         nextPopulation = [];      
-        distribution = rangementParQualite(p = 0.05,taille = taillePopulation);
+        distribution = rangementParQualite(p = 0.1,taille = taillePopulation);
         for i in range(taillePopulation//2):
             #selection
             individu1,individu2 = selection(population,nouveaute,distribution); 
@@ -116,12 +119,13 @@ def eval_genomes(population,generation,nb_run):
             nextPopulation.append(individu3);
             nextPopulation.append(individu4);
         population = nextPopulation;
-        
+        if delta <20:
+            probMutation += 0.005
         
         #generation de graph
         print("j=", j);
         if j%50 == 0 and j!=0:
-            plotmaze(visitedPosition,"./result1805/result_pb5sur100p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+            plotmaze(visitedPosition,"./result1805/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
 #            plotmaze(visitedPosition,"./test_result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
 
     
@@ -131,8 +135,8 @@ test_var2  = 1;
 # a robot that finishes within five units of the goal counts as a solution
 N = 250 #taille population
 p = genererPopulation(N,[16,12,1])
-probMutation = 0.05
+probMutation = 0.005
 nb_generation = 1000
-for nb_run in range(4,5):
+for nb_run in range(1,2):
     position = [];
     eval_genomes(p,nb_generation,nb_run);
