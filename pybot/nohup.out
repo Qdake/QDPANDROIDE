@@ -23,3 +23,248 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.5/dist-packages/PIL/Image.py", line 1947, in save
     fp = builtins.open(filename, "w+b")
 FileNotFoundError: [Errno 2] No such file or directory: './result1805/result_probaMutation1sur100_250000evaluations/noveltyGuideMaze_4_run_5_generation_image.png'
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+len(visitedPosition)  718
+generation =  0
+len(visitedPosition)  843
+generation =  1
+plotmaze, len(visitedPositions) = 843
+len(visitedPosition)  945
+generation =  2
+plotmaze, len(visitedPositions) = 945
+len(visitedPosition)  1044
+generation =  3
+plotmaze, len(visitedPositions) = 1044
+len(visitedPosition)  1141
+generation =  4
+plotmaze, len(visitedPositions) = 1141
+len(visitedPosition)  1232
+generation =  5
+plotmaze, len(visitedPositions) = 1232
+len(visitedPosition)  1328
+generation =  6
+plotmaze, len(visitedPositions) = 1328
+len(visitedPosition)  1415
+generation =  7
+plotmaze, len(visitedPositions) = 1415
+len(visitedPosition)  1496
+generation =  8
+plotmaze, len(visitedPositions) = 1496
+Traceback (most recent call last):
+  File "mapElite_NS.py", line 153, in <module>
+    eval_genomes(nb_run);
+  File "mapElite_NS.py", line 124, in eval_genomes
+    pos = [robot.simulationNavigationSansImage(genome) for genome in B];
+  File "mapElite_NS.py", line 124, in <listcomp>
+    pos = [robot.simulationNavigationSansImage(genome) for genome in B];
+  File "/home/qi/documents/QDPANDROIDE/pybot/main.py", line 115, in simulationNavigationSansImage
+    robot.move(speed, width, height, walls);
+  File "/home/qi/documents/QDPANDROIDE/pybot/robot.py", line 20, in move
+    angle = self.brain.predict(self.perception(walls))*360
+  File "/home/qi/documents/QDPANDROIDE/pybot/robot.py", line 100, in perception
+    sensordata = self.sensor(walls)
+  File "/home/qi/documents/QDPANDROIDE/pybot/robot.py", line 45, in sensor
+    poss.append(self.sensorX(walls, angle))
+  File "/home/qi/documents/QDPANDROIDE/pybot/robot.py", line 58, in sensorX
+    if p[0] >= a[0] and p[0] <= b[0] and p[1] <= b[1] and p[1] >= a[1]:
+KeyboardInterrupt
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+len(visitedPosition)  751
+generation =  1
+len(visitedPosition)  871
+generation =  2
+len(visitedPosition)  989
+generation =  3
+len(visitedPosition)  1093
+generation =  4
+len(visitedPosition)  1185
+generation =  5
+len(visitedPosition)  1291
+generation =  6
+len(visitedPosition)  1375
+generation =  7
+len(visitedPosition)  1465
+generation =  8
+len(visitedPosition)  1544
+generation =  9
+len(visitedPosition)  1633
+generation =  10
+len(visitedPosition)  1721
+generation =  11
+len(visitedPosition)  1817
+generation =  12
+len(visitedPosition)  1900
+generation =  13
+len(visitedPosition)  1989
+generation =  14
+len(visitedPosition)  2068
+generation =  15
+len(visitedPosition)  2137
+generation =  16
+len(visitedPosition)  2214
+generation =  17
+len(visitedPosition)  2295
+generation =  18
+len(visitedPosition)  2384
+generation =  19
+len(visitedPosition)  2450
+generation =  20
+len(visitedPosition)  2519
+generation =  21
+len(visitedPosition)  2590
+generation =  22
+len(visitedPosition)  2643
+generation =  23
+len(visitedPosition)  2698
+generation =  24
+len(visitedPosition)  2754
+generation =  25
+len(visitedPosition)  2800
+generation =  26
+Traceback (most recent call last):
+  File "mapElite_NS.py", line 153, in <module>
+    eval_genomes(nb_run);
+  File "mapElite_NS.py", line 137, in eval_genomes
+    nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
+  File "mapElite_NS.py", line 42, in les_k_plus_petits_elements
+    for i in range(len(t)):
+KeyboardInterrupt
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+1 -ieme generation
+prob mutation  0.005
+j= 1
+2 -ieme generation
+prob mutation  0.005
+j= 2
+3 -ieme generation
+prob mutation  0.005
+j= 3
+4 -ieme generation
+prob mutation  0.005
+j= 4
+5 -ieme generation
+prob mutation  0.005
+j= 5
+6 -ieme generation
+prob mutation  0.005
+j= 6
+7 -ieme generation
+prob mutation  0.005
+j= 7
+8 -ieme generation
+prob mutation  0.005
+j= 8
+9 -ieme generation
+prob mutation  0.005
+j= 9
+10 -ieme generation
+prob mutation  0.005
+j= 10
+11 -ieme generation
+prob mutation  0.005
+j= 11
+12 -ieme generation
+prob mutation  0.005
+j= 12
+13 -ieme generation
+prob mutation  0.005
+j= 13
+14 -ieme generation
+prob mutation  0.005
+j= 14
+15 -ieme generation
+prob mutation  0.005
+j= 15
+16 -ieme generation
+prob mutation  0.005
+j= 16
+17 -ieme generation
+prob mutation  0.005
+j= 17
+18 -ieme generation
+prob mutation  0.005
+j= 18
+19 -ieme generation
+prob mutation  0.005
+j= 19
+20 -ieme generation
+prob mutation  0.005
+j= 20
+21 -ieme generation
+prob mutation  0.005
+j= 21
+22 -ieme generation
+prob mutation  0.005
+j= 22
+23 -ieme generation
+prob mutation  0.005
+j= 23
+24 -ieme generation
+prob mutation  0.005
+j= 24
+25 -ieme generation
+prob mutation  0.005
+j= 25
+26 -ieme generation
+prob mutation  0.005
+j= 26
+27 -ieme generation
+prob mutation  0.005
+j= 27
+28 -ieme generation
+prob mutation  0.005
+j= 28
+29 -ieme generation
+prob mutation  0.005
+j= 29
+30 -ieme generation
+prob mutation  0.005
+j= 30
+31 -ieme generation
+prob mutation  0.01
+j= 31
+32 -ieme generation
+prob mutation  0.01
+j= 32
+33 -ieme generation
+prob mutation  0.01
+j= 33
+34 -ieme generation
+prob mutation  0.01
+j= 34
+35 -ieme generation
+prob mutation  0.01
+j= 35
+36 -ieme generation
+prob mutation  0.01
+j= 36
+37 -ieme generation
+prob mutation  0.01
+j= 37
+38 -ieme generation
+prob mutation  0.01
+j= 38
+39 -ieme generation
+prob mutation  0.015
+j= 39
+40 -ieme generation
+prob mutation  0.015
+j= 40
+41 -ieme generation
+prob mutation  0.02
+j= 41
+42 -ieme generation
+prob mutation  0.025
+j= 42
+43 -ieme generation
+Traceback (most recent call last):
+  File "mlp_noveltyGuideMaze_V_finale.py", line 166, in <module>
+    eval_genomes(p,nb_generation,nb_run);
+  File "mlp_noveltyGuideMaze_V_finale.py", line 144, in eval_genomes
+    nvt = sum(les_k_plus_petits_elements(20,[distc(position,i) for i in visitedPosition]))
+  File "mlp_noveltyGuideMaze_V_finale.py", line 59, in les_k_plus_petits_elements
+    if t[i]>e:
+KeyboardInterrupt

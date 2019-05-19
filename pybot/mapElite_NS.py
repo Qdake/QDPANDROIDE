@@ -5,11 +5,9 @@ Created on Tue Apr  9 10:50:10 2019
 
 @author: qiu
 """
-import random
-import heapq
+
 import main as robot
 from collide import distc
-import time
 from Mlp import Mlp,genererPopulation,mutation,croissement,rangementParQualite,selection
 from PIL import Image, ImageDraw;
 import numpy as np
@@ -32,6 +30,7 @@ class MyHeap(object):
 
 def butAtteint(positionFinale):
     if distc(positionFinale, robot.finish_position) < 10 :
+        print("**************goal atteint************************")
         return True;
     else:
         return False;
@@ -114,7 +113,7 @@ def eval_genomes(nb_run):
     for position in visitedPosition:
         nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
             
-    for generation in range(1000):
+    for generation in range(1,1001):
         # choisir 250 genomes dans la population par rapport a sa nouveaute
         positions = select_k_position(250,nouveaute_position);
         B = [X[position[0]][position[1]] for position in positions];
@@ -128,6 +127,10 @@ def eval_genomes(nb_run):
             X[position[0]][position[1]] = genome;
             visitedPosition.add(position);
             nouveaute_position = [];
+            # si le goal est atteint
+            if butAtteint(position):
+                plotmaze(visitedPosition,"./result1805/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
+                return;
         # calculer nouveaute pour tout genome de la population
         for position in visitedPosition:
             nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
@@ -138,10 +141,10 @@ def eval_genomes(nb_run):
                 nvt = sum(les_k_plus_petits_elements(20,[distc(position,i) for i in visitedPosition]))
                 l.append([position,nvt]);
             R =set([i[0] for i in sorted(l,key=lambda x :-x[1])[:1250]]) ;
-        print("len(R) ",len(R))
+        print("len(visitedPosition) ",len(visitedPosition))
         #generation de graph
         print("generation = ",generation );
-        if generation%3 == 0 and generation!=0:
+        if generation%50 == 0 and generation!=0:
 #            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
             plotmaze(visitedPosition,"./result1805/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
 
