@@ -129,7 +129,7 @@ def eval_genomes(nb_run):
             nouveaute_position = [];
             # si le goal est atteint
             if butAtteint(position):
-                plotmaze(visitedPosition,"./result1805/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
+                plotmaze(visitedPosition,"./result1905/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
                 return;
         # calculer nouveaute pour tout genome de la population
         for position in visitedPosition:
@@ -146,7 +146,7 @@ def eval_genomes(nb_run):
         print("generation = ",generation );
         if generation%50 == 0 and generation!=0:
 #            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-            plotmaze(visitedPosition,"./result1805/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
+            plotmaze(visitedPosition,"./result1905/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
 
 for nb_run in range(1):
     eval_genomes(nb_run);
