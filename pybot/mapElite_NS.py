@@ -94,6 +94,7 @@ def select_k_position(k,position_nouveaute):
     r = np.random.choice(len(positions),k,replace=False,p=distribution);
     r = [positions[i] for i in r];
     return r;
+
 def eval_genomes(nb_run):
     size_layers = (16,12,1);
     
