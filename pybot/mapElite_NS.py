@@ -86,13 +86,11 @@ def plotmaze(visitedPositions,filename):
     img.save(filename);
 
 def select_k_position(k,position_nouveaute):
-#    print("test2")
-    positions =[i[0] for i in sorted(position_nouveaute,key = lambda x:x[1])];
-#    print(positions);
-#    print("test 1");
+    # ordonner la liste de toutes les positions par nouveaute decroissante
+    positions =[i[0] for i in list(reversed(sorted(position_nouveaute,key = lambda x:x[1])))];
+    # generer la distribution de selection
     distribution = rangementParQualite(0.1,len(positions))
-#    print("test 3");
-#    print(distribution)
+    # choisir les k positions de nouveante les plus elevees
     r = np.random.choice(len(positions),k,replace=False,p=distribution);
     r = [positions[i] for i in r];
     return r;
