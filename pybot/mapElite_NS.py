@@ -93,8 +93,22 @@ def select_k_position(k,position_nouveaute):
     r = np.random.choice(len(positions),k,replace=False,p=distribution);
     r = [positions[i] for i in r];
     return r;
-
+def varier(B):
+    global probMutation;
+    r = [];
+    for i in range(len(B)):
+        individu1= B[2*i];
+        individu2 = B[2*i+1];
+        individu3,individu4 = croissement(individu1,individu2);
+        #mutation
+        individu3 = mutation(individu3,probMutation);
+        individu4 = mutation(individu4,probMutation);
+        #ajouter dans la prochaine population
+        r.append(individu3);
+        r.append(individu4);
+    return r;
 def eval_genomes(nb_run):
+    global probMutation;
     size_layers = (16,12,1);
     
     X = [[None for i in range(200)] for j in range(400)]
@@ -114,6 +128,8 @@ def eval_genomes(nb_run):
         nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
             
     for generation in range(1,1001):
+        
+        delta = 0;
         # choisir 250 genomes dans la population par rapport a sa nouveaute
         positions = select_k_position(250,nouveaute_position);
         B = [X[position[0]][position[1]] for position in positions];
@@ -125,12 +141,15 @@ def eval_genomes(nb_run):
         for genome,position in zip(B,pos):
             R.add(position)
             X[position[0]][position[1]] = genome;
-            visitedPosition.add(position);
-            nouveaute_position = [];
+            # ajouter la positionFinale dans l'ensemble de positions visitees
+            if position not in visitedPosition:
+                visitedPosition.add(position);
+                delta += 1;
             # si le goal est atteint
             if butAtteint(position):
                 plotmaze(visitedPosition,"./result1905/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
                 return;
+        nouveaute_position = [];
         # calculer nouveaute pour tout genome de la population
         for position in visitedPosition:
             nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
@@ -147,6 +166,9 @@ def eval_genomes(nb_run):
         if generation%50 == 0 and generation!=0:
 #            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
             plotmaze(visitedPosition,"./result1905/result_NS_plus_mapelite/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
-
+        if delta <20:
+            probMutation += 0.005
+        print("prob mutation ",probMutation);
+probMutation = 0.005
 for nb_run in range(1):
     eval_genomes(nb_run);
