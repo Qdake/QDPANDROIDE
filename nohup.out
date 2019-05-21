@@ -1,7 +1,0 @@
-fatal: unable to access 'https://github.com/Qdake/QDPANDROIDE.git/': Failed to connect to github.com port 443: Connexion terminée par expiration du délai d'attente
-Spyder is already running. If you want to open a new 
-instance, please pass to it the --new-instance option
-[14794:14794:0518/191925.335521:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
-[14794:14794:0518/191925.435745:ERROR:child_process_launcher.cc(522)] Failed to launch child process
-[14794:14794:0518/191925.453584:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
-[14794:14794:0518/191927.145624:ERROR:child_process_launcher.cc(522)] Failed to launch child process
