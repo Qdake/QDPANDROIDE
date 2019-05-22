@@ -89,6 +89,8 @@ def varier(B):
     return r;
 def eval_genomes(nb_run):
     global probMutation;
+    dis = 10000;
+    f = open("./rf/NS_mapElite_Maze_{}_run.txt".format(nb_run),"w");
     size_layers = (16,12,1);
     
     X = [[None for i in range(200)] for j in range(400)]
@@ -108,7 +110,7 @@ def eval_genomes(nb_run):
     for position in visitedPosition:
         nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
             
-    for generation in range(1,1001):
+    for generation in range(1,401):
         
         delta = 0;
         # choisir 250 genomes dans la population par rapport a sa nouveaute
@@ -128,8 +130,11 @@ def eval_genomes(nb_run):
                 delta += 1;
                 # si le goal est atteint
                 if butAtteint(position):
-                    plotmaze(visitedPosition,"./result2005/result_NS_plus_mapelite_croissement/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
+                    plotmaze(visitedPosition,"./rf/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
                     return;
+                if distc(position,robot.finish_position)<dis:
+                    dis = distc(position,robot.finish_position);
+                f.write(str(dis)+"\n");
         nouveaute_position = [];
         # calculer nouveaute pour tout genome de la population
         for position in visitedPosition:
@@ -146,10 +151,11 @@ def eval_genomes(nb_run):
         print("generation = ",generation );
         if generation%5 == 0 and generation!=0:
 #            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-            plotmaze(visitedPosition,"./result2005/result_NS_plus_mapelite_croissement/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
+            plotmaze(visitedPosition,"./rf/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
         if delta <20:
             probMutation += 0.01
         print("prob mutation ",probMutation);
+    f.close();
 probMutation = 0.01
-for nb_run in range(1):
+for nb_run in range(4,6):
     eval_genomes(nb_run);

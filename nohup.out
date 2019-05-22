@@ -1,0 +1,6603 @@
+pygame 2.0.0.dev0 (SDL 1.2.15, python 3.6.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+len(visitedPosition)  735
+generation =  1
+prob mutation  0.01
+len(visitedPosition)  865
+generation =  2
+prob mutation  0.01
+len(visitedPosition)  969
+generation =  3
+prob mutation  0.01
+len(visitedPosition)  1068
+generation =  4
+prob mutation  0.01
+len(visitedPosition)  1169
+generation =  5
+plotmaze, len(visitedPositions) = 1169
+prob mutation  0.01
+len(visitedPosition)  1280
+generation =  6
+prob mutation  0.01
+len(visitedPosition)  1369
+generation =  7
+prob mutation  0.01
+len(visitedPosition)  1455
+generation =  8
+prob mutation  0.01
+len(visitedPosition)  1540
+generation =  9
+prob mutation  0.01
+len(visitedPosition)  1629
+generation =  10
+plotmaze, len(visitedPositions) = 1629
+prob mutation  0.01
+len(visitedPosition)  1702
+generation =  11
+prob mutation  0.01
+len(visitedPosition)  1783
+generation =  12
+prob mutation  0.01
+len(visitedPosition)  1847
+generation =  13
+prob mutation  0.01
+len(visitedPosition)  1916
+generation =  14
+prob mutation  0.01
+len(visitedPosition)  1981
+generation =  15
+plotmaze, len(visitedPositions) = 1981
+prob mutation  0.01
+len(visitedPosition)  2058
+generation =  16
+prob mutation  0.01
+len(visitedPosition)  2113
+generation =  17
+prob mutation  0.01
+len(visitedPosition)  2179
+generation =  18
+prob mutation  0.01
+len(visitedPosition)  2237
+generation =  19
+prob mutation  0.01
+len(visitedPosition)  2284
+generation =  20
+plotmaze, len(visitedPositions) = 2284
+prob mutation  0.01
+len(visitedPosition)  2333
+generation =  21
+prob mutation  0.01
+len(visitedPosition)  2385
+generation =  22
+prob mutation  0.01
+len(visitedPosition)  2435
+generation =  23
+prob mutation  0.01
+len(visitedPosition)  2498
+generation =  24
+prob mutation  0.01
+len(visitedPosition)  2551
+generation =  25
+plotmaze, len(visitedPositions) = 2551
+prob mutation  0.01
+len(visitedPosition)  2601
+generation =  26
+prob mutation  0.01
+len(visitedPosition)  2658
+generation =  27
+prob mutation  0.01
+len(visitedPosition)  2701
+generation =  28
+prob mutation  0.01
+len(visitedPosition)  2741
+generation =  29
+prob mutation  0.01
+len(visitedPosition)  2778
+generation =  30
+plotmaze, len(visitedPositions) = 2778
+prob mutation  0.01
+len(visitedPosition)  2828
+generation =  31
+prob mutation  0.01
+len(visitedPosition)  2879
+generation =  32
+prob mutation  0.01
+len(visitedPosition)  2915
+generation =  33
+prob mutation  0.01
+len(visitedPosition)  2967
+generation =  34
+prob mutation  0.01
+len(visitedPosition)  3002
+generation =  35
+plotmaze, len(visitedPositions) = 3002
+prob mutation  0.01
+len(visitedPosition)  3052
+generation =  36
+prob mutation  0.01
+len(visitedPosition)  3091
+generation =  37
+prob mutation  0.01
+len(visitedPosition)  3136
+generation =  38
+prob mutation  0.01
+len(visitedPosition)  3172
+generation =  39
+prob mutation  0.01
+len(visitedPosition)  3203
+generation =  40
+plotmaze, len(visitedPositions) = 3203
+prob mutation  0.01
+len(visitedPosition)  3240
+generation =  41
+prob mutation  0.01
+len(visitedPosition)  3276
+generation =  42
+prob mutation  0.01
+len(visitedPosition)  3305
+generation =  43
+prob mutation  0.01
+len(visitedPosition)  3341
+generation =  44
+prob mutation  0.01
+len(visitedPosition)  3377
+generation =  45
+plotmaze, len(visitedPositions) = 3377
+prob mutation  0.01
+len(visitedPosition)  3408
+generation =  46
+prob mutation  0.01
+len(visitedPosition)  3427
+generation =  47
+prob mutation  0.02
+len(visitedPosition)  3457
+generation =  48
+prob mutation  0.02
+len(visitedPosition)  3486
+generation =  49
+prob mutation  0.02
+len(visitedPosition)  3515
+generation =  50
+plotmaze, len(visitedPositions) = 3515
+prob mutation  0.02
+len(visitedPosition)  3544
+generation =  51
+prob mutation  0.02
+len(visitedPosition)  3572
+generation =  52
+prob mutation  0.02
+len(visitedPosition)  3603
+generation =  53
+prob mutation  0.02
+len(visitedPosition)  3636
+generation =  54
+prob mutation  0.02
+len(visitedPosition)  3658
+generation =  55
+plotmaze, len(visitedPositions) = 3658
+prob mutation  0.02
+len(visitedPosition)  3680
+generation =  56
+prob mutation  0.02
+len(visitedPosition)  3712
+generation =  57
+prob mutation  0.02
+len(visitedPosition)  3737
+generation =  58
+prob mutation  0.02
+len(visitedPosition)  3772
+generation =  59
+prob mutation  0.02
+len(visitedPosition)  3801
+generation =  60
+plotmaze, len(visitedPositions) = 3801
+prob mutation  0.02
+len(visitedPosition)  3817
+generation =  61
+prob mutation  0.03
+len(visitedPosition)  3849
+generation =  62
+prob mutation  0.03
+len(visitedPosition)  3876
+generation =  63
+prob mutation  0.03
+len(visitedPosition)  3900
+generation =  64
+prob mutation  0.03
+len(visitedPosition)  3925
+generation =  65
+plotmaze, len(visitedPositions) = 3925
+prob mutation  0.03
+len(visitedPosition)  3948
+generation =  66
+prob mutation  0.03
+len(visitedPosition)  3966
+generation =  67
+prob mutation  0.04
+len(visitedPosition)  3989
+generation =  68
+prob mutation  0.04
+len(visitedPosition)  4007
+generation =  69
+prob mutation  0.05
+len(visitedPosition)  4029
+generation =  70
+plotmaze, len(visitedPositions) = 4029
+prob mutation  0.05
+len(visitedPosition)  4047
+generation =  71
+prob mutation  0.060000000000000005
+len(visitedPosition)  4078
+generation =  72
+prob mutation  0.060000000000000005
+len(visitedPosition)  4094
+generation =  73
+prob mutation  0.07
+len(visitedPosition)  4107
+generation =  74
+prob mutation  0.08
+len(visitedPosition)  4121
+generation =  75
+plotmaze, len(visitedPositions) = 4121
+prob mutation  0.09
+len(visitedPosition)  4140
+generation =  76
+prob mutation  0.09999999999999999
+len(visitedPosition)  4158
+generation =  77
+prob mutation  0.10999999999999999
+len(visitedPosition)  4171
+generation =  78
+prob mutation  0.11999999999999998
+len(visitedPosition)  4193
+generation =  79
+prob mutation  0.11999999999999998
+len(visitedPosition)  4210
+generation =  80
+plotmaze, len(visitedPositions) = 4210
+prob mutation  0.12999999999999998
+len(visitedPosition)  4227
+generation =  81
+prob mutation  0.13999999999999999
+len(visitedPosition)  4237
+generation =  82
+prob mutation  0.15
+len(visitedPosition)  4255
+generation =  83
+prob mutation  0.16
+len(visitedPosition)  4280
+generation =  84
+prob mutation  0.16
+len(visitedPosition)  4296
+generation =  85
+plotmaze, len(visitedPositions) = 4296
+prob mutation  0.17
+len(visitedPosition)  4315
+generation =  86
+prob mutation  0.18000000000000002
+len(visitedPosition)  4333
+generation =  87
+prob mutation  0.19000000000000003
+len(visitedPosition)  4352
+generation =  88
+prob mutation  0.20000000000000004
+len(visitedPosition)  4377
+generation =  89
+prob mutation  0.20000000000000004
+len(visitedPosition)  4399
+generation =  90
+plotmaze, len(visitedPositions) = 4399
+prob mutation  0.20000000000000004
+len(visitedPosition)  4424
+generation =  91
+prob mutation  0.20000000000000004
+len(visitedPosition)  4443
+generation =  92
+prob mutation  0.21000000000000005
+len(visitedPosition)  4457
+generation =  93
+prob mutation  0.22000000000000006
+len(visitedPosition)  4476
+generation =  94
+prob mutation  0.23000000000000007
+len(visitedPosition)  4493
+generation =  95
+plotmaze, len(visitedPositions) = 4493
+prob mutation  0.24000000000000007
+len(visitedPosition)  4508
+generation =  96
+prob mutation  0.25000000000000006
+len(visitedPosition)  4530
+generation =  97
+prob mutation  0.25000000000000006
+len(visitedPosition)  4549
+generation =  98
+prob mutation  0.26000000000000006
+len(visitedPosition)  4567
+generation =  99
+prob mutation  0.2700000000000001
+len(visitedPosition)  4586
+generation =  100
+plotmaze, len(visitedPositions) = 4586
+prob mutation  0.2800000000000001
+len(visitedPosition)  4597
+generation =  101
+prob mutation  0.2900000000000001
+len(visitedPosition)  4613
+generation =  102
+prob mutation  0.3000000000000001
+len(visitedPosition)  4634
+generation =  103
+prob mutation  0.3000000000000001
+len(visitedPosition)  4648
+generation =  104
+prob mutation  0.3100000000000001
+len(visitedPosition)  4669
+generation =  105
+plotmaze, len(visitedPositions) = 4669
+prob mutation  0.3100000000000001
+len(visitedPosition)  4688
+generation =  106
+prob mutation  0.3200000000000001
+len(visitedPosition)  4696
+generation =  107
+prob mutation  0.3300000000000001
+len(visitedPosition)  4707
+generation =  108
+prob mutation  0.34000000000000014
+len(visitedPosition)  4722
+generation =  109
+prob mutation  0.35000000000000014
+len(visitedPosition)  4737
+generation =  110
+plotmaze, len(visitedPositions) = 4737
+prob mutation  0.36000000000000015
+len(visitedPosition)  4752
+generation =  111
+prob mutation  0.37000000000000016
+len(visitedPosition)  4763
+generation =  112
+prob mutation  0.38000000000000017
+len(visitedPosition)  4775
+generation =  113
+prob mutation  0.3900000000000002
+len(visitedPosition)  4788
+generation =  114
+prob mutation  0.4000000000000002
+len(visitedPosition)  4804
+generation =  115
+plotmaze, len(visitedPositions) = 4804
+prob mutation  0.4100000000000002
+len(visitedPosition)  4812
+generation =  116
+prob mutation  0.4200000000000002
+len(visitedPosition)  4825
+generation =  117
+prob mutation  0.4300000000000002
+len(visitedPosition)  4841
+generation =  118
+prob mutation  0.4400000000000002
+len(visitedPosition)  4854
+generation =  119
+prob mutation  0.45000000000000023
+len(visitedPosition)  4868
+generation =  120
+plotmaze, len(visitedPositions) = 4868
+prob mutation  0.46000000000000024
+len(visitedPosition)  4881
+generation =  121
+prob mutation  0.47000000000000025
+len(visitedPosition)  4897
+generation =  122
+prob mutation  0.48000000000000026
+len(visitedPosition)  4900
+generation =  123
+prob mutation  0.49000000000000027
+len(visitedPosition)  4919
+generation =  124
+prob mutation  0.5000000000000002
+len(visitedPosition)  4939
+generation =  125
+plotmaze, len(visitedPositions) = 4939
+prob mutation  0.5000000000000002
+len(visitedPosition)  4955
+generation =  126
+prob mutation  0.5100000000000002
+len(visitedPosition)  4975
+generation =  127
+prob mutation  0.5100000000000002
+len(visitedPosition)  4986
+generation =  128
+prob mutation  0.5200000000000002
+len(visitedPosition)  4993
+generation =  129
+prob mutation  0.5300000000000002
+len(visitedPosition)  5003
+generation =  130
+plotmaze, len(visitedPositions) = 5003
+prob mutation  0.5400000000000003
+len(visitedPosition)  5014
+generation =  131
+prob mutation  0.5500000000000003
+len(visitedPosition)  5023
+generation =  132
+prob mutation  0.5600000000000003
+len(visitedPosition)  5035
+generation =  133
+prob mutation  0.5700000000000003
+len(visitedPosition)  5045
+generation =  134
+prob mutation  0.5800000000000003
+len(visitedPosition)  5054
+generation =  135
+plotmaze, len(visitedPositions) = 5054
+prob mutation  0.5900000000000003
+len(visitedPosition)  5064
+generation =  136
+prob mutation  0.6000000000000003
+len(visitedPosition)  5079
+generation =  137
+prob mutation  0.6100000000000003
+len(visitedPosition)  5084
+generation =  138
+prob mutation  0.6200000000000003
+len(visitedPosition)  5096
+generation =  139
+prob mutation  0.6300000000000003
+len(visitedPosition)  5108
+generation =  140
+plotmaze, len(visitedPositions) = 5108
+prob mutation  0.6400000000000003
+len(visitedPosition)  5118
+generation =  141
+prob mutation  0.6500000000000004
+len(visitedPosition)  5127
+generation =  142
+prob mutation  0.6600000000000004
+len(visitedPosition)  5138
+generation =  143
+prob mutation  0.6700000000000004
+len(visitedPosition)  5150
+generation =  144
+prob mutation  0.6800000000000004
+len(visitedPosition)  5160
+generation =  145
+plotmaze, len(visitedPositions) = 5160
+prob mutation  0.6900000000000004
+len(visitedPosition)  5165
+generation =  146
+prob mutation  0.7000000000000004
+len(visitedPosition)  5175
+generation =  147
+prob mutation  0.7100000000000004
+len(visitedPosition)  5185
+generation =  148
+prob mutation  0.7200000000000004
+len(visitedPosition)  5199
+generation =  149
+prob mutation  0.7300000000000004
+len(visitedPosition)  5215
+generation =  150
+plotmaze, len(visitedPositions) = 5215
+prob mutation  0.7400000000000004
+len(visitedPosition)  5229
+generation =  151
+prob mutation  0.7500000000000004
+len(visitedPosition)  5240
+generation =  152
+prob mutation  0.7600000000000005
+len(visitedPosition)  5253
+generation =  153
+prob mutation  0.7700000000000005
+len(visitedPosition)  5267
+generation =  154
+prob mutation  0.7800000000000005
+len(visitedPosition)  5279
+generation =  155
+plotmaze, len(visitedPositions) = 5279
+prob mutation  0.7900000000000005
+len(visitedPosition)  5296
+generation =  156
+prob mutation  0.8000000000000005
+len(visitedPosition)  5307
+generation =  157
+prob mutation  0.8100000000000005
+len(visitedPosition)  5321
+generation =  158
+prob mutation  0.8200000000000005
+len(visitedPosition)  5331
+generation =  159
+prob mutation  0.8300000000000005
+len(visitedPosition)  5340
+generation =  160
+plotmaze, len(visitedPositions) = 5340
+prob mutation  0.8400000000000005
+len(visitedPosition)  5349
+generation =  161
+prob mutation  0.8500000000000005
+len(visitedPosition)  5355
+generation =  162
+prob mutation  0.8600000000000005
+len(visitedPosition)  5362
+generation =  163
+prob mutation  0.8700000000000006
+len(visitedPosition)  5374
+generation =  164
+prob mutation  0.8800000000000006
+len(visitedPosition)  5379
+generation =  165
+plotmaze, len(visitedPositions) = 5379
+prob mutation  0.8900000000000006
+len(visitedPosition)  5389
+generation =  166
+prob mutation  0.9000000000000006
+len(visitedPosition)  5399
+generation =  167
+prob mutation  0.9100000000000006
+len(visitedPosition)  5407
+generation =  168
+prob mutation  0.9200000000000006
+len(visitedPosition)  5418
+generation =  169
+prob mutation  0.9300000000000006
+len(visitedPosition)  5425
+generation =  170
+plotmaze, len(visitedPositions) = 5425
+prob mutation  0.9400000000000006
+len(visitedPosition)  5440
+generation =  171
+prob mutation  0.9500000000000006
+len(visitedPosition)  5449
+generation =  172
+prob mutation  0.9600000000000006
+len(visitedPosition)  5462
+generation =  173
+prob mutation  0.9700000000000006
+len(visitedPosition)  5474
+generation =  174
+prob mutation  0.9800000000000006
+len(visitedPosition)  5486
+generation =  175
+plotmaze, len(visitedPositions) = 5486
+prob mutation  0.9900000000000007
+len(visitedPosition)  5502
+generation =  176
+prob mutation  1.0000000000000007
+len(visitedPosition)  5512
+generation =  177
+prob mutation  1.0100000000000007
+len(visitedPosition)  5523
+generation =  178
+prob mutation  1.0200000000000007
+len(visitedPosition)  5534
+generation =  179
+prob mutation  1.0300000000000007
+len(visitedPosition)  5548
+generation =  180
+plotmaze, len(visitedPositions) = 5548
+prob mutation  1.0400000000000007
+len(visitedPosition)  5560
+generation =  181
+prob mutation  1.0500000000000007
+len(visitedPosition)  5566
+generation =  182
+prob mutation  1.0600000000000007
+len(visitedPosition)  5574
+generation =  183
+prob mutation  1.0700000000000007
+len(visitedPosition)  5589
+generation =  184
+prob mutation  1.0800000000000007
+len(visitedPosition)  5593
+generation =  185
+plotmaze, len(visitedPositions) = 5593
+prob mutation  1.0900000000000007
+len(visitedPosition)  5606
+generation =  186
+prob mutation  1.1000000000000008
+len(visitedPosition)  5614
+generation =  187
+prob mutation  1.1100000000000008
+len(visitedPosition)  5623
+generation =  188
+prob mutation  1.1200000000000008
+len(visitedPosition)  5630
+generation =  189
+prob mutation  1.1300000000000008
+len(visitedPosition)  5638
+generation =  190
+plotmaze, len(visitedPositions) = 5638
+prob mutation  1.1400000000000008
+len(visitedPosition)  5648
+generation =  191
+prob mutation  1.1500000000000008
+len(visitedPosition)  5657
+generation =  192
+prob mutation  1.1600000000000008
+len(visitedPosition)  5669
+generation =  193
+prob mutation  1.1700000000000008
+len(visitedPosition)  5683
+generation =  194
+prob mutation  1.1800000000000008
+len(visitedPosition)  5691
+generation =  195
+plotmaze, len(visitedPositions) = 5691
+prob mutation  1.1900000000000008
+len(visitedPosition)  5701
+generation =  196
+prob mutation  1.2000000000000008
+len(visitedPosition)  5713
+generation =  197
+prob mutation  1.2100000000000009
+len(visitedPosition)  5719
+generation =  198
+prob mutation  1.2200000000000009
+len(visitedPosition)  5733
+generation =  199
+prob mutation  1.2300000000000009
+len(visitedPosition)  5741
+generation =  200
+plotmaze, len(visitedPositions) = 5741
+prob mutation  1.2400000000000009
+len(visitedPosition)  5754
+generation =  201
+prob mutation  1.2500000000000009
+len(visitedPosition)  5764
+generation =  202
+prob mutation  1.260000000000001
+len(visitedPosition)  5774
+generation =  203
+prob mutation  1.270000000000001
+len(visitedPosition)  5781
+generation =  204
+prob mutation  1.280000000000001
+len(visitedPosition)  5785
+generation =  205
+plotmaze, len(visitedPositions) = 5785
+prob mutation  1.290000000000001
+len(visitedPosition)  5789
+generation =  206
+prob mutation  1.300000000000001
+len(visitedPosition)  5803
+generation =  207
+prob mutation  1.310000000000001
+len(visitedPosition)  5816
+generation =  208
+prob mutation  1.320000000000001
+len(visitedPosition)  5827
+generation =  209
+prob mutation  1.330000000000001
+len(visitedPosition)  5834
+generation =  210
+plotmaze, len(visitedPositions) = 5834
+prob mutation  1.340000000000001
+len(visitedPosition)  5843
+generation =  211
+prob mutation  1.350000000000001
+len(visitedPosition)  5847
+generation =  212
+prob mutation  1.360000000000001
+len(visitedPosition)  5856
+generation =  213
+prob mutation  1.370000000000001
+len(visitedPosition)  5864
+generation =  214
+prob mutation  1.380000000000001
+len(visitedPosition)  5870
+generation =  215
+plotmaze, len(visitedPositions) = 5870
+prob mutation  1.390000000000001
+len(visitedPosition)  5877
+generation =  216
+prob mutation  1.400000000000001
+len(visitedPosition)  5887
+generation =  217
+prob mutation  1.410000000000001
+len(visitedPosition)  5894
+generation =  218
+prob mutation  1.420000000000001
+len(visitedPosition)  5902
+generation =  219
+prob mutation  1.430000000000001
+len(visitedPosition)  5911
+generation =  220
+plotmaze, len(visitedPositions) = 5911
+prob mutation  1.440000000000001
+len(visitedPosition)  5916
+generation =  221
+prob mutation  1.450000000000001
+len(visitedPosition)  5927
+generation =  222
+prob mutation  1.460000000000001
+len(visitedPosition)  5932
+generation =  223
+prob mutation  1.470000000000001
+len(visitedPosition)  5942
+generation =  224
+prob mutation  1.480000000000001
+len(visitedPosition)  5954
+generation =  225
+plotmaze, len(visitedPositions) = 5954
+prob mutation  1.490000000000001
+len(visitedPosition)  5965
+generation =  226
+prob mutation  1.500000000000001
+len(visitedPosition)  5974
+generation =  227
+prob mutation  1.5100000000000011
+len(visitedPosition)  5989
+generation =  228
+prob mutation  1.5200000000000011
+len(visitedPosition)  5998
+generation =  229
+prob mutation  1.5300000000000011
+len(visitedPosition)  6003
+generation =  230
+plotmaze, len(visitedPositions) = 6003
+prob mutation  1.5400000000000011
+len(visitedPosition)  6016
+generation =  231
+prob mutation  1.5500000000000012
+len(visitedPosition)  6020
+generation =  232
+prob mutation  1.5600000000000012
+len(visitedPosition)  6024
+generation =  233
+prob mutation  1.5700000000000012
+len(visitedPosition)  6030
+generation =  234
+prob mutation  1.5800000000000012
+len(visitedPosition)  6039
+generation =  235
+plotmaze, len(visitedPositions) = 6039
+prob mutation  1.5900000000000012
+len(visitedPosition)  6048
+generation =  236
+prob mutation  1.6000000000000012
+len(visitedPosition)  6059
+generation =  237
+prob mutation  1.6100000000000012
+len(visitedPosition)  6067
+generation =  238
+prob mutation  1.6200000000000012
+len(visitedPosition)  6078
+generation =  239
+prob mutation  1.6300000000000012
+len(visitedPosition)  6091
+generation =  240
+plotmaze, len(visitedPositions) = 6091
+prob mutation  1.6400000000000012
+len(visitedPosition)  6099
+generation =  241
+prob mutation  1.6500000000000012
+len(visitedPosition)  6101
+generation =  242
+prob mutation  1.6600000000000013
+len(visitedPosition)  6110
+generation =  243
+prob mutation  1.6700000000000013
+len(visitedPosition)  6117
+generation =  244
+prob mutation  1.6800000000000013
+len(visitedPosition)  6125
+generation =  245
+plotmaze, len(visitedPositions) = 6125
+prob mutation  1.6900000000000013
+len(visitedPosition)  6132
+generation =  246
+prob mutation  1.7000000000000013
+len(visitedPosition)  6144
+generation =  247
+prob mutation  1.7100000000000013
+len(visitedPosition)  6149
+generation =  248
+prob mutation  1.7200000000000013
+len(visitedPosition)  6154
+generation =  249
+prob mutation  1.7300000000000013
+len(visitedPosition)  6158
+generation =  250
+plotmaze, len(visitedPositions) = 6158
+prob mutation  1.7400000000000013
+len(visitedPosition)  6167
+generation =  251
+prob mutation  1.7500000000000013
+len(visitedPosition)  6174
+generation =  252
+prob mutation  1.7600000000000013
+len(visitedPosition)  6180
+generation =  253
+prob mutation  1.7700000000000014
+len(visitedPosition)  6192
+generation =  254
+prob mutation  1.7800000000000014
+len(visitedPosition)  6199
+generation =  255
+plotmaze, len(visitedPositions) = 6199
+prob mutation  1.7900000000000014
+len(visitedPosition)  6205
+generation =  256
+prob mutation  1.8000000000000014
+len(visitedPosition)  6212
+generation =  257
+prob mutation  1.8100000000000014
+len(visitedPosition)  6219
+generation =  258
+prob mutation  1.8200000000000014
+len(visitedPosition)  6228
+generation =  259
+prob mutation  1.8300000000000014
+len(visitedPosition)  6237
+generation =  260
+plotmaze, len(visitedPositions) = 6237
+prob mutation  1.8400000000000014
+len(visitedPosition)  6241
+generation =  261
+prob mutation  1.8500000000000014
+len(visitedPosition)  6249
+generation =  262
+prob mutation  1.8600000000000014
+len(visitedPosition)  6257
+generation =  263
+prob mutation  1.8700000000000014
+len(visitedPosition)  6265
+generation =  264
+prob mutation  1.8800000000000014
+len(visitedPosition)  6274
+generation =  265
+plotmaze, len(visitedPositions) = 6274
+prob mutation  1.8900000000000015
+len(visitedPosition)  6280
+generation =  266
+prob mutation  1.9000000000000015
+len(visitedPosition)  6290
+generation =  267
+prob mutation  1.9100000000000015
+len(visitedPosition)  6297
+generation =  268
+prob mutation  1.9200000000000015
+len(visitedPosition)  6302
+generation =  269
+prob mutation  1.9300000000000015
+len(visitedPosition)  6311
+generation =  270
+plotmaze, len(visitedPositions) = 6311
+prob mutation  1.9400000000000015
+len(visitedPosition)  6322
+generation =  271
+prob mutation  1.9500000000000015
+len(visitedPosition)  6333
+generation =  272
+prob mutation  1.9600000000000015
+len(visitedPosition)  6339
+generation =  273
+prob mutation  1.9700000000000015
+len(visitedPosition)  6349
+generation =  274
+prob mutation  1.9800000000000015
+len(visitedPosition)  6357
+generation =  275
+plotmaze, len(visitedPositions) = 6357
+prob mutation  1.9900000000000015
+len(visitedPosition)  6362
+generation =  276
+prob mutation  2.0000000000000013
+len(visitedPosition)  6373
+generation =  277
+prob mutation  2.010000000000001
+len(visitedPosition)  6382
+generation =  278
+prob mutation  2.020000000000001
+len(visitedPosition)  6388
+generation =  279
+prob mutation  2.0300000000000007
+len(visitedPosition)  6396
+generation =  280
+plotmaze, len(visitedPositions) = 6396
+prob mutation  2.0400000000000005
+len(visitedPosition)  6406
+generation =  281
+prob mutation  2.0500000000000003
+len(visitedPosition)  6418
+generation =  282
+prob mutation  2.06
+len(visitedPosition)  6425
+generation =  283
+prob mutation  2.07
+len(visitedPosition)  6435
+generation =  284
+prob mutation  2.0799999999999996
+len(visitedPosition)  6438
+generation =  285
+plotmaze, len(visitedPositions) = 6438
+prob mutation  2.0899999999999994
+len(visitedPosition)  6445
+generation =  286
+prob mutation  2.099999999999999
+len(visitedPosition)  6454
+generation =  287
+prob mutation  2.109999999999999
+len(visitedPosition)  6460
+generation =  288
+prob mutation  2.1199999999999988
+len(visitedPosition)  6467
+generation =  289
+prob mutation  2.1299999999999986
+len(visitedPosition)  6472
+generation =  290
+plotmaze, len(visitedPositions) = 6472
+prob mutation  2.1399999999999983
+len(visitedPosition)  6479
+generation =  291
+prob mutation  2.149999999999998
+len(visitedPosition)  6487
+generation =  292
+prob mutation  2.159999999999998
+len(visitedPosition)  6493
+generation =  293
+prob mutation  2.1699999999999977
+len(visitedPosition)  6497
+generation =  294
+prob mutation  2.1799999999999975
+len(visitedPosition)  6508
+generation =  295
+plotmaze, len(visitedPositions) = 6508
+prob mutation  2.1899999999999973
+len(visitedPosition)  6515
+generation =  296
+prob mutation  2.199999999999997
+len(visitedPosition)  6522
+generation =  297
+prob mutation  2.209999999999997
+len(visitedPosition)  6529
+generation =  298
+prob mutation  2.2199999999999966
+len(visitedPosition)  6538
+generation =  299
+prob mutation  2.2299999999999964
+len(visitedPosition)  6542
+generation =  300
+plotmaze, len(visitedPositions) = 6542
+prob mutation  2.239999999999996
+len(visitedPosition)  6548
+generation =  301
+prob mutation  2.249999999999996
+len(visitedPosition)  6556
+generation =  302
+prob mutation  2.259999999999996
+len(visitedPosition)  6565
+generation =  303
+prob mutation  2.2699999999999956
+len(visitedPosition)  6572
+generation =  304
+prob mutation  2.2799999999999954
+len(visitedPosition)  6582
+generation =  305
+plotmaze, len(visitedPositions) = 6582
+prob mutation  2.289999999999995
+len(visitedPosition)  6591
+generation =  306
+prob mutation  2.299999999999995
+len(visitedPosition)  6593
+generation =  307
+prob mutation  2.3099999999999947
+len(visitedPosition)  6602
+generation =  308
+prob mutation  2.3199999999999945
+len(visitedPosition)  6610
+generation =  309
+prob mutation  2.3299999999999943
+len(visitedPosition)  6617
+generation =  310
+plotmaze, len(visitedPositions) = 6617
+prob mutation  2.339999999999994
+len(visitedPosition)  6623
+generation =  311
+prob mutation  2.349999999999994
+len(visitedPosition)  6632
+generation =  312
+prob mutation  2.3599999999999937
+len(visitedPosition)  6639
+generation =  313
+prob mutation  2.3699999999999934
+len(visitedPosition)  6647
+generation =  314
+prob mutation  2.3799999999999932
+len(visitedPosition)  6654
+generation =  315
+plotmaze, len(visitedPositions) = 6654
+prob mutation  2.389999999999993
+len(visitedPosition)  6661
+generation =  316
+prob mutation  2.399999999999993
+len(visitedPosition)  6671
+generation =  317
+prob mutation  2.4099999999999926
+len(visitedPosition)  6678
+generation =  318
+prob mutation  2.4199999999999924
+len(visitedPosition)  6686
+generation =  319
+prob mutation  2.429999999999992
+len(visitedPosition)  6690
+generation =  320
+plotmaze, len(visitedPositions) = 6690
+prob mutation  2.439999999999992
+len(visitedPosition)  6700
+generation =  321
+prob mutation  2.4499999999999917
+len(visitedPosition)  6708
+generation =  322
+prob mutation  2.4599999999999915
+len(visitedPosition)  6717
+generation =  323
+prob mutation  2.4699999999999913
+len(visitedPosition)  6723
+generation =  324
+prob mutation  2.479999999999991
+len(visitedPosition)  6730
+generation =  325
+plotmaze, len(visitedPositions) = 6730
+prob mutation  2.489999999999991
+len(visitedPosition)  6737
+generation =  326
+prob mutation  2.4999999999999907
+len(visitedPosition)  6741
+generation =  327
+prob mutation  2.5099999999999905
+len(visitedPosition)  6745
+generation =  328
+prob mutation  2.5199999999999902
+len(visitedPosition)  6756
+generation =  329
+prob mutation  2.52999999999999
+len(visitedPosition)  6760
+generation =  330
+plotmaze, len(visitedPositions) = 6760
+prob mutation  2.53999999999999
+len(visitedPosition)  6765
+generation =  331
+prob mutation  2.5499999999999896
+len(visitedPosition)  6772
+generation =  332
+prob mutation  2.5599999999999894
+len(visitedPosition)  6781
+generation =  333
+prob mutation  2.569999999999989
+len(visitedPosition)  6792
+generation =  334
+prob mutation  2.579999999999989
+len(visitedPosition)  6798
+generation =  335
+plotmaze, len(visitedPositions) = 6798
+prob mutation  2.5899999999999888
+len(visitedPosition)  6802
+generation =  336
+prob mutation  2.5999999999999885
+len(visitedPosition)  6812
+generation =  337
+prob mutation  2.6099999999999883
+len(visitedPosition)  6816
+generation =  338
+prob mutation  2.619999999999988
+len(visitedPosition)  6823
+generation =  339
+prob mutation  2.629999999999988
+len(visitedPosition)  6831
+generation =  340
+plotmaze, len(visitedPositions) = 6831
+prob mutation  2.6399999999999877
+len(visitedPosition)  6836
+generation =  341
+prob mutation  2.6499999999999875
+len(visitedPosition)  6843
+generation =  342
+prob mutation  2.6599999999999873
+len(visitedPosition)  6852
+generation =  343
+prob mutation  2.669999999999987
+len(visitedPosition)  6863
+generation =  344
+prob mutation  2.679999999999987
+len(visitedPosition)  6868
+generation =  345
+plotmaze, len(visitedPositions) = 6868
+prob mutation  2.6899999999999866
+len(visitedPosition)  6875
+generation =  346
+prob mutation  2.6999999999999864
+len(visitedPosition)  6880
+generation =  347
+prob mutation  2.709999999999986
+len(visitedPosition)  6889
+generation =  348
+prob mutation  2.719999999999986
+len(visitedPosition)  6893
+generation =  349
+prob mutation  2.7299999999999858
+len(visitedPosition)  6898
+generation =  350
+plotmaze, len(visitedPositions) = 6898
+prob mutation  2.7399999999999856
+len(visitedPosition)  6904
+generation =  351
+prob mutation  2.7499999999999853
+len(visitedPosition)  6909
+generation =  352
+prob mutation  2.759999999999985
+len(visitedPosition)  6919
+generation =  353
+prob mutation  2.769999999999985
+len(visitedPosition)  6926
+generation =  354
+prob mutation  2.7799999999999847
+len(visitedPosition)  6934
+generation =  355
+plotmaze, len(visitedPositions) = 6934
+prob mutation  2.7899999999999845
+len(visitedPosition)  6942
+generation =  356
+prob mutation  2.7999999999999843
+len(visitedPosition)  6950
+generation =  357
+prob mutation  2.809999999999984
+len(visitedPosition)  6955
+generation =  358
+prob mutation  2.819999999999984
+len(visitedPosition)  6963
+generation =  359
+prob mutation  2.8299999999999836
+len(visitedPosition)  6966
+generation =  360
+plotmaze, len(visitedPositions) = 6966
+prob mutation  2.8399999999999834
+len(visitedPosition)  6973
+generation =  361
+prob mutation  2.849999999999983
+len(visitedPosition)  6979
+generation =  362
+prob mutation  2.859999999999983
+len(visitedPosition)  6984
+generation =  363
+prob mutation  2.869999999999983
+len(visitedPosition)  6986
+generation =  364
+prob mutation  2.8799999999999826
+len(visitedPosition)  6993
+generation =  365
+plotmaze, len(visitedPositions) = 6993
+prob mutation  2.8899999999999824
+len(visitedPosition)  6995
+generation =  366
+prob mutation  2.899999999999982
+len(visitedPosition)  7000
+generation =  367
+prob mutation  2.909999999999982
+len(visitedPosition)  7006
+generation =  368
+prob mutation  2.9199999999999817
+len(visitedPosition)  7011
+generation =  369
+prob mutation  2.9299999999999815
+len(visitedPosition)  7021
+generation =  370
+plotmaze, len(visitedPositions) = 7021
+prob mutation  2.9399999999999813
+len(visitedPosition)  7027
+generation =  371
+prob mutation  2.949999999999981
+len(visitedPosition)  7034
+generation =  372
+prob mutation  2.959999999999981
+len(visitedPosition)  7043
+generation =  373
+prob mutation  2.9699999999999807
+len(visitedPosition)  7050
+generation =  374
+prob mutation  2.9799999999999804
+len(visitedPosition)  7057
+generation =  375
+plotmaze, len(visitedPositions) = 7057
+prob mutation  2.9899999999999802
+len(visitedPosition)  7065
+generation =  376
+prob mutation  2.99999999999998
+len(visitedPosition)  7069
+generation =  377
+prob mutation  3.00999999999998
+len(visitedPosition)  7074
+generation =  378
+prob mutation  3.0199999999999796
+len(visitedPosition)  7080
+generation =  379
+prob mutation  3.0299999999999794
+len(visitedPosition)  7088
+generation =  380
+plotmaze, len(visitedPositions) = 7088
+prob mutation  3.039999999999979
+len(visitedPosition)  7095
+generation =  381
+prob mutation  3.049999999999979
+len(visitedPosition)  7106
+generation =  382
+prob mutation  3.0599999999999787
+len(visitedPosition)  7113
+generation =  383
+prob mutation  3.0699999999999785
+len(visitedPosition)  7121
+generation =  384
+prob mutation  3.0799999999999783
+len(visitedPosition)  7129
+generation =  385
+plotmaze, len(visitedPositions) = 7129
+prob mutation  3.089999999999978
+len(visitedPosition)  7134
+generation =  386
+prob mutation  3.099999999999978
+len(visitedPosition)  7139
+generation =  387
+prob mutation  3.1099999999999777
+len(visitedPosition)  7145
+generation =  388
+prob mutation  3.1199999999999775
+len(visitedPosition)  7148
+generation =  389
+prob mutation  3.1299999999999772
+len(visitedPosition)  7152
+generation =  390
+plotmaze, len(visitedPositions) = 7152
+prob mutation  3.139999999999977
+len(visitedPosition)  7159
+generation =  391
+prob mutation  3.149999999999977
+len(visitedPosition)  7168
+generation =  392
+prob mutation  3.1599999999999766
+len(visitedPosition)  7176
+generation =  393
+prob mutation  3.1699999999999764
+len(visitedPosition)  7183
+generation =  394
+prob mutation  3.179999999999976
+len(visitedPosition)  7187
+generation =  395
+plotmaze, len(visitedPositions) = 7187
+prob mutation  3.189999999999976
+len(visitedPosition)  7190
+generation =  396
+prob mutation  3.1999999999999758
+len(visitedPosition)  7200
+generation =  397
+prob mutation  3.2099999999999755
+len(visitedPosition)  7202
+generation =  398
+prob mutation  3.2199999999999753
+len(visitedPosition)  7204
+generation =  399
+prob mutation  3.229999999999975
+len(visitedPosition)  7207
+generation =  400
+plotmaze, len(visitedPositions) = 7207
+prob mutation  3.239999999999975
+len(visitedPosition)  713
+generation =  1
+prob mutation  3.239999999999975
+len(visitedPosition)  828
+generation =  2
+prob mutation  3.239999999999975
+len(visitedPosition)  933
+generation =  3
+prob mutation  3.239999999999975
+len(visitedPosition)  1044
+generation =  4
+prob mutation  3.239999999999975
+len(visitedPosition)  1150
+generation =  5
+plotmaze, len(visitedPositions) = 1150
+prob mutation  3.239999999999975
+len(visitedPosition)  1250
+generation =  6
+prob mutation  3.239999999999975
+len(visitedPosition)  1345
+generation =  7
+prob mutation  3.239999999999975
+len(visitedPosition)  1440
+generation =  8
+prob mutation  3.239999999999975
+len(visitedPosition)  1520
+generation =  9
+prob mutation  3.239999999999975
+len(visitedPosition)  1611
+generation =  10
+plotmaze, len(visitedPositions) = 1611
+prob mutation  3.239999999999975
+len(visitedPosition)  1695
+generation =  11
+prob mutation  3.239999999999975
+len(visitedPosition)  1772
+generation =  12
+prob mutation  3.239999999999975
+len(visitedPosition)  1851
+generation =  13
+prob mutation  3.239999999999975
+len(visitedPosition)  1931
+generation =  14
+prob mutation  3.239999999999975
+len(visitedPosition)  1997
+generation =  15
+plotmaze, len(visitedPositions) = 1997
+prob mutation  3.239999999999975
+len(visitedPosition)  2064
+generation =  16
+prob mutation  3.239999999999975
+len(visitedPosition)  2135
+generation =  17
+prob mutation  3.239999999999975
+len(visitedPosition)  2199
+generation =  18
+prob mutation  3.239999999999975
+len(visitedPosition)  2274
+generation =  19
+prob mutation  3.239999999999975
+len(visitedPosition)  2330
+generation =  20
+plotmaze, len(visitedPositions) = 2330
+prob mutation  3.239999999999975
+len(visitedPosition)  2376
+generation =  21
+prob mutation  3.239999999999975
+len(visitedPosition)  2434
+generation =  22
+prob mutation  3.239999999999975
+len(visitedPosition)  2483
+generation =  23
+prob mutation  3.239999999999975
+len(visitedPosition)  2526
+generation =  24
+prob mutation  3.239999999999975
+len(visitedPosition)  2583
+generation =  25
+plotmaze, len(visitedPositions) = 2583
+prob mutation  3.239999999999975
+len(visitedPosition)  2629
+generation =  26
+prob mutation  3.239999999999975
+len(visitedPosition)  2688
+generation =  27
+prob mutation  3.239999999999975
+len(visitedPosition)  2740
+generation =  28
+prob mutation  3.239999999999975
+len(visitedPosition)  2787
+generation =  29
+prob mutation  3.239999999999975
+len(visitedPosition)  2830
+generation =  30
+plotmaze, len(visitedPositions) = 2830
+prob mutation  3.239999999999975
+len(visitedPosition)  2878
+generation =  31
+prob mutation  3.239999999999975
+len(visitedPosition)  2910
+generation =  32
+prob mutation  3.239999999999975
+len(visitedPosition)  2954
+generation =  33
+prob mutation  3.239999999999975
+len(visitedPosition)  2996
+generation =  34
+prob mutation  3.239999999999975
+len(visitedPosition)  3033
+generation =  35
+plotmaze, len(visitedPositions) = 3033
+prob mutation  3.239999999999975
+len(visitedPosition)  3075
+generation =  36
+prob mutation  3.239999999999975
+len(visitedPosition)  3114
+generation =  37
+prob mutation  3.239999999999975
+len(visitedPosition)  3153
+generation =  38
+prob mutation  3.239999999999975
+len(visitedPosition)  3191
+generation =  39
+prob mutation  3.239999999999975
+len(visitedPosition)  3228
+generation =  40
+plotmaze, len(visitedPositions) = 3228
+prob mutation  3.239999999999975
+len(visitedPosition)  3271
+generation =  41
+prob mutation  3.239999999999975
+len(visitedPosition)  3300
+generation =  42
+prob mutation  3.239999999999975
+len(visitedPosition)  3335
+generation =  43
+prob mutation  3.239999999999975
+len(visitedPosition)  3371
+generation =  44
+prob mutation  3.239999999999975
+len(visitedPosition)  3403
+generation =  45
+plotmaze, len(visitedPositions) = 3403
+prob mutation  3.239999999999975
+len(visitedPosition)  3443
+generation =  46
+prob mutation  3.239999999999975
+len(visitedPosition)  3472
+generation =  47
+prob mutation  3.239999999999975
+len(visitedPosition)  3499
+generation =  48
+prob mutation  3.239999999999975
+len(visitedPosition)  3535
+generation =  49
+prob mutation  3.239999999999975
+len(visitedPosition)  3572
+generation =  50
+plotmaze, len(visitedPositions) = 3572
+prob mutation  3.239999999999975
+len(visitedPosition)  3598
+generation =  51
+prob mutation  3.239999999999975
+len(visitedPosition)  3634
+generation =  52
+prob mutation  3.239999999999975
+len(visitedPosition)  3666
+generation =  53
+prob mutation  3.239999999999975
+len(visitedPosition)  3687
+generation =  54
+prob mutation  3.239999999999975
+len(visitedPosition)  3714
+generation =  55
+plotmaze, len(visitedPositions) = 3714
+prob mutation  3.239999999999975
+len(visitedPosition)  3743
+generation =  56
+prob mutation  3.239999999999975
+len(visitedPosition)  3770
+generation =  57
+prob mutation  3.239999999999975
+len(visitedPosition)  3796
+generation =  58
+prob mutation  3.239999999999975
+len(visitedPosition)  3815
+generation =  59
+prob mutation  3.2499999999999747
+len(visitedPosition)  3835
+generation =  60
+plotmaze, len(visitedPositions) = 3835
+prob mutation  3.2499999999999747
+len(visitedPosition)  3848
+generation =  61
+prob mutation  3.2599999999999745
+len(visitedPosition)  3873
+generation =  62
+prob mutation  3.2599999999999745
+len(visitedPosition)  3892
+generation =  63
+prob mutation  3.2699999999999743
+len(visitedPosition)  3912
+generation =  64
+prob mutation  3.2699999999999743
+len(visitedPosition)  3929
+generation =  65
+plotmaze, len(visitedPositions) = 3929
+prob mutation  3.279999999999974
+len(visitedPosition)  3946
+generation =  66
+prob mutation  3.289999999999974
+len(visitedPosition)  3971
+generation =  67
+prob mutation  3.289999999999974
+len(visitedPosition)  3988
+generation =  68
+prob mutation  3.2999999999999736
+len(visitedPosition)  4014
+generation =  69
+prob mutation  3.2999999999999736
+len(visitedPosition)  4029
+generation =  70
+plotmaze, len(visitedPositions) = 4029
+prob mutation  3.3099999999999734
+len(visitedPosition)  4053
+generation =  71
+prob mutation  3.3099999999999734
+len(visitedPosition)  4078
+generation =  72
+prob mutation  3.3099999999999734
+len(visitedPosition)  4098
+generation =  73
+prob mutation  3.3099999999999734
+len(visitedPosition)  4116
+generation =  74
+prob mutation  3.319999999999973
+len(visitedPosition)  4143
+generation =  75
+plotmaze, len(visitedPositions) = 4143
+prob mutation  3.319999999999973
+len(visitedPosition)  4163
+generation =  76
+prob mutation  3.319999999999973
+len(visitedPosition)  4183
+generation =  77
+prob mutation  3.319999999999973
+len(visitedPosition)  4196
+generation =  78
+prob mutation  3.329999999999973
+len(visitedPosition)  4206
+generation =  79
+prob mutation  3.3399999999999728
+len(visitedPosition)  4221
+generation =  80
+plotmaze, len(visitedPositions) = 4221
+prob mutation  3.3499999999999726
+len(visitedPosition)  4237
+generation =  81
+prob mutation  3.3599999999999723
+len(visitedPosition)  4258
+generation =  82
+prob mutation  3.3599999999999723
+len(visitedPosition)  4270
+generation =  83
+prob mutation  3.369999999999972
+len(visitedPosition)  4286
+generation =  84
+prob mutation  3.379999999999972
+len(visitedPosition)  4302
+generation =  85
+plotmaze, len(visitedPositions) = 4302
+prob mutation  3.3899999999999717
+len(visitedPosition)  4313
+generation =  86
+prob mutation  3.3999999999999715
+len(visitedPosition)  4325
+generation =  87
+prob mutation  3.4099999999999713
+len(visitedPosition)  4338
+generation =  88
+prob mutation  3.419999999999971
+len(visitedPosition)  4351
+generation =  89
+prob mutation  3.429999999999971
+len(visitedPosition)  4368
+generation =  90
+plotmaze, len(visitedPositions) = 4368
+prob mutation  3.4399999999999706
+len(visitedPosition)  4386
+generation =  91
+prob mutation  3.4499999999999704
+len(visitedPosition)  4401
+generation =  92
+prob mutation  3.45999999999997
+len(visitedPosition)  4416
+generation =  93
+prob mutation  3.46999999999997
+len(visitedPosition)  4431
+generation =  94
+prob mutation  3.47999999999997
+len(visitedPosition)  4448
+generation =  95
+plotmaze, len(visitedPositions) = 4448
+prob mutation  3.4899999999999696
+len(visitedPosition)  4467
+generation =  96
+prob mutation  3.4999999999999694
+len(visitedPosition)  4480
+generation =  97
+prob mutation  3.509999999999969
+len(visitedPosition)  4494
+generation =  98
+prob mutation  3.519999999999969
+len(visitedPosition)  4512
+generation =  99
+prob mutation  3.5299999999999687
+len(visitedPosition)  4529
+generation =  100
+plotmaze, len(visitedPositions) = 4529
+prob mutation  3.5399999999999685
+len(visitedPosition)  4543
+generation =  101
+prob mutation  3.5499999999999683
+len(visitedPosition)  4560
+generation =  102
+prob mutation  3.559999999999968
+len(visitedPosition)  4572
+generation =  103
+prob mutation  3.569999999999968
+len(visitedPosition)  4584
+generation =  104
+prob mutation  3.5799999999999677
+len(visitedPosition)  4598
+generation =  105
+plotmaze, len(visitedPositions) = 4598
+prob mutation  3.5899999999999674
+len(visitedPosition)  4613
+generation =  106
+prob mutation  3.5999999999999672
+len(visitedPosition)  4628
+generation =  107
+prob mutation  3.609999999999967
+len(visitedPosition)  4639
+generation =  108
+prob mutation  3.619999999999967
+len(visitedPosition)  4654
+generation =  109
+prob mutation  3.6299999999999666
+len(visitedPosition)  4677
+generation =  110
+plotmaze, len(visitedPositions) = 4677
+prob mutation  3.6299999999999666
+len(visitedPosition)  4693
+generation =  111
+prob mutation  3.6399999999999664
+len(visitedPosition)  4704
+generation =  112
+prob mutation  3.649999999999966
+len(visitedPosition)  4714
+generation =  113
+prob mutation  3.659999999999966
+len(visitedPosition)  4737
+generation =  114
+prob mutation  3.659999999999966
+len(visitedPosition)  4751
+generation =  115
+plotmaze, len(visitedPositions) = 4751
+prob mutation  3.6699999999999657
+len(visitedPosition)  4763
+generation =  116
+prob mutation  3.6799999999999655
+len(visitedPosition)  4773
+generation =  117
+prob mutation  3.6899999999999653
+len(visitedPosition)  4789
+generation =  118
+prob mutation  3.699999999999965
+len(visitedPosition)  4802
+generation =  119
+prob mutation  3.709999999999965
+len(visitedPosition)  4815
+generation =  120
+plotmaze, len(visitedPositions) = 4815
+prob mutation  3.7199999999999647
+len(visitedPosition)  4830
+generation =  121
+prob mutation  3.7299999999999645
+len(visitedPosition)  4838
+generation =  122
+prob mutation  3.7399999999999642
+len(visitedPosition)  4850
+generation =  123
+prob mutation  3.749999999999964
+len(visitedPosition)  4862
+generation =  124
+prob mutation  3.759999999999964
+len(visitedPosition)  4871
+generation =  125
+plotmaze, len(visitedPositions) = 4871
+prob mutation  3.7699999999999636
+len(visitedPosition)  4884
+generation =  126
+prob mutation  3.7799999999999634
+len(visitedPosition)  4894
+generation =  127
+prob mutation  3.789999999999963
+len(visitedPosition)  4908
+generation =  128
+prob mutation  3.799999999999963
+len(visitedPosition)  4922
+generation =  129
+prob mutation  3.8099999999999627
+len(visitedPosition)  4933
+generation =  130
+plotmaze, len(visitedPositions) = 4933
+prob mutation  3.8199999999999625
+len(visitedPosition)  4948
+generation =  131
+prob mutation  3.8299999999999623
+len(visitedPosition)  4958
+generation =  132
+prob mutation  3.839999999999962
+len(visitedPosition)  4966
+generation =  133
+prob mutation  3.849999999999962
+len(visitedPosition)  4981
+generation =  134
+prob mutation  3.8599999999999617
+len(visitedPosition)  4988
+generation =  135
+plotmaze, len(visitedPositions) = 4988
+prob mutation  3.8699999999999615
+len(visitedPosition)  5004
+generation =  136
+prob mutation  3.8799999999999613
+len(visitedPosition)  5021
+generation =  137
+prob mutation  3.889999999999961
+len(visitedPosition)  5037
+generation =  138
+prob mutation  3.899999999999961
+len(visitedPosition)  5053
+generation =  139
+prob mutation  3.9099999999999606
+len(visitedPosition)  5066
+generation =  140
+plotmaze, len(visitedPositions) = 5066
+prob mutation  3.9199999999999604
+len(visitedPosition)  5077
+generation =  141
+prob mutation  3.92999999999996
+len(visitedPosition)  5087
+generation =  142
+prob mutation  3.93999999999996
+len(visitedPosition)  5102
+generation =  143
+prob mutation  3.9499999999999598
+len(visitedPosition)  5111
+generation =  144
+prob mutation  3.9599999999999596
+len(visitedPosition)  5121
+generation =  145
+plotmaze, len(visitedPositions) = 5121
+prob mutation  3.9699999999999593
+len(visitedPosition)  5135
+generation =  146
+prob mutation  3.979999999999959
+len(visitedPosition)  5144
+generation =  147
+prob mutation  3.989999999999959
+len(visitedPosition)  5158
+generation =  148
+prob mutation  3.9999999999999587
+len(visitedPosition)  5168
+generation =  149
+prob mutation  4.009999999999959
+len(visitedPosition)  5182
+generation =  150
+plotmaze, len(visitedPositions) = 5182
+prob mutation  4.019999999999959
+len(visitedPosition)  5188
+generation =  151
+prob mutation  4.0299999999999585
+len(visitedPosition)  5200
+generation =  152
+prob mutation  4.039999999999958
+len(visitedPosition)  5210
+generation =  153
+prob mutation  4.049999999999958
+len(visitedPosition)  5217
+generation =  154
+prob mutation  4.059999999999958
+len(visitedPosition)  5225
+generation =  155
+plotmaze, len(visitedPositions) = 5225
+prob mutation  4.069999999999958
+len(visitedPosition)  5232
+generation =  156
+prob mutation  4.079999999999957
+len(visitedPosition)  5242
+generation =  157
+prob mutation  4.089999999999957
+len(visitedPosition)  5249
+generation =  158
+prob mutation  4.099999999999957
+len(visitedPosition)  5264
+generation =  159
+prob mutation  4.109999999999957
+len(visitedPosition)  5271
+generation =  160
+plotmaze, len(visitedPositions) = 5271
+prob mutation  4.119999999999957
+len(visitedPosition)  5281
+generation =  161
+prob mutation  4.129999999999956
+len(visitedPosition)  5289
+generation =  162
+prob mutation  4.139999999999956
+len(visitedPosition)  5299
+generation =  163
+prob mutation  4.149999999999956
+len(visitedPosition)  5308
+generation =  164
+prob mutation  4.159999999999956
+len(visitedPosition)  5323
+generation =  165
+plotmaze, len(visitedPositions) = 5323
+prob mutation  4.1699999999999555
+len(visitedPosition)  5342
+generation =  166
+prob mutation  4.179999999999955
+len(visitedPosition)  5352
+generation =  167
+prob mutation  4.189999999999955
+len(visitedPosition)  5362
+generation =  168
+prob mutation  4.199999999999955
+len(visitedPosition)  5376
+generation =  169
+prob mutation  4.209999999999955
+len(visitedPosition)  5382
+generation =  170
+plotmaze, len(visitedPositions) = 5382
+prob mutation  4.2199999999999545
+len(visitedPosition)  5391
+generation =  171
+prob mutation  4.229999999999954
+len(visitedPosition)  5405
+generation =  172
+prob mutation  4.239999999999954
+len(visitedPosition)  5420
+generation =  173
+prob mutation  4.249999999999954
+len(visitedPosition)  5427
+generation =  174
+prob mutation  4.259999999999954
+len(visitedPosition)  5437
+generation =  175
+plotmaze, len(visitedPositions) = 5437
+prob mutation  4.269999999999953
+len(visitedPosition)  5449
+generation =  176
+prob mutation  4.279999999999953
+len(visitedPosition)  5460
+generation =  177
+prob mutation  4.289999999999953
+len(visitedPosition)  5467
+generation =  178
+prob mutation  4.299999999999953
+len(visitedPosition)  5475
+generation =  179
+prob mutation  4.3099999999999525
+len(visitedPosition)  5490
+generation =  180
+plotmaze, len(visitedPositions) = 5490
+prob mutation  4.319999999999952
+len(visitedPosition)  5503
+generation =  181
+prob mutation  4.329999999999952
+len(visitedPosition)  5507
+generation =  182
+prob mutation  4.339999999999952
+len(visitedPosition)  5513
+generation =  183
+prob mutation  4.349999999999952
+len(visitedPosition)  5523
+generation =  184
+prob mutation  4.3599999999999515
+len(visitedPosition)  5542
+generation =  185
+plotmaze, len(visitedPositions) = 5542
+prob mutation  4.369999999999951
+len(visitedPosition)  5552
+generation =  186
+prob mutation  4.379999999999951
+len(visitedPosition)  5557
+generation =  187
+prob mutation  4.389999999999951
+len(visitedPosition)  5566
+generation =  188
+prob mutation  4.399999999999951
+len(visitedPosition)  5577
+generation =  189
+prob mutation  4.40999999999995
+len(visitedPosition)  5584
+generation =  190
+plotmaze, len(visitedPositions) = 5584
+prob mutation  4.41999999999995
+len(visitedPosition)  5591
+generation =  191
+prob mutation  4.42999999999995
+len(visitedPosition)  5601
+generation =  192
+prob mutation  4.43999999999995
+len(visitedPosition)  5620
+generation =  193
+prob mutation  4.4499999999999496
+len(visitedPosition)  5632
+generation =  194
+prob mutation  4.459999999999949
+len(visitedPosition)  5641
+generation =  195
+plotmaze, len(visitedPositions) = 5641
+prob mutation  4.469999999999949
+len(visitedPosition)  5652
+generation =  196
+prob mutation  4.479999999999949
+len(visitedPosition)  5663
+generation =  197
+prob mutation  4.489999999999949
+len(visitedPosition)  5672
+generation =  198
+prob mutation  4.4999999999999485
+len(visitedPosition)  5677
+generation =  199
+prob mutation  4.509999999999948
+len(visitedPosition)  5686
+generation =  200
+plotmaze, len(visitedPositions) = 5686
+prob mutation  4.519999999999948
+len(visitedPosition)  5691
+generation =  201
+prob mutation  4.529999999999948
+len(visitedPosition)  5698
+generation =  202
+prob mutation  4.539999999999948
+len(visitedPosition)  5706
+generation =  203
+prob mutation  4.549999999999947
+len(visitedPosition)  5713
+generation =  204
+prob mutation  4.559999999999947
+len(visitedPosition)  5726
+generation =  205
+plotmaze, len(visitedPositions) = 5726
+prob mutation  4.569999999999947
+len(visitedPosition)  5731
+generation =  206
+prob mutation  4.579999999999947
+len(visitedPosition)  5737
+generation =  207
+prob mutation  4.589999999999947
+len(visitedPosition)  5751
+generation =  208
+prob mutation  4.599999999999946
+len(visitedPosition)  5760
+generation =  209
+prob mutation  4.609999999999946
+len(visitedPosition)  5767
+generation =  210
+plotmaze, len(visitedPositions) = 5767
+prob mutation  4.619999999999946
+len(visitedPosition)  5777
+generation =  211
+prob mutation  4.629999999999946
+len(visitedPosition)  5783
+generation =  212
+prob mutation  4.6399999999999455
+len(visitedPosition)  5794
+generation =  213
+prob mutation  4.649999999999945
+len(visitedPosition)  5805
+generation =  214
+prob mutation  4.659999999999945
+len(visitedPosition)  5817
+generation =  215
+plotmaze, len(visitedPositions) = 5817
+prob mutation  4.669999999999945
+len(visitedPosition)  5831
+generation =  216
+prob mutation  4.679999999999945
+len(visitedPosition)  5844
+generation =  217
+prob mutation  4.689999999999944
+len(visitedPosition)  5850
+generation =  218
+prob mutation  4.699999999999944
+len(visitedPosition)  5858
+generation =  219
+prob mutation  4.709999999999944
+len(visitedPosition)  5866
+generation =  220
+plotmaze, len(visitedPositions) = 5866
+prob mutation  4.719999999999944
+len(visitedPosition)  5881
+generation =  221
+prob mutation  4.729999999999944
+len(visitedPosition)  5896
+generation =  222
+prob mutation  4.739999999999943
+len(visitedPosition)  5908
+generation =  223
+prob mutation  4.749999999999943
+len(visitedPosition)  5917
+generation =  224
+prob mutation  4.759999999999943
+len(visitedPosition)  5926
+generation =  225
+plotmaze, len(visitedPositions) = 5926
+prob mutation  4.769999999999943
+len(visitedPosition)  5937
+generation =  226
+prob mutation  4.7799999999999425
+len(visitedPosition)  5946
+generation =  227
+prob mutation  4.789999999999942
+len(visitedPosition)  5949
+generation =  228
+prob mutation  4.799999999999942
+len(visitedPosition)  5957
+generation =  229
+prob mutation  4.809999999999942
+len(visitedPosition)  5966
+generation =  230
+plotmaze, len(visitedPositions) = 5966
+prob mutation  4.819999999999942
+len(visitedPosition)  5972
+generation =  231
+prob mutation  4.8299999999999415
+len(visitedPosition)  5978
+generation =  232
+prob mutation  4.839999999999941
+len(visitedPosition)  5991
+generation =  233
+prob mutation  4.849999999999941
+len(visitedPosition)  6003
+generation =  234
+prob mutation  4.859999999999941
+len(visitedPosition)  6016
+generation =  235
+plotmaze, len(visitedPositions) = 6016
+prob mutation  4.869999999999941
+len(visitedPosition)  6027
+generation =  236
+prob mutation  4.87999999999994
+len(visitedPosition)  6034
+generation =  237
+prob mutation  4.88999999999994
+len(visitedPosition)  6041
+generation =  238
+prob mutation  4.89999999999994
+len(visitedPosition)  6047
+generation =  239
+prob mutation  4.90999999999994
+len(visitedPosition)  6056
+generation =  240
+plotmaze, len(visitedPositions) = 6056
+prob mutation  4.9199999999999395
+len(visitedPosition)  6064
+generation =  241
+prob mutation  4.929999999999939
+len(visitedPosition)  6075
+generation =  242
+prob mutation  4.939999999999939
+len(visitedPosition)  6086
+generation =  243
+prob mutation  4.949999999999939
+len(visitedPosition)  6090
+generation =  244
+prob mutation  4.959999999999939
+len(visitedPosition)  6098
+generation =  245
+plotmaze, len(visitedPositions) = 6098
+prob mutation  4.9699999999999385
+len(visitedPosition)  6109
+generation =  246
+prob mutation  4.979999999999938
+len(visitedPosition)  6118
+generation =  247
+prob mutation  4.989999999999938
+len(visitedPosition)  6125
+generation =  248
+prob mutation  4.999999999999938
+len(visitedPosition)  6137
+generation =  249
+prob mutation  5.009999999999938
+len(visitedPosition)  6141
+generation =  250
+plotmaze, len(visitedPositions) = 6141
+prob mutation  5.019999999999937
+len(visitedPosition)  6148
+generation =  251
+prob mutation  5.029999999999937
+len(visitedPosition)  6157
+generation =  252
+prob mutation  5.039999999999937
+len(visitedPosition)  6166
+generation =  253
+prob mutation  5.049999999999937
+len(visitedPosition)  6177
+generation =  254
+prob mutation  5.0599999999999365
+len(visitedPosition)  6184
+generation =  255
+plotmaze, len(visitedPositions) = 6184
+prob mutation  5.069999999999936
+len(visitedPosition)  6196
+generation =  256
+prob mutation  5.079999999999936
+len(visitedPosition)  6200
+generation =  257
+prob mutation  5.089999999999936
+len(visitedPosition)  6211
+generation =  258
+prob mutation  5.099999999999936
+len(visitedPosition)  6225
+generation =  259
+prob mutation  5.1099999999999355
+len(visitedPosition)  6233
+generation =  260
+plotmaze, len(visitedPositions) = 6233
+prob mutation  5.119999999999935
+len(visitedPosition)  6249
+generation =  261
+prob mutation  5.129999999999935
+len(visitedPosition)  6259
+generation =  262
+prob mutation  5.139999999999935
+len(visitedPosition)  6265
+generation =  263
+prob mutation  5.149999999999935
+len(visitedPosition)  6276
+generation =  264
+prob mutation  5.159999999999934
+len(visitedPosition)  6281
+generation =  265
+plotmaze, len(visitedPositions) = 6281
+prob mutation  5.169999999999934
+len(visitedPosition)  6287
+generation =  266
+prob mutation  5.179999999999934
+len(visitedPosition)  6295
+generation =  267
+prob mutation  5.189999999999934
+len(visitedPosition)  6300
+generation =  268
+prob mutation  5.199999999999934
+len(visitedPosition)  6305
+generation =  269
+prob mutation  5.209999999999933
+len(visitedPosition)  6311
+generation =  270
+plotmaze, len(visitedPositions) = 6311
+prob mutation  5.219999999999933
+len(visitedPosition)  6318
+generation =  271
+prob mutation  5.229999999999933
+len(visitedPosition)  6325
+generation =  272
+prob mutation  5.239999999999933
+len(visitedPosition)  6333
+generation =  273
+prob mutation  5.2499999999999325
+len(visitedPosition)  6341
+generation =  274
+prob mutation  5.259999999999932
+len(visitedPosition)  6353
+generation =  275
+plotmaze, len(visitedPositions) = 6353
+prob mutation  5.269999999999932
+len(visitedPosition)  6359
+generation =  276
+prob mutation  5.279999999999932
+len(visitedPosition)  6372
+generation =  277
+prob mutation  5.289999999999932
+len(visitedPosition)  6381
+generation =  278
+prob mutation  5.299999999999931
+len(visitedPosition)  6387
+generation =  279
+prob mutation  5.309999999999931
+len(visitedPosition)  6396
+generation =  280
+plotmaze, len(visitedPositions) = 6396
+prob mutation  5.319999999999931
+len(visitedPosition)  6400
+generation =  281
+prob mutation  5.329999999999931
+len(visitedPosition)  6408
+generation =  282
+prob mutation  5.339999999999931
+len(visitedPosition)  6419
+generation =  283
+prob mutation  5.34999999999993
+len(visitedPosition)  6425
+generation =  284
+prob mutation  5.35999999999993
+len(visitedPosition)  6429
+generation =  285
+plotmaze, len(visitedPositions) = 6429
+prob mutation  5.36999999999993
+len(visitedPosition)  6434
+generation =  286
+prob mutation  5.37999999999993
+len(visitedPosition)  6439
+generation =  287
+prob mutation  5.3899999999999295
+len(visitedPosition)  6452
+generation =  288
+prob mutation  5.399999999999929
+len(visitedPosition)  6464
+generation =  289
+prob mutation  5.409999999999929
+len(visitedPosition)  6474
+generation =  290
+plotmaze, len(visitedPositions) = 6474
+prob mutation  5.419999999999929
+len(visitedPosition)  6481
+generation =  291
+prob mutation  5.429999999999929
+len(visitedPosition)  6489
+generation =  292
+prob mutation  5.4399999999999284
+len(visitedPosition)  6498
+generation =  293
+prob mutation  5.449999999999928
+len(visitedPosition)  6505
+generation =  294
+prob mutation  5.459999999999928
+len(visitedPosition)  6512
+generation =  295
+plotmaze, len(visitedPositions) = 6512
+prob mutation  5.469999999999928
+len(visitedPosition)  6520
+generation =  296
+prob mutation  5.479999999999928
+len(visitedPosition)  6525
+generation =  297
+prob mutation  5.489999999999927
+len(visitedPosition)  6529
+generation =  298
+prob mutation  5.499999999999927
+len(visitedPosition)  6535
+generation =  299
+prob mutation  5.509999999999927
+len(visitedPosition)  6543
+generation =  300
+plotmaze, len(visitedPositions) = 6543
+prob mutation  5.519999999999927
+len(visitedPosition)  6546
+generation =  301
+prob mutation  5.5299999999999265
+len(visitedPosition)  6556
+generation =  302
+prob mutation  5.539999999999926
+len(visitedPosition)  6563
+generation =  303
+prob mutation  5.549999999999926
+len(visitedPosition)  6572
+generation =  304
+prob mutation  5.559999999999926
+len(visitedPosition)  6578
+generation =  305
+plotmaze, len(visitedPositions) = 6578
+prob mutation  5.569999999999926
+len(visitedPosition)  6586
+generation =  306
+prob mutation  5.5799999999999255
+len(visitedPosition)  6592
+generation =  307
+prob mutation  5.589999999999925
+len(visitedPosition)  6598
+generation =  308
+prob mutation  5.599999999999925
+len(visitedPosition)  6601
+generation =  309
+prob mutation  5.609999999999925
+len(visitedPosition)  6607
+generation =  310
+plotmaze, len(visitedPositions) = 6607
+prob mutation  5.619999999999925
+len(visitedPosition)  6613
+generation =  311
+prob mutation  5.629999999999924
+len(visitedPosition)  6620
+generation =  312
+prob mutation  5.639999999999924
+len(visitedPosition)  6627
+generation =  313
+prob mutation  5.649999999999924
+len(visitedPosition)  6633
+generation =  314
+prob mutation  5.659999999999924
+len(visitedPosition)  6640
+generation =  315
+plotmaze, len(visitedPositions) = 6640
+prob mutation  5.6699999999999235
+len(visitedPosition)  6649
+generation =  316
+prob mutation  5.679999999999923
+len(visitedPosition)  6658
+generation =  317
+prob mutation  5.689999999999923
+len(visitedPosition)  6664
+generation =  318
+prob mutation  5.699999999999923
+len(visitedPosition)  6668
+generation =  319
+prob mutation  5.709999999999923
+len(visitedPosition)  6675
+generation =  320
+plotmaze, len(visitedPositions) = 6675
+prob mutation  5.7199999999999225
+len(visitedPosition)  6680
+generation =  321
+prob mutation  5.729999999999922
+len(visitedPosition)  6690
+generation =  322
+prob mutation  5.739999999999922
+len(visitedPosition)  6694
+generation =  323
+prob mutation  5.749999999999922
+len(visitedPosition)  6700
+generation =  324
+prob mutation  5.759999999999922
+len(visitedPosition)  6706
+generation =  325
+plotmaze, len(visitedPositions) = 6706
+prob mutation  5.769999999999921
+len(visitedPosition)  6711
+generation =  326
+prob mutation  5.779999999999921
+len(visitedPosition)  6722
+generation =  327
+prob mutation  5.789999999999921
+len(visitedPosition)  6727
+generation =  328
+prob mutation  5.799999999999921
+len(visitedPosition)  6739
+generation =  329
+prob mutation  5.809999999999921
+len(visitedPosition)  6749
+generation =  330
+plotmaze, len(visitedPositions) = 6749
+prob mutation  5.81999999999992
+len(visitedPosition)  6752
+generation =  331
+prob mutation  5.82999999999992
+len(visitedPosition)  6759
+generation =  332
+prob mutation  5.83999999999992
+len(visitedPosition)  6765
+generation =  333
+prob mutation  5.84999999999992
+len(visitedPosition)  6773
+generation =  334
+prob mutation  5.8599999999999195
+len(visitedPosition)  6781
+generation =  335
+plotmaze, len(visitedPositions) = 6781
+prob mutation  5.869999999999919
+len(visitedPosition)  6792
+generation =  336
+prob mutation  5.879999999999919
+len(visitedPosition)  6800
+generation =  337
+prob mutation  5.889999999999919
+len(visitedPosition)  6807
+generation =  338
+prob mutation  5.899999999999919
+len(visitedPosition)  6812
+generation =  339
+prob mutation  5.909999999999918
+len(visitedPosition)  6816
+generation =  340
+plotmaze, len(visitedPositions) = 6816
+prob mutation  5.919999999999918
+len(visitedPosition)  6822
+generation =  341
+prob mutation  5.929999999999918
+len(visitedPosition)  6828
+generation =  342
+prob mutation  5.939999999999918
+len(visitedPosition)  6831
+generation =  343
+prob mutation  5.949999999999918
+len(visitedPosition)  6837
+generation =  344
+prob mutation  5.959999999999917
+len(visitedPosition)  6846
+generation =  345
+plotmaze, len(visitedPositions) = 6846
+prob mutation  5.969999999999917
+len(visitedPosition)  6851
+generation =  346
+prob mutation  5.979999999999917
+len(visitedPosition)  6853
+generation =  347
+prob mutation  5.989999999999917
+len(visitedPosition)  6857
+generation =  348
+prob mutation  5.9999999999999165
+len(visitedPosition)  6864
+generation =  349
+prob mutation  6.009999999999916
+len(visitedPosition)  6870
+generation =  350
+plotmaze, len(visitedPositions) = 6870
+prob mutation  6.019999999999916
+len(visitedPosition)  6873
+generation =  351
+prob mutation  6.029999999999916
+len(visitedPosition)  6882
+generation =  352
+prob mutation  6.039999999999916
+len(visitedPosition)  6890
+generation =  353
+prob mutation  6.0499999999999154
+len(visitedPosition)  6894
+generation =  354
+prob mutation  6.059999999999915
+len(visitedPosition)  6897
+generation =  355
+plotmaze, len(visitedPositions) = 6897
+prob mutation  6.069999999999915
+len(visitedPosition)  6901
+generation =  356
+prob mutation  6.079999999999915
+len(visitedPosition)  6909
+generation =  357
+prob mutation  6.089999999999915
+len(visitedPosition)  6913
+generation =  358
+prob mutation  6.099999999999914
+len(visitedPosition)  6920
+generation =  359
+prob mutation  6.109999999999914
+len(visitedPosition)  6926
+generation =  360
+plotmaze, len(visitedPositions) = 6926
+prob mutation  6.119999999999914
+len(visitedPosition)  6934
+generation =  361
+prob mutation  6.129999999999914
+len(visitedPosition)  6940
+generation =  362
+prob mutation  6.1399999999999135
+len(visitedPosition)  6950
+generation =  363
+prob mutation  6.149999999999913
+len(visitedPosition)  6960
+generation =  364
+prob mutation  6.159999999999913
+len(visitedPosition)  6966
+generation =  365
+plotmaze, len(visitedPositions) = 6966
+prob mutation  6.169999999999913
+len(visitedPosition)  6969
+generation =  366
+prob mutation  6.179999999999913
+len(visitedPosition)  6975
+generation =  367
+prob mutation  6.1899999999999125
+len(visitedPosition)  6981
+generation =  368
+prob mutation  6.199999999999912
+len(visitedPosition)  6988
+generation =  369
+prob mutation  6.209999999999912
+len(visitedPosition)  6995
+generation =  370
+plotmaze, len(visitedPositions) = 6995
+prob mutation  6.219999999999912
+len(visitedPosition)  7003
+generation =  371
+prob mutation  6.229999999999912
+len(visitedPosition)  7009
+generation =  372
+prob mutation  6.239999999999911
+len(visitedPosition)  7018
+generation =  373
+prob mutation  6.249999999999911
+len(visitedPosition)  7025
+generation =  374
+prob mutation  6.259999999999911
+len(visitedPosition) pygame 2.0.0.dev0 (SDL 1.2.15, python 3.6.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+len(visitedPosition)  746
+generation =  1
+prob mutation  0.01
+len(visitedPosition)  885
+generation =  2
+prob mutation  0.01
+len(visitedPosition)  1021
+generation =  3
+prob mutation  0.01
+len(visitedPosition)  1144
+generation =  4
+prob mutation  0.01
+len(visitedPosition)  1258
+generation =  5
+plotmaze, len(visitedPositions) = 1258
+prob mutation  0.01
+len(visitedPosition)  1375
+generation =  6
+prob mutation  0.01
+len(visitedPosition)  1488
+generation =  7
+prob mutation  0.01
+len(visitedPosition)  1607
+generation =  8
+prob mutation  0.01
+len(visitedPosition)  1712
+generation =  9
+prob mutation  0.01
+len(visitedPosition)  1819
+generation =  10
+plotmaze, len(visitedPositions) = 1819
+prob mutation  0.01
+len(visitedPosition)  1926
+generation =  11
+prob mutation  0.01
+len(visitedPosition)  2009
+generation =  12
+prob mutation  0.01
+len(visitedPosition)  2106
+generation =  13
+prob mutation  0.01
+len(visitedPosition)  2189
+generation =  14
+prob mutation  0.01
+len(visitedPosition)  2271
+generation =  15
+plotmaze, len(visitedPositions) = 2271
+prob mutation  0.01
+len(visitedPosition)  2352
+generation =  16
+prob mutation  0.01
+len(visitedPosition)  2439
+generation =  17
+prob mutation  0.01
+len(visitedPosition)  2516
+generation =  18
+prob mutation  0.01
+len(visitedPosition)  2596
+generation =  19
+prob mutation  0.01
+len(visitedPosition)  2673
+generation =  20
+plotmaze, len(visitedPositions) = 2673
+prob mutation  0.01
+len(visitedPosition)  2751
+generation =  21
+prob mutation  0.01
+len(visitedPosition)  2822
+generation =  22
+prob mutation  0.01
+len(visitedPosition)  2895
+generation =  23
+prob mutation  0.01
+len(visitedPosition)  2952
+generation =  24
+prob mutation  0.01
+len(visitedPosition)  3016
+generation =  25
+plotmaze, len(visitedPositions) = 3016
+prob mutation  0.01
+len(visitedPosition)  3078
+generation =  26
+prob mutation  0.01
+len(visitedPosition)  3136
+generation =  27
+prob mutation  0.01
+len(visitedPosition)  3194
+generation =  28
+prob mutation  0.01
+len(visitedPosition)  3258
+generation =  29
+prob mutation  0.01
+len(visitedPosition)  3315
+generation =  30
+plotmaze, len(visitedPositions) = 3315
+prob mutation  0.01
+len(visitedPosition)  3364
+generation =  31
+prob mutation  0.01
+len(visitedPosition)  3415
+generation =  32
+prob mutation  0.01
+len(visitedPosition)  3469
+generation =  33
+prob mutation  0.01
+len(visitedPosition)  3535
+generation =  34
+prob mutation  0.01
+len(visitedPosition)  3583
+generation =  35
+plotmaze, len(visitedPositions) = 3583
+prob mutation  0.01
+len(visitedPosition)  3632
+generation =  36
+prob mutation  0.01
+len(visitedPosition)  3690
+generation =  37
+prob mutation  0.01
+len(visitedPosition)  3739
+generation =  38
+prob mutation  0.01
+len(visitedPosition)  3779
+generation =  39
+prob mutation  0.01
+len(visitedPosition)  3827
+generation =  40
+plotmaze, len(visitedPositions) = 3827
+prob mutation  0.01
+len(visitedPosition)  3873
+generation =  41
+prob mutation  0.01
+len(visitedPosition)  3913
+generation =  42
+prob mutation  0.01
+len(visitedPosition)  3959
+generation =  43
+prob mutation  0.01
+len(visitedPosition)  4004
+generation =  44
+prob mutation  0.01
+len(visitedPosition)  4054
+generation =  45
+plotmaze, len(visitedPositions) = 4054
+prob mutation  0.01
+len(visitedPosition)  4097
+generation =  46
+prob mutation  0.01
+len(visitedPosition)  4137
+generation =  47
+prob mutation  0.01
+len(visitedPosition)  4179
+generation =  48
+prob mutation  0.01
+len(visitedPosition)  4227
+generation =  49
+prob mutation  0.01
+len(visitedPosition)  4257
+generation =  50
+plotmaze, len(visitedPositions) = 4257
+prob mutation  0.01
+len(visitedPosition)  4300
+generation =  51
+prob mutation  0.01
+len(visitedPosition)  4338
+generation =  52
+prob mutation  0.01
+len(visitedPosition)  4372
+generation =  53
+prob mutation  0.01
+len(visitedPosition)  4410
+generation =  54
+prob mutation  0.01
+len(visitedPosition)  4458
+generation =  55
+plotmaze, len(visitedPositions) = 4458
+prob mutation  0.01
+len(visitedPosition)  4489
+generation =  56
+prob mutation  0.01
+len(visitedPosition)  4516
+generation =  57
+prob mutation  0.01
+len(visitedPosition)  4545
+generation =  58
+prob mutation  0.01
+len(visitedPosition)  4569
+generation =  59
+prob mutation  0.01
+len(visitedPosition)  4614
+generation =  60
+plotmaze, len(visitedPositions) = 4614
+prob mutation  0.01
+len(visitedPosition)  4643
+generation =  61
+prob mutation  0.01
+len(visitedPosition)  4683
+generation =  62
+prob mutation  0.01
+len(visitedPosition)  4718
+generation =  63
+prob mutation  0.01
+len(visitedPosition)  4749
+generation =  64
+prob mutation  0.01
+len(visitedPosition)  4781
+generation =  65
+plotmaze, len(visitedPositions) = 4781
+prob mutation  0.01
+len(visitedPosition)  4811
+generation =  66
+prob mutation  0.01
+len(visitedPosition)  4840
+generation =  67
+prob mutation  0.01
+len(visitedPosition)  4870
+generation =  68
+prob mutation  0.01
+len(visitedPosition)  4900
+generation =  69
+prob mutation  0.01
+len(visitedPosition)  4935
+generation =  70
+plotmaze, len(visitedPositions) = 4935
+prob mutation  0.01
+len(visitedPosition)  4963
+generation =  71
+prob mutation  0.01
+len(visitedPosition)  4999
+generation =  72
+prob mutation  0.01
+len(visitedPosition)  5029
+generation =  73
+prob mutation  0.01
+len(visitedPosition)  5058
+generation =  74
+prob mutation  0.01
+len(visitedPosition)  5083
+generation =  75
+plotmaze, len(visitedPositions) = 5083
+prob mutation  0.01
+len(visitedPosition)  5110
+generation =  76
+prob mutation  0.01
+len(visitedPosition)  5140
+generation =  77
+prob mutation  0.01
+len(visitedPosition)  5171
+generation =  78
+prob mutation  0.01
+len(visitedPosition)  5201
+generation =  79
+prob mutation  0.01
+len(visitedPosition)  5219
+generation =  80
+plotmaze, len(visitedPositions) = 5219
+prob mutation  0.02
+len(visitedPosition)  5249
+generation =  81
+prob mutation  0.02
+len(visitedPosition)  5273
+generation =  82
+prob mutation  0.02
+len(visitedPosition)  5305
+generation =  83
+prob mutation  0.02
+len(visitedPosition)  5331
+generation =  84
+prob mutation  0.02
+len(visitedPosition)  5363
+generation =  85
+plotmaze, len(visitedPositions) = 5363
+prob mutation  0.02
+len(visitedPosition)  5397
+generation =  86
+prob mutation  0.02
+len(visitedPosition)  5429
+generation =  87
+prob mutation  0.02
+len(visitedPosition)  5453
+generation =  88
+prob mutation  0.02
+len(visitedPosition)  5479
+generation =  89
+prob mutation  0.02
+len(visitedPosition)  5503
+generation =  90
+plotmaze, len(visitedPositions) = 5503
+prob mutation  0.02
+len(visitedPosition)  5529
+generation =  91
+prob mutation  0.02
+len(visitedPosition)  5556
+generation =  92
+prob mutation  0.02
+len(visitedPosition)  5587
+generation =  93
+prob mutation  0.02
+len(visitedPosition)  5606
+generation =  94
+prob mutation  0.03
+len(visitedPosition)  5626
+generation =  95
+plotmaze, len(visitedPositions) = 5626
+prob mutation  0.03
+len(visitedPosition)  5646
+generation =  96
+prob mutation  0.03
+len(visitedPosition)  5669
+generation =  97
+prob mutation  0.03
+len(visitedPosition)  5695
+generation =  98
+prob mutation  0.03
+len(visitedPosition)  5720
+generation =  99
+prob mutation  0.03
+len(visitedPosition)  5739
+generation =  100
+plotmaze, len(visitedPositions) = 5739
+prob mutation  0.04
+len(visitedPosition)  5762
+generation =  101
+prob mutation  0.04
+len(visitedPosition)  5772
+generation =  102
+prob mutation  0.05
+len(visitedPosition)  5803
+generation =  103
+prob mutation  0.05
+len(visitedPosition)  5828
+generation =  104
+prob mutation  0.05
+len(visitedPosition)  5864
+generation =  105
+plotmaze, len(visitedPositions) = 5864
+prob mutation  0.05
+len(visitedPosition)  5890
+generation =  106
+prob mutation  0.05
+len(visitedPosition)  5913
+generation =  107
+prob mutation  0.05
+len(visitedPosition)  5935
+generation =  108
+prob mutation  0.05
+len(visitedPosition)  5965
+generation =  109
+prob mutation  0.05
+len(visitedPosition)  5985
+generation =  110
+plotmaze, len(visitedPositions) = 5985
+prob mutation  0.05
+len(visitedPosition)  6016
+generation =  111
+prob mutation  0.05
+len(visitedPosition)  6042
+generation =  112
+prob mutation  0.05
+len(visitedPosition)  6057
+generation =  113
+prob mutation pygame 2.0.0.dev0 (SDL 1.2.15, python 3.6.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+len(visitedPosition)  763
+generation =  1
+prob mutation  0.005
+len(visitedPosition)  931
+generation =  2
+prob mutation  0.005
+len(visitedPosition)  1083
+generation =  3
+prob mutation  0.005
+len(visitedPosition)  1226
+generation =  4
+prob mutation  0.005
+len(visitedPosition)  1368
+generation =  5
+plotmaze, len(visitedPositions) = 1368
+prob mutation  0.005
+len(visitedPosition)  1510
+generation =  6
+prob mutation  0.005
+len(visitedPosition)  1658
+generation =  7
+prob mutation  0.005
+len(visitedPosition)  1776
+generation =  8
+prob mutation  0.005
+len(visitedPosition)  1924
+generation =  9
+prob mutation  0.005
+len(visitedPosition)  2076
+generation =  10
+plotmaze, len(visitedPositions) = 2076
+prob mutation  0.005
+len(visitedPosition)  2212
+generation =  11
+prob mutation  0.005
+len(visitedPosition)  2346
+generation =  12
+prob mutation  0.005
+len(visitedPosition)  2460
+generation =  13
+prob mutation  0.005
+len(visitedPosition)  2572
+generation =  14
+prob mutation  0.005
+len(visitedPosition)  2685
+generation =  15
+plotmaze, len(visitedPositions) = 2685
+prob mutation  0.005
+len(visitedPosition)  2765
+generation =  16
+prob mutation  0.005
+len(visitedPosition)  2853
+generation =  17
+prob mutation  0.005
+len(visitedPosition)  2946
+generation =  18
+prob mutation  0.005
+len(visitedPosition)  3025
+generation =  19
+prob mutation  0.005
+len(visitedPosition)  3106
+generation =  20
+plotmaze, len(visitedPositions) = 3106
+prob mutation  0.005
+len(visitedPosition)  3180
+generation =  21
+prob mutation  0.005
+len(visitedPosition)  3248
+generation =  22
+prob mutation  0.005
+len(visitedPosition)  3329
+generation =  23
+prob mutation  0.005
+len(visitedPosition)  3402
+generation =  24
+prob mutation  0.005
+len(visitedPosition)  3473
+generation =  25
+plotmaze, len(visitedPositions) = 3473
+prob mutation  0.005
+len(visitedPosition)  3548
+generation =  26
+prob mutation  0.005
+len(visitedPosition)  3615
+generation =  27
+prob mutation  0.005
+len(visitedPosition)  3675
+generation =  28
+prob mutation  0.005
+len(visitedPosition)  3730
+generation =  29
+prob mutation  0.005
+len(visitedPosition)  3786
+generation =  30
+plotmaze, len(visitedPositions) = 3786
+prob mutation  0.005
+len(visitedPosition)  3848
+generation =  31
+prob mutation  0.005
+len(visitedPosition)  3886
+generation =  32
+prob mutation  0.005
+len(visitedPosition)  3948
+generation =  33
+prob mutation  0.005
+len(visitedPosition)  3982
+generation =  34
+prob mutation  0.005
+len(visitedPosition)  4035
+generation =  35
+plotmaze, len(visitedPositions) = 4035
+prob mutation  0.005
+len(visitedPosition)  4088
+generation =  36
+prob mutation  0.005
+len(visitedPosition)  4121
+generation =  37
+prob mutation  0.005
+len(visitedPosition)  4165
+generation =  38
+prob mutation  0.005
+len(visitedPosition)  4203
+generation =  39
+prob mutation  0.005
+len(visitedPosition)  4242
+generation =  40
+plotmaze, len(visitedPositions) = 4242
+prob mutation  0.005
+len(visitedPosition)  4295
+generation =  41
+prob mutation  0.005
+len(visitedPosition)  4335
+generation =  42
+prob mutation  0.005
+len(visitedPosition)  4382
+generation =  43
+prob mutation  0.005
+len(visitedPosition)  4443
+generation =  44
+prob mutation  0.005
+len(visitedPosition)  4479
+generation =  45
+plotmaze, len(visitedPositions) = 4479
+prob mutation  0.005
+len(visitedPosition)  4526
+generation =  46
+prob mutation  0.005
+len(visitedPosition)  4565
+generation =  47
+prob mutation  0.005
+len(visitedPosition)  4602
+generation =  48
+prob mutation  0.005
+len(visitedPosition)  4646
+generation =  49
+prob mutation  0.005
+len(visitedPosition)  4675
+generation =  50
+plotmaze, len(visitedPositions) = 4675
+prob mutation  0.005
+len(visitedPosition)  4713
+generation =  51
+prob mutation  0.005
+len(visitedPosition)  4747
+generation =  52
+prob mutation  0.005
+len(visitedPosition)  4788
+generation =  53
+prob mutation  0.005
+len(visitedPosition)  4820
+generation =  54
+prob mutation  0.005
+len(visitedPosition)  4854
+generation =  55
+plotmaze, len(visitedPositions) = 4854
+prob mutation  0.005
+len(visitedPosition)  4886
+generation =  56
+prob mutation  0.005
+len(visitedPosition)  4926
+generation =  57
+prob mutation  0.005
+len(visitedPosition)  4961
+generation =  58
+prob mutation  0.005
+len(visitedPosition)  4993
+generation =  59
+prob mutation  0.005
+len(visitedPosition)  5026
+generation =  60
+plotmaze, len(visitedPositions) = 5026
+prob mutation  0.005
+len(visitedPosition)  5063
+generation =  61
+prob mutation  0.005
+len(visitedPosition)  5107
+generation =  62
+prob mutation  0.005
+len(visitedPosition)  5136
+generation =  63
+prob mutation  0.005
+len(visitedPosition)  5178
+generation =  64
+prob mutation  0.005
+len(visitedPosition)  5219
+generation =  65
+plotmaze, len(visitedPositions) = 5219
+prob mutation  0.005
+len(visitedPosition)  5248
+generation =  66
+prob mutation  0.005
+len(visitedPosition)  5279
+generation =  67
+prob mutation  0.005
+len(visitedPosition)  5315
+generation =  68
+prob mutation  0.005
+len(visitedPosition)  5348
+generation =  69
+prob mutation  0.005
+len(visitedPosition)  5375
+generation =  70
+plotmaze, len(visitedPositions) = 5375
+prob mutation  0.005
+len(visitedPosition)  5409
+generation =  71
+prob mutation  0.005
+len(visitedPosition)  5429
+generation =  72
+prob mutation  0.005
+len(visitedPosition)  5455
+generation =  73
+prob mutation  0.005
+len(visitedPosition)  5480
+generation =  74
+prob mutation  0.005
+len(visitedPosition)  5506
+generation =  75
+plotmaze, len(visitedPositions) = 5506
+prob mutation  0.005
+len(visitedPosition)  5536
+generation =  76
+prob mutation  0.005
+len(visitedPosition)  5563
+generation =  77
+prob mutation  0.005
+len(visitedPosition)  5594
+generation =  78
+prob mutation  0.005
+len(visitedPosition)  5616
+generation =  79
+prob mutation  0.005
+len(visitedPosition)  5632
+generation =  80
+plotmaze, len(visitedPositions) = 5632
+prob mutation  0.01
+len(visitedPosition)  5649
+generation =  81
+prob mutation  0.015
+len(visitedPosition)  5673
+generation =  82
+prob mutation  0.015
+len(visitedPosition)  5700
+generation =  83
+prob mutation  0.015
+len(visitedPosition)  5723
+generation =  84
+prob mutation  0.015
+len(visitedPosition)  5751
+generation =  85
+plotmaze, len(visitedPositions) = 5751
+prob mutation  0.015
+len(visitedPosition)  5770
+generation =  86
+prob mutation  0.02
+len(visitedPosition)  5797
+generation =  87
+prob mutation  0.02
+len(visitedPosition)  5818
+generation =  88
+prob mutation  0.02
+len(visitedPosition)  5838
+generation =  89
+prob mutation  0.02
+len(visitedPosition)  5859
+generation =  90
+plotmaze, len(visitedPositions) = 5859
+prob mutation  0.02
+len(visitedPosition)  5881
+generation =  91
+prob mutation  0.02
+len(visitedPosition)  5903
+generation =  92
+prob mutation  0.02
+len(visitedPosition)  5935
+generation =  93
+prob mutation  0.02
+len(visitedPosition)  5966
+generation =  94
+prob mutation  0.02
+len(visitedPosition)  5987
+generation =  95
+plotmaze, len(visitedPositions) = 5987
+prob mutation  0.02
+len(visitedPosition)  6009
+generation =  96
+prob mutation  0.02
+len(visitedPosition)  6027
+generation =  97
+prob mutation  0.025
+len(visitedPosition)  6045
+generation =  98
+prob mutation  0.030000000000000002
+len(visitedPosition)  6065
+generation =  99
+prob mutation  0.030000000000000002
+len(visitedPosition)  6085
+generation =  100
+plotmaze, len(visitedPositions) = 6085
+prob mutation  0.030000000000000002
+len(visitedPosition)  6106
+generation =  101
+prob mutation  0.030000000000000002
+len(visitedPosition)  6120
+generation =  102
+prob mutation  0.035
+len(visitedPosition)  6134
+generation =  103
+prob mutation  0.04
+len(visitedPosition)  6154
+generation =  104
+prob mutation  0.04
+len(visitedPosition)  6182
+generation =  105
+plotmaze, len(visitedPositions) = 6182
+prob mutation  0.04
+len(visitedPosition)  6207
+generation =  106
+prob mutation  0.04
+len(visitedPosition)  6229
+generation =  107
+prob mutation  0.04
+len(visitedPosition)  6250
+generation =  108
+prob mutation  0.04
+len(visitedPosition)  6274
+generation =  109
+prob mutation  0.04
+len(visitedPosition)  6292
+generation =  110
+plotmaze, len(visitedPositions) = 6292
+prob mutation  0.045
+len(visitedPosition)  6310
+ 0.060000000000000005
+len(visitedPosition)  6075
+generation =  114
+prob mutation  0.07
+len(visitedPosition)  6096
+generation =  115
+plotmaze, len(visitedPositions) = 6096
+prob mutation  0.07
+len(visitedPosition)  6122
+generation =  116
+prob mutation  0.07
+len(visitedPosition)  6146
+generation =  117
+prob mutation  0.07
+len(visitedPosition)  6162
+generation =  118
+prob mutation  0.08
+len(visitedPosition)  6179
+generation =  119
+prob mutation  0.09
+len(visitedPosition)  6199
+generation =  120
+plotmaze, len(visitedPositions) = 6199
+prob mutation  0.09
+len(visitedPosition)  6226
+generation =  121
+prob mutation  0.09
+len(visitedPosition)  6248
+generation =  122
+prob mutation  0.09
+len(visitedPosition)  6271
+generation =  123
+prob mutation  0.09
+len(visitedPosition)  6298
+generation =  124
+prob mutation  0.09
+len(visitedPosition)  6320
+generation =  125
+plotmaze, len(visitedPositions) = 6320
+prob mutation  0.09
+len(visitedPosition)  6340
+generation =  126
+prob mutation  0.09
+len(visitedPosition)  6353
+generation =  127
+prob mutation  0.09999999999999999
+len(visitedPosition)  6370
+generation =  128
+prob mutation  0.10999999999999999
+len(visitedPosition)  6396
+generation =  129
+prob mutation  0.10999999999999999
+len(visitedPosition)  6414
+generation =  130
+plotmaze, len(visitedPositions) = 6414
+prob mutation  0.11999999999999998
+len(visitedPosition)  6438
+generation =  131
+prob mutation  0.11999999999999998
+len(visitedPosition)  6459
+generation =  132
+prob mutation  0.11999999999999998
+len(visitedPosition)  6475
+generation =  133
+prob mutation  0.12999999999999998
+len(visitedPosition)  6492
+generation =  134
+prob mutation  0.13999999999999999
+len(visitedPosition)  6516
+generation =  135
+plotmaze, len(visitedPositions) = 6516
+prob mutation  0.13999999999999999
+len(visitedPosition)  6550
+generation =  136
+prob mutation  0.13999999999999999
+len(visitedPosition)  6567
+generation =  137
+prob mutation  0.15
+len(visitedPosition)  6582
+generation =  138
+prob mutation  0.16
+len(visitedPosition)  6604
+generation =  139
+prob mutation  0.16
+len(visitedPosition)  6621
+generation =  140
+plotmaze, len(visitedPositions) = 6621
+prob mutation  0.17
+len(visitedPosition)  6640
+generation =  141
+prob mutation  0.18000000000000002
+len(visitedPosition)  6655
+generation =  142
+prob mutation  0.19000000000000003
+len(visitedPosition)  6675
+generation =  143
+prob mutation  0.19000000000000003
+len(visitedPosition)  6700
+generation =  144
+prob mutation  0.19000000000000003
+len(visitedPosition)  6715
+generation =  145
+plotmaze, len(visitedPositions) = 6715
+prob mutation  0.20000000000000004
+len(visitedPosition)  6740
+generation =  146
+prob mutation  0.20000000000000004
+len(visitedPosition)  6755
+generation =  147
+prob mutation  0.21000000000000005
+len(visitedPosition)  6773
+generation =  148
+prob mutation  0.22000000000000006
+len(visitedPosition)  6793
+generation =  149
+prob mutation  0.22000000000000006
+len(visitedPosition)  6815
+generation =  150
+plotmaze, len(visitedPositions) = 6815
+prob mutation  0.22000000000000006
+len(visitedPosition)  6835
+generation =  151
+prob mutation  0.22000000000000006
+len(visitedPosition)  6849
+generation =  152
+prob mutation  0.23000000000000007
+len(visitedPosition)  6867
+generation =  153
+prob mutation  0.24000000000000007
+len(visitedPosition)  6884
+generation =  154
+prob mutation  0.25000000000000006
+len(visitedPosition)  6908
+generation =  155
+plotmaze, len(visitedPositions) = 6908
+prob mutation  0.25000000000000006
+len(visitedPosition)  6933
+generation =  156
+prob mutation  0.25000000000000006
+len(visitedPosition)  6954
+generation =  157
+prob mutation  0.25000000000000006
+len(visitedPosition)  6970
+generation =  158
+prob mutation  0.26000000000000006
+len(visitedPosition)  6989
+generation =  159
+prob mutation  0.2700000000000001
+len(visitedPosition)  7002
+generation =  160
+plotmaze, len(visitedPositions) = 7002
+prob mutation  0.2800000000000001
+len(visitedPosition)  7016
+generation =  161
+prob mutation  0.2900000000000001
+len(visitedPosition)  7031
+generation =  162
+prob mutation  0.3000000000000001
+len(visitedPosition)  7051
+generation =  163
+prob mutation  0.3000000000000001
+len(visitedPosition)  7066
+generation =  164
+prob mutation  0.3100000000000001
+len(visitedPosition)  7086
+generation =  165
+plotmaze, len(visitedPositions) = 7086
+prob mutation  0.3100000000000001
+len(visitedPosition)  7097
+generation =  166
+prob mutation  0.3200000000000001
+len(visitedPosition)  7119
+generation =  167
+prob mutation  0.3200000000000001
+len(visitedPosition)  7137
+generation =  168
+prob mutation  0.3300000000000001
+len(visitedPosition)  7156
+generation =  169
+prob mutation  0.34000000000000014
+len(visitedPosition)  7169
+generation =  170
+plotmaze, len(visitedPositions) = 7169
+prob mutation  0.35000000000000014
+len(visitedPosition)  7183
+generation =  171
+prob mutation  0.36000000000000015
+len(visitedPosition)  7192
+generation =  172
+prob mutation  0.37000000000000016
+len(visitedPosition)  7205
+generation =  173
+prob mutation  0.38000000000000017
+len(visitedPosition)  7223
+generation =  174
+prob mutation  0.3900000000000002
+len(visitedPosition)  7237
+generation =  175
+plotmaze, len(visitedPositions) = 7237
+prob mutation  0.4000000000000002
+len(visitedPosition)  7256
+generation =  176
+prob mutation  0.4100000000000002
+len(visitedPosition)  7271
+generation =  177
+prob mutation  0.4200000000000002
+len(visitedPosition)  7289
+generation =  178
+prob mutation  0.4300000000000002
+len(visitedPosition)  7307
+generation =  179
+prob mutation  0.4400000000000002
+len(visitedPosition)  7323
+generation =  180
+plotmaze, len(visitedPositions) = 7323
+prob mutation  0.45000000000000023
+len(visitedPosition)  7341
+generation =  181
+prob mutation  0.46000000000000024
+len(visitedPosition)  7361
+generation =  182
+prob mutation  0.46000000000000024
+len(visitedPosition)  7379
+generation =  183
+prob mutation  0.47000000000000025
+len(visitedPosition)  7395
+generation =  184
+prob mutation  0.48000000000000026
+len(visitedPosition)  7418
+generation =  185
+plotmaze, len(visitedPositions) = 7418
+prob mutation  0.48000000000000026
+len(visitedPosition)  7438
+generation =  186
+prob mutation  0.48000000000000026
+len(visitedPosition)  7454
+generation =  187
+prob mutation  0.49000000000000027
+len(visitedPosition)  7478
+generation =  188
+prob mutation  0.49000000000000027
+len(visitedPosition)  7493
+generation =  189
+prob mutation  0.5000000000000002
+len(visitedPosition)  7511
+generation =  190
+plotmaze, len(visitedPositions) = 7511
+prob mutation  0.5100000000000002
+len(visitedPosition)  7524
+generation =  191
+prob mutation  0.5200000000000002
+len(visitedPosition)  7536
+generation =  192
+prob mutation  0.5300000000000002
+len(visitedPosition)  7552
+generation =  193
+prob mutation  0.5400000000000003
+len(visitedPosition)  7570
+generation =  194
+prob mutation  0.5500000000000003
+len(visitedPosition)  7581
+generation =  195
+plotmaze, len(visitedPositions) = 7581
+prob mutation  0.5600000000000003
+len(visitedPosition)  7590
+generation =  196
+prob mutation  0.5700000000000003
+len(visitedPosition)  7602
+generation =  197
+prob mutation  0.5800000000000003
+len(visitedPosition)  7615
+generation =  198
+prob mutation  0.5900000000000003
+len(visitedPosition)  7629
+generation =  199
+prob mutation  0.6000000000000003
+len(visitedPosition)  7650
+generation =  200
+plotmaze, len(visitedPositions) = 7650
+prob mutation  0.6000000000000003
+len(visitedPosition)  7663
+generation =  201
+prob mutation  0.6100000000000003
+len(visitedPosition)  7677
+generation =  202
+prob mutation  0.6200000000000003
+len(visitedPosition)  7689
+generation =  203
+prob mutation  0.6300000000000003
+len(visitedPosition)  7706
+generation =  204
+prob mutation  0.6400000000000003
+len(visitedPosition)  7714
+generation =  205
+plotmaze, len(visitedPositions) = 7714
+prob mutation  0.6500000000000004
+len(visitedPosition)  7729
+generation =  206
+prob mutation  0.6600000000000004
+len(visitedPosition)  7748
+generation =  207
+prob mutation  0.6700000000000004
+len(visitedPosition)  7760
+generation =  208
+prob mutation  0.6800000000000004
+len(visitedPosition)  7771
+generation =  209
+prob mutation  0.6900000000000004
+len(visitedPosition)  7787
+generation =  210generation =  111
+prob mutation  0.049999999999999996
+len(visitedPosition)  6322
+generation =  112
+prob mutation  0.05499999999999999
+len(visitedPosition)  6343
+generation =  113
+prob mutation  0.05499999999999999
+len(visitedPosition)  6364
+generation =  114
+prob mutation  0.05499999999999999
+len(visitedPosition)  6381
+generation =  115
+plotmaze, len(visitedPositions) = 6381
+prob mutation  0.05999999999999999
+len(visitedPosition)  6396
+generation =  116
+prob mutation  0.06499999999999999
+len(visitedPosition)  6419
+generation =  117
+prob mutation  0.06499999999999999
+len(visitedPosition)  6446
+generation =  118
+prob mutation  0.06499999999999999
+len(visitedPosition)  6461
+generation =  119
+prob mutation  0.06999999999999999
+len(visitedPosition)  6479
+generation =  120
+plotmaze, len(visitedPositions) = 6479
+prob mutation  0.075
+len(visitedPosition)  6498
+generation =  121
+prob mutation  0.08
+len(visitedPosition)  6517
+generation =  122
+prob mutation  0.085
+len(visitedPosition)  6540
+generation =  123
+prob mutation  0.085
+len(visitedPosition)  6557
+generation =  124
+prob mutation  0.09000000000000001
+len(visitedPosition)  6574
+generation =  125
+plotmaze, len(visitedPositions) = 6574
+prob mutation  0.09500000000000001
+len(visitedPosition)  6591
+generation =  126
+prob mutation  0.10000000000000002
+len(visitedPosition)  6616
+generation =  127
+prob mutation  0.10000000000000002
+len(visitedPosition)  6638
+generation =  128
+prob mutation  0.10000000000000002
+len(visitedPosition)  6656
+generation =  129
+prob mutation  0.10500000000000002
+len(visitedPosition)  6668
+generation =  130
+plotmaze, len(visitedPositions) = 6668
+prob mutation  0.11000000000000003
+len(visitedPosition)  6691
+generation =  131
+prob mutation  0.11000000000000003
+len(visitedPosition)  6711
+generation =  132
+prob mutation  0.11000000000000003
+len(visitedPosition)  6731
+generation =  133
+prob mutation  0.11000000000000003
+len(visitedPosition)  6754
+generation =  134
+prob mutation  0.11000000000000003
+len(visitedPosition)  6771
+generation =  135
+plotmaze, len(visitedPositions) = 6771
+prob mutation  0.11500000000000003
+len(visitedPosition)  6790
+generation =  136
+prob mutation  0.12000000000000004
+len(visitedPosition)  6810
+generation =  137
+prob mutation  0.12000000000000004
+len(visitedPosition)  6829
+generation =  138
+prob mutation  0.12500000000000003
+len(visitedPosition)  6844
+generation =  139
+prob mutation  0.13000000000000003
+len(visitedPosition)  6855
+generation =  140
+plotmaze, len(visitedPositions) = 6855
+prob mutation  0.13500000000000004
+len(visitedPosition)  6874
+generation =  141
+prob mutation  0.14000000000000004
+len(visitedPosition)  6891
+generation =  142
+prob mutation  0.14500000000000005
+len(visitedPosition)  6908
+generation =  143
+prob mutation  0.15000000000000005
+len(visitedPosition)  6923
+generation =  144
+prob mutation  0.15500000000000005
+len(visitedPosition)  6931
+generation =  145
+plotmaze, len(visitedPositions) = 6931
+prob mutation  0.16000000000000006
+len(visitedPosition)  6946
+generation =  146
+prob mutation  0.16500000000000006
+len(visitedPosition)  6968
+generation =  147
+prob mutation  0.16500000000000006
+len(visitedPosition)  6989
+generation =  148
+prob mutation  0.16500000000000006
+len(visitedPosition)  7004
+generation =  149
+prob mutation  0.17000000000000007
+len(visitedPosition)  7018
+generation =  150
+plotmaze, len(visitedPositions) = 7018
+prob mutation  0.17500000000000007
+len(visitedPosition)  7033
+generation =  151
+prob mutation  0.18000000000000008
+len(visitedPosition)  7048
+generation =  152
+prob mutation  0.18500000000000008
+len(visitedPosition)  7063
+generation =  153
+prob mutation  0.19000000000000009
+len(visitedPosition)  7077
+generation =  154
+prob mutation  0.1950000000000001
+len(visitedPosition)  7091
+generation =  155
+plotmaze, len(visitedPositions) = 7091
+prob mutation  0.2000000000000001
+len(visitedPosition)  7107
+generation =  156
+prob mutation  0.2050000000000001
+len(visitedPosition)  7119
+generation =  157
+prob mutation  0.2100000000000001
+len(visitedPosition)  7132
+generation =  158
+prob mutation  0.2150000000000001
+len(visitedPosition)  7145
+generation =  159
+prob mutation  0.2200000000000001
+len(visitedPosition)  7157
+generation =  160
+plotmaze, len(visitedPositions) = 7157
+prob mutation  0.22500000000000012
+len(visitedPosition)  7175
+generation =  161
+prob mutation  0.23000000000000012
+len(visitedPosition)  7192
+generation =  162
+prob mutation  0.23500000000000013
+len(visitedPosition)  7210
+generation =  163
+prob mutation  0.24000000000000013
+len(visitedPosition)  7224
+generation =  164
+prob mutation  0.24500000000000013
+len(visitedPosition)  7235
+generation =  165
+plotmaze, len(visitedPositions) = 7235
+prob mutation  0.2500000000000001
+len(visitedPosition)  7245
+generation =  166
+prob mutation  0.2550000000000001
+len(visitedPosition)  7259
+generation =  167
+prob mutation  0.2600000000000001
+len(visitedPosition)  7268
+generation =  168
+prob mutation  0.2650000000000001
+len(visitedPosition)  7285
+generation =  169
+prob mutation  0.27000000000000013
+len(visitedPosition)  7298
+generation =  170
+plotmaze, len(visitedPositions) = 7298
+prob mutation  0.27500000000000013
+len(visitedPosition)  7309
+generation =  171
+prob mutation  0.28000000000000014
+len(visitedPosition)  7324
+generation =  172
+prob mutation  0.28500000000000014
+len(visitedPosition)  7344
+generation =  173
+prob mutation  0.28500000000000014
+len(visitedPosition)  7362
+generation =  174
+prob mutation  0.29000000000000015
+len(visitedPosition)  7376
+generation =  175
+plotmaze, len(visitedPositions) = 7376
+prob mutation  0.29500000000000015
+len(visitedPosition)  7386
+generation =  176
+prob mutation  0.30000000000000016
+len(visitedPosition)  7400
+generation =  177
+prob mutation  0.30500000000000016
+len(visitedPosition)  7412
+generation =  178
+prob mutation  0.31000000000000016
+len(visitedPosition)  7424
+generation =  179
+prob mutation  0.31500000000000017
+len(visitedPosition)  7435
+generation =  180
+plotmaze, len(visitedPositions) = 7435
+prob mutation  0.3200000000000002
+len(visitedPosition)  7447
+generation =  181
+prob mutation  0.3250000000000002
+len(visitedPosition)  7457
+generation =  182
+prob mutation  0.3300000000000002
+len(visitedPosition)  7475
+generation =  183
+prob mutation  0.3350000000000002
+len(visitedPosition)  7487
+generation =  184
+prob mutation  0.3400000000000002
+len(visitedPosition)  7496
+generation =  185
+plotmaze, len(visitedPositions) = 7496
+prob mutation  0.3450000000000002
+len(visitedPosition)  7509
+generation =  186
+prob mutation  0.3500000000000002
+len(visitedPosition)  7523
+generation =  187
+prob mutation  0.3550000000000002
+len(visitedPosition)  7541
+generation =  188
+prob mutation  0.3600000000000002
+len(visitedPosition)  7550
+generation =  189
+prob mutation  0.3650000000000002
+len(visitedPosition)  7564
+generation =  190
+plotmaze, len(visitedPositions) = 7564
+prob mutation  0.3700000000000002
+len(visitedPosition)  7577
+generation =  191
+prob mutation  0.3750000000000002
+len(visitedPosition)  7595
+generation =  192
+prob mutation  0.3800000000000002
+len(visitedPosition)  7600
+generation =  193
+prob mutation  0.38500000000000023
+len(visitedPosition)  7610
+generation =  194
+prob mutation  0.39000000000000024
+len(visitedPosition)  7631
+generation =  195
+plotmaze, len(visitedPositions) = 7631
+prob mutation  0.39000000000000024
+len(visitedPosition)  7645
+generation =  196
+prob mutation  0.39500000000000024
+len(visitedPosition)  7659
+generation =  197
+prob mutation  0.40000000000000024
+len(visitedPosition)  7676
+generation =  198
+prob mutation  0.40500000000000025
+len(visitedPosition)  7690
+generation =  199
+prob mutation  0.41000000000000025
+len(visitedPosition)  7703
+generation =  200
+plotmaze, len(visitedPositions) = 7703
+prob mutation  0.41500000000000026
+len(visitedPosition)  7711
+generation =  201
+prob mutation  0.42000000000000026
+len(visitedPosition)  7723
+generation =  202
+prob mutation  0.42500000000000027
+len(visitedPosition)  7736
+generation =  203
+prob mutation  0.43000000000000027
+len(visitedPosition)  7747
+generation =  204
+prob mutation  0.4350000000000003
+len(visitedPosition)  7756
+generation =  205
+plotmaze, len(visitedPositions) =
+plotmaze, len(visitedPositions) = 7787
+prob mutation  0.7000000000000004
+len(visitedPosition)  7803
+generation =  211
+prob mutation  0.7100000000000004
+len(visitedPosition)  7816
+generation =  212
+prob mutation  0.7200000000000004
+len(visitedPosition)  7828
+generation =  213
+prob mutation  0.7300000000000004
+len(visitedPosition)  7842
+generation =  214
+prob mutation  0.7400000000000004
+len(visitedPosition)  7861
+generation =  215
+plotmaze, len(visitedPositions) = 7861
+prob mutation  0.7500000000000004
+len(visitedPosition)  7868
+generation =  216
+prob mutation  0.7600000000000005
+len(visitedPosition)  7879
+generation =  217
+prob mutation  0.7700000000000005
+len(visitedPosition)  7888
+generation =  218
+prob mutation  0.7800000000000005
+len(visitedPosition)  7902
+generation =  219
+prob mutation  0.7900000000000005
+len(visitedPosition)  7915
+generation =  220
+plotmaze, len(visitedPositions) = 7915
+prob mutation  0.8000000000000005
+len(visitedPosition)  7928
+generation =  221
+prob mutation  0.8100000000000005
+len(visitedPosition)  7944
+generation =  222
+prob mutation  0.8200000000000005
+len(visitedPosition)  7954
+generation =  223
+prob mutation  0.8300000000000005
+len(visitedPosition)  7973
+generation =  224
+prob mutation  0.8400000000000005
+len(visitedPosition)  7989
+generation =  225
+plotmaze, len(visitedPositions) = 7989
+prob mutation  0.8500000000000005
+len(visitedPosition)  7998
+generation =  226
+prob mutation  0.8600000000000005
+len(visitedPosition)  8011
+generation =  227
+prob mutation  0.8700000000000006
+len(visitedPosition)  8025
+generation =  228
+prob mutation  0.8800000000000006
+len(visitedPosition)  8033
+generation =  229
+prob mutation  0.8900000000000006
+len(visitedPosition)  8050
+generation =  230
+plotmaze, len(visitedPositions) = 8050
+prob mutation  0.9000000000000006
+len(visitedPosition)  8070
+generation =  231
+prob mutation  0.9000000000000006
+len(visitedPosition)  8085
+generation =  232
+prob mutation  0.9100000000000006
+len(visitedPosition)  8099
+generation =  233
+prob mutation  0.9200000000000006
+len(visitedPosition)  8115
+generation =  234
+prob mutation  0.9300000000000006
+len(visitedPosition)  8131
+generation =  235
+plotmaze, len(visitedPositions) = 8131
+prob mutation  0.9400000000000006
+len(visitedPosition)  8145
+generation =  236
+prob mutation  0.9500000000000006
+len(visitedPosition)  8160
+generation =  237
+prob mutation  0.9600000000000006
+len(visitedPosition)  8170
+generation =  238
+prob mutation  0.9700000000000006
+len(visitedPosition)  8181
+generation =  239
+prob mutation  0.9800000000000006
+len(visitedPosition)  8195
+generation =  240
+plotmaze, len(visitedPositions) = 8195
+prob mutation  0.9900000000000007
+len(visitedPosition)  8205
+generation =  241
+prob mutation  1.0000000000000007
+len(visitedPosition)  8214
+generation =  242
+prob mutation  1.0100000000000007
+len(visitedPosition)  8228
+generation =  243
+prob mutation  1.0200000000000007
+len(visitedPosition)  8240
+generation =  244
+prob mutation  1.0300000000000007
+len(visitedPosition)  8250
+generation =  245
+plotmaze, len(visitedPositions) = 8250
+prob mutation  1.0400000000000007
+len(visitedPosition)  8263
+generation =  246
+prob mutation  1.0500000000000007
+len(visitedPosition)  8279
+generation =  247
+prob mutation  1.0600000000000007
+len(visitedPosition)  8298
+generation =  248
+prob mutation  1.0700000000000007
+len(visitedPosition)  8306
+generation =  249
+prob mutation  1.0800000000000007
+len(visitedPosition)  8318
+generation =  250
+plotmaze, len(visitedPositions) = 8318
+prob mutation  1.0900000000000007
+len(visitedPosition)  8336
+generation =  251
+prob mutation  1.1000000000000008
+len(visitedPosition)  8351
+generation =  252
+prob mutation  1.1100000000000008
+len(visitedPosition)  8360
+generation =  253
+prob mutation  1.1200000000000008
+len(visitedPosition)  8371
+generation =  254
+prob mutation  1.1300000000000008
+len(visitedPosition)  8384
+generation =  255
+plotmaze, len(visitedPositions) = 8384
+prob mutation  1.1400000000000008
+len(visitedPosition)  8393
+generation =  256
+prob mutation  1.1500000000000008
+len(visitedPosition)  8408
+generation =  257
+prob mutation  1.1600000000000008
+len(visitedPosition)  8418
+generation =  258
+prob mutation  1.1700000000000008
+len(visitedPosition)  8438
+generation =  259
+prob mutation  1.1700000000000008
+len(visitedPosition)  8455
+generation =  260
+plotmaze, len(visitedPositions) = 8455
+prob mutation  1.1800000000000008
+len(visitedPosition)  8463
+generation =  261
+prob mutation  1.1900000000000008
+len(visitedPosition)  8471
+generation =  262
+prob mutation  1.2000000000000008
+len(visitedPosition)  8485
+generation =  263
+prob mutation  1.2100000000000009
+len(visitedPosition)  8495
+generation =  264
+prob mutation  1.2200000000000009
+len(visitedPosition)  8502
+generation =  265
+plotmaze, len(visitedPositions) = 8502
+prob mutation  1.2300000000000009
+len(visitedPosition)  8513
+generation =  266
+prob mutation  1.2400000000000009
+len(visitedPosition)  8524
+generation =  267
+prob mutation  1.2500000000000009
+len(visitedPosition)  8534
+generation =  268
+prob mutation  1.260000000000001
+len(visitedPosition)  8541
+generation =  269
+prob mutation  1.270000000000001
+len(visitedPosition)  8552
+generation =  270
+plotmaze, len(visitedPositions) = 8552
+prob mutation  1.280000000000001
+len(visitedPosition)  8558
+generation =  271
+prob mutation  1.290000000000001
+len(visitedPosition)  8569
+generation =  272
+prob mutation  1.300000000000001
+len(visitedPosition)  8580
+generation =  273
+prob mutation  1.310000000000001
+len(visitedPosition)  8593
+generation =  274
+prob mutation  1.320000000000001
+len(visitedPosition)  8601
+generation =  275
+plotmaze, len(visitedPositions) = 8601
+prob mutation  1.330000000000001
+len(visitedPosition)  8610
+generation =  276
+prob mutation  1.340000000000001
+len(visitedPosition)  8626
+generation =  277
+prob mutation  1.350000000000001
+len(visitedPosition)  8639
+generation =  278
+prob mutation  1.360000000000001
+len(visitedPosition)  8652
+generation =  279
+prob mutation  1.370000000000001
+len(visitedPosition)  8663
+generation =  280
+plotmaze, len(visitedPositions) = 8663
+prob mutation  1.380000000000001
+len(visitedPosition)  8673
+generation =  281
+prob mutation  1.390000000000001
+len(visitedPosition)  8681
+generation =  282
+prob mutation  1.400000000000001
+len(visitedPosition)  8689
+generation =  283
+prob mutation  1.410000000000001
+len(visitedPosition)  8696
+generation =  284
+prob mutation  1.420000000000001
+len(visitedPosition)  8708
+generation =  285
+plotmaze, len(visitedPositions) = 8708
+prob mutation  1.430000000000001
+len(visitedPosition)  8720
+generation =  286
+prob mutation  1.440000000000001
+len(visitedPosition)  8730
+generation =  287
+prob mutation  1.450000000000001
+len(visitedPosition)  8746
+generation =  288
+prob mutation  1.460000000000001
+len(visitedPosition)  8757
+generation =  289
+prob mutation  1.470000000000001
+len(visitedPosition)  8767
+generation =  290
+plotmaze, len(visitedPositions) = 8767
+prob mutation  1.480000000000001
+len(visitedPosition)  8773
+generation =  291
+prob mutation  1.490000000000001
+len(visitedPosition)  8784
+generation =  292
+prob mutation  1.500000000000001
+len(visitedPosition)  8791
+generation =  293
+prob mutation  1.5100000000000011
+len(visitedPosition)  8807
+generation =  294
+prob mutation  1.5200000000000011
+len(visitedPosition)  8820
+generation =  295
+plotmaze, len(visitedPositions) = 8820
+prob mutation  1.5300000000000011
+len(visitedPosition)  8834
+generation =  296
+prob mutation  1.5400000000000011
+len(visitedPosition)  8844
+generation =  297
+prob mutation  1.5500000000000012
+len(visitedPosition)  8851
+generation =  298
+prob mutation  1.5600000000000012
+len(visitedPosition)  8863
+generation =  299
+prob mutation  1.5700000000000012
+len(visitedPosition)  8873
+generation =  300
+plotmaze, len(visitedPositions) = 8873
+prob mutation  1.5800000000000012
+len(visitedPosition)  8883
+generation =  301
+prob mutation  1.5900000000000012
+len(visitedPosition)  8897
+generation =  302
+prob mutation  1.6000000000000012
+len(visitedPosition)  8904
+generation =  303
+prob mutation  1.6100000000000012
+len(visitedPosition)  8912
+generation =  304
+prob mutation  1.6200000000000012
+len(visitedPosition)  7756
+prob mutation  0.4400000000000003
+len(visitedPosition)  7769
+generation =  206
+prob mutation  0.4450000000000003
+len(visitedPosition)  7784
+generation =  207
+prob mutation  0.4500000000000003
+len(visitedPosition)  7798
+generation =  208
+prob mutation  0.4550000000000003
+len(visitedPosition)  7812
+generation =  209
+prob mutation  0.4600000000000003
+len(visitedPosition)  7818
+generation =  210
+plotmaze, len(visitedPositions) = 7818
+prob mutation  0.4650000000000003
+len(visitedPosition)  7832
+generation =  211
+prob mutation  0.4700000000000003
+len(visitedPosition)  7839
+generation =  212
+prob mutation  0.4750000000000003
+len(visitedPosition)  7856
+generation =  213
+prob mutation  0.4800000000000003
+len(visitedPosition)  7869
+generation =  214
+prob mutation  0.4850000000000003
+len(visitedPosition)  7882
+generation =  215
+plotmaze, len(visitedPositions) = 7882
+prob mutation  0.4900000000000003
+len(visitedPosition)  7897
+generation =  216
+prob mutation  0.49500000000000033
+len(visitedPosition)  7909
+generation =  217
+prob mutation  0.5000000000000003
+len(visitedPosition)  7927
+generation =  218
+prob mutation  0.5050000000000003
+len(visitedPosition)  7943
+generation =  219
+prob mutation  0.5100000000000003
+len(visitedPosition)  7952
+generation =  220
+plotmaze, len(visitedPositions) = 7952
+prob mutation  0.5150000000000003
+len(visitedPosition)  7962
+generation =  221
+prob mutation  0.5200000000000004
+len(visitedPosition)  7976
+generation =  222
+prob mutation  0.5250000000000004
+len(visitedPosition)  7984
+generation =  223
+prob mutation  0.5300000000000004
+len(visitedPosition)  7996
+generation =  224
+prob mutation  0.5350000000000004
+len(visitedPosition)  8006
+generation =  225
+plotmaze, len(visitedPositions) = 8006
+prob mutation  0.5400000000000004
+len(visitedPosition)  8014
+generation =  226
+prob mutation  0.5450000000000004
+len(visitedPosition)  8025
+generation =  227
+prob mutation  0.5500000000000004
+len(visitedPosition)  8040
+generation =  228
+prob mutation  0.5550000000000004
+len(visitedPosition)  8047
+generation =  229
+prob mutation  0.5600000000000004
+len(visitedPosition)  8055
+generation =  230
+plotmaze, len(visitedPositions) = 8055
+prob mutation  0.5650000000000004
+len(visitedPosition)  8064
+generation =  231
+prob mutation  0.5700000000000004
+len(visitedPosition)  8074
+generation =  232
+prob mutation  0.5750000000000004
+len(visitedPosition)  8083
+generation =  233
+prob mutation  0.5800000000000004
+len(visitedPosition)  8093
+generation =  234
+prob mutation  0.5850000000000004
+len(visitedPosition)  8100
+generation =  235
+plotmaze, len(visitedPositions) = 8100
+prob mutation  0.5900000000000004
+len(visitedPosition)  8109
+generation =  236
+prob mutation  0.5950000000000004
+len(visitedPosition)  8122
+generation =  237
+prob mutation  0.6000000000000004
+len(visitedPosition)  8134
+generation =  238
+prob mutation  0.6050000000000004
+len(visitedPosition)  8144
+generation =  239
+prob mutation  0.6100000000000004
+len(visitedPosition)  8156
+generation =  240
+plotmaze, len(visitedPositions) = 8156
+prob mutation  0.6150000000000004
+len(visitedPosition)  8164
+generation =  241
+prob mutation  0.6200000000000004
+len(visitedPosition)  8171
+generation =  242
+prob mutation  0.6250000000000004
+len(visitedPosition)  8182
+generation =  243
+prob mutation  0.6300000000000004
+len(visitedPosition)  8188
+generation =  244
+prob mutation  0.6350000000000005
+len(visitedPosition)  8196
+generation =  245
+plotmaze, len(visitedPositions) = 8196
+prob mutation  0.6400000000000005
+len(visitedPosition)  8208
+generation =  246
+prob mutation  0.6450000000000005
+len(visitedPosition)  8219
+generation =  247
+prob mutation  0.6500000000000005
+len(visitedPosition)  8229
+generation =  248
+prob mutation  0.6550000000000005
+len(visitedPosition)  8238
+generation =  249
+prob mutation  0.6600000000000005
+len(visitedPosition)  8249
+generation =  250
+plotmaze, len(visitedPositions) = 8249
+prob mutation  0.6650000000000005
+len(visitedPosition)  8258
+generation =  251
+prob mutation  0.6700000000000005
+len(visitedPosition)  8259
+generation =  252
+prob mutation  0.6750000000000005
+len(visitedPosition)  8269
+generation =  253
+prob mutation  0.6800000000000005
+len(visitedPosition)  8279
+generation =  254
+prob mutation  0.6850000000000005
+len(visitedPosition)  8290
+generation =  255
+plotmaze, len(visitedPositions) = 8290
+prob mutation  0.6900000000000005
+len(visitedPosition)  8299
+generation =  256
+prob mutation  0.6950000000000005
+len(visitedPosition)  8308
+generation =  257
+prob mutation  0.7000000000000005
+len(visitedPosition)  8317
+generation =  258
+prob mutation  0.7050000000000005
+len(visitedPosition)  8323
+generation =  259
+prob mutation  0.7100000000000005
+len(visitedPosition)  8332
+generation =  260
+plotmaze, len(visitedPositions) = 8332
+prob mutation  0.7150000000000005
+len(visitedPosition)  8340
+generation =  261
+prob mutation  0.7200000000000005
+len(visitedPosition)  8349
+generation =  262
+prob mutation  0.7250000000000005
+len(visitedPosition)  8355
+generation =  263
+prob mutation  0.7300000000000005
+len(visitedPosition)  8364
+generation =  264
+prob mutation  0.7350000000000005
+len(visitedPosition)  8371
+generation =  265
+plotmaze, len(visitedPositions) = 8371
+prob mutation  0.7400000000000005
+len(visitedPosition)  8382
+generation =  266
+prob mutation  0.7450000000000006
+len(visitedPosition)  8394
+generation =  267
+prob mutation  0.7500000000000006
+len(visitedPosition)  8401
+generation =  268
+prob mutation  0.7550000000000006
+len(visitedPosition)  8409
+generation =  269
+prob mutation  0.7600000000000006
+len(visitedPosition)  8417
+generation =  270
+plotmaze, len(visitedPositions) = 8417
+prob mutation  0.7650000000000006
+len(visitedPosition)  8425
+generation =  271
+prob mutation  0.7700000000000006
+len(visitedPosition)  8432
+generation =  272
+prob mutation  0.7750000000000006
+len(visitedPosition)  8440
+generation =  273
+prob mutation  0.7800000000000006
+len(visitedPosition)  8456
+generation =  274
+prob mutation  0.7850000000000006
+len(visitedPosition)  8464
+generation =  275
+plotmaze, len(visitedPositions) = 8464
+prob mutation  0.7900000000000006
+len(visitedPosition)  8473
+generation =  276
+prob mutation  0.7950000000000006
+len(visitedPosition)  8478
+generation =  277
+prob mutation  0.8000000000000006
+len(visitedPosition)  8484
+generation =  278
+prob mutation  0.8050000000000006
+len(visitedPosition)  8501
+generation =  279
+prob mutation  0.8100000000000006
+len(visitedPosition)  8514
+generation =  280
+plotmaze, len(visitedPositions) = 8514
+prob mutation  0.8150000000000006
+len(visitedPosition)  8530
+generation =  281
+prob mutation  0.8200000000000006
+len(visitedPosition)  8540
+generation =  282
+prob mutation  0.8250000000000006
+len(visitedPosition)  8553
+generation =  283
+prob mutation  0.8300000000000006
+len(visitedPosition)  8565
+generation =  284
+prob mutation  0.8350000000000006
+len(visitedPosition)  8577
+generation =  285
+plotmaze, len(visitedPositions) = 8577
+prob mutation  0.8400000000000006
+len(visitedPosition)  8588
+generation =  286
+prob mutation  0.8450000000000006
+len(visitedPosition)  8599
+generation =  287
+prob mutation  0.8500000000000006
+len(visitedPosition)  8607
+generation =  288
+prob mutation  0.8550000000000006
+len(visitedPosition)  8616
+generation =  289
+prob mutation  0.8600000000000007
+len(visitedPosition)  8624
+generation =  290
+plotmaze, len(visitedPositions) = 8624
+prob mutation  0.8650000000000007
+len(visitedPosition)  8636
+generation =  291
+prob mutation  0.8700000000000007
+len(visitedPosition)  8645
+generation =  292
+prob mutation  0.8750000000000007
+len(visitedPosition)  8656
+generation =  293
+prob mutation  0.8800000000000007
+len(visitedPosition)  8666
+generation =  294
+prob mutation  0.8850000000000007
+len(visitedPosition)  8681
+generation =  295
+plotmaze, len(visitedPositions) = 8681
+prob mutation  0.8900000000000007
+len(visitedPosition)  8694
+generation =  296
+prob mutation  0.8950000000000007
+len(visitedPosition)  8703
+generation =  297
+prob mutation  0.9000000000000007
+len(visitedPosition)  8712
+generation =  298
+prob mutation  0.9050000000000007
+len(visitedPosition)  8719
+generation =  299
+prob mutation  0.9100000000000007
+len(visitedPosition)  8731
+generation =  300
+plotmaze, len(visitedPositions) = 8731
+prob mutation  0.9150000000000007
+len(visitedPosition)  8743
+generation =  301
+prob mutation  0.9200000000000007
+len(visitedPosition)  8748
+generation =  302
+prob mutation  0.9250000000000007
+len(visitedPosition)  8759
+generation =  303
+prob mutation  0.9300000000000007
+len(visitedPosition)  8765
+generation =  304
+prob mutation  0.9350000000000007
+len(visitedPosition)  8780
+generation =  305
+plotmaze, len(visitedPositions) = 8780
+prob mutation  0.9400000000000007
+len(visitedPosition)  8788
+generation =  306
+prob mutation  0.9450000000000007
+len(visitedPosition)  8794
+generation =  307
+prob mutation  0.9500000000000007
+len(visitedPosition)  8803
+generation =  308
+prob mutation  0.9550000000000007
+len(visitedPosition)  8812
+generation =  309
+prob mutation  0.9600000000000007
+len(visitedPosition)  8821
+generation =  310
+plotmaze, len(visitedPositions) = 8821
+prob mutation  0.9650000000000007
+len(visitedPosition)  8831
+generation =  311
+prob mutation  0.9700000000000008
+len(visitedPosition)  8837
+generation =  312
+prob mutation  0.9750000000000008
+len(visitedPosition)  8847
+generation =  313
+prob mutation  0.9800000000000008
+len(visitedPosition)  8860
+generation =  314
+prob mutation  0.9850000000000008
+len(visitedPosition)  8874
+generation =  315
+plotmaze, len(visitedPositions) = 8874
+prob mutation  0.9900000000000008
+len(visitedPosition)  8882
+generation =  316
+prob mutation  0.9950000000000008
+len(visitedPosition)  8889
+generation =  317
+prob mutation  1.0000000000000007
+len(visitedPosition)  8896
+generation =  318
+prob mutation  1.0050000000000006
+len(visitedPosition)  8903
+generation =  319
+prob mutation  1.0100000000000005
+len(visitedPosition)  8907
+generation =  320
+plotmaze, len(visitedPositions) = 8907
+prob mutation  1.0150000000000003
+len(visitedPosition)  8916
+generation =  321
+prob mutation  1.0200000000000002
+len(visitedPosition)  8923
+generation =  322
+prob mutation  1.0250000000000001
+len(visitedPosition)  8931
+generation =  323
+prob mutation  1.03
+len(visitedPosition)  8942
+generation =  324
+prob mutation  1.035
+len(visitedPosition)  8947
+generation =  325
+plotmaze, len(visitedPositions) = 8947
+prob mutation  1.0399999999999998
+len(visitedPosition)  8962
+generation =  326
+prob mutation  1.0449999999999997
+len(visitedPosition)  8966
+generation =  327
+prob mutation  1.0499999999999996
+len(visitedPosition)  8973
+generation =  328
+prob mutation  1.0549999999999995
+len(visitedPosition)  8984
+generation =  329
+prob mutation  1.0599999999999994
+len(visitedPosition)  8991
+generation =  330
+plotmaze, len(visitedPositions) = 8991
+prob mutation  1.0649999999999993
+len(visitedPosition)  9001
+generation =  331
+prob mutation  1.0699999999999992
+len(visitedPosition)  9011
+generation =  332
+prob mutation  1.074999999999999
+len(visitedPosition)  9019
+generation =  333
+prob mutation  1.079999999999999
+len(visitedPosition)  9020
+generation =  334
+prob mutation  1.0849999999999989
+len(visitedPosition)  9028
+generation =  335
+plotmaze, len(visitedPositions) = 9028
+prob mutation  1.0899999999999987
+len(visitedPosition)  9036
+generation =  336
+prob mutation  1.0949999999999986
+len(visitedPosition)  9043
+generation =  337
+prob mutation  1.0999999999999985
+len(visitedPosition)  9048
+generation =  338
+prob mutation  1.1049999999999984
+len(visitedPosition)  9054
+generation =  339
+prob mutation  1.1099999999999983
+len(visitedPosition)  9063
+generation =  340
+plotmaze, len(visitedPositions) = 9063
+prob mutation  1.1149999999999982
+len(visitedPosition)  9075
+generation =  341
+prob mutation  1.119999999999998
+len(visitedPosition)  9086
+generation =  342
+prob mutation  1.124999999999998
+len(visitedPosition)  9095
+generation =  343
+prob mutation  1.129999999999998
+len(visitedPosition)  9103
+generation =  344
+prob mutation  1.1349999999999978
+len(visitedPosition)  9110
+generation =  345
+plotmaze, len(visitedPositions) = 9110
+prob mutation  1.1399999999999977
+len(visitedPosition)  9116
+generation =  346
+prob mutation  1.1449999999999976
+len(visitedPosition)  9122
+generation =  347
+prob mutation  1.1499999999999975
+len(visitedPosition)  9132
+generation =  348
+prob mutation  1.1549999999999974
+len(visitedPosition)  9141
+generation =  349
+prob mutation  1.1599999999999973
+len(visitedPosition)  9150
+generation =  350
+plotmaze, len(visitedPositions) = 9150
+prob mutation  1.1649999999999971
+len(visitedPosition)  9158
+generation =  351
+prob mutation  1.169999999999997
+len(visitedPosition)  9168
+generation =  352
+prob mutation  1.174999999999997
+len(visitedPosition)  9174
+generation =  353
+prob mutation  1.1799999999999968
+len(visitedPosition)  9177
+generation =  354
+prob mutation  1.1849999999999967
+len(visitedPosition)  9187
+generation =  355
+plotmaze, len(visitedPositions) = 9187
+prob mutation  1.1899999999999966
+len(visitedPosition)  9200
+generation =  356
+prob mutation  1.1949999999999965
+len(visitedPosition)  9204
+generation =  357
+prob mutation  1.1999999999999964
+len(visitedPosition)  9209
+generation =  358
+prob mutation  1.2049999999999963
+len(visitedPosition)  9216
+generation =  359
+prob mutation  1.2099999999999962
+len(visitedPosition)  9223
+generation =  360
+plotmaze, len(visitedPositions) = 9223
+prob mutation  1.214999999999996
+len(visitedPosition)  9230
+generation =  361
+prob mutation  1.219999999999996
+len(visitedPosition)  9236
+generation =  362
+prob mutation  1.2249999999999959
+len(visitedPosition)  9245
+generation =  363
+prob mutation  1.2299999999999958
+len(visitedPosition)  9256
+generation =  364
+prob mutation  1.2349999999999957
+len(visitedPosition)  9264
+generation =  365
+plotmaze, len(visitedPositions) = 9264
+prob mutation  1.2399999999999956
+len(visitedPosition)  9276
+generation =  366
+prob mutation  1.2449999999999954
+len(visitedPosition)  9288
+generation =  367
+prob mutation  1.2499999999999953
+len(visitedPosition)  9301
+generation =  368
+prob mutation  1.2549999999999952
+len(visitedPosition)  9310
+generation =  369
+prob mutation  1.2599999999999951
+len(visitedPosition)  9316
+generation =  370
+plotmaze, len(visitedPositions) = 9316
+prob mutation  1.264999999999995
+len(visitedPosition)  9320
+generation =  371
+prob mutation  1.269999999999995
+len(visitedPosition)  9330
+generation =  372
+prob mutation  1.2749999999999948
+len(visitedPosition)  9341
+generation =  373
+prob mutation  1.2799999999999947
+len(visitedPosition)  9348
+generation =  374
+prob mutation  1.2849999999999946
+len(visitedPosition)  9357
+generation =  375
+plotmaze, len(visitedPositions) = 9357
+prob mutation  1.2899999999999945
+len(visitedPosition)  9370
+generation =  376
+prob mutation  1.2949999999999944
+len(visitedPosition)  9381
+generation =  377
+prob mutation  1.2999999999999943
+len(visitedPosition)  9393
+generation =  378
+prob mutation  1.3049999999999942
+len(visitedPosition)  9404
+generation =  379
+prob mutation  1.309999999999994
+len(visitedPosition)  9419
+generation =  380
+plotmaze, len(visitedPositions) = 9419
+prob mutation  1.314999999999994
+len(visitedPosition)  9431
+generation =  381
+prob mutation  1.3199999999999938
+len(visitedPosition)  9438
+generation =  382
+prob mutation  1.3249999999999937
+len(visitedPosition)  9452
+generation =  383
+prob mutation  1.3299999999999936
+len(visitedPosition)  9467
+generation =  384
+prob mutation  1.3349999999999935
+len(visitedPosition)  9477
+generation =  385
+plotmaze, len(visitedPositions) = 9477
+prob mutation  1.3399999999999934
+len(visitedPosition)  9482
+generation =  386
+prob mutation  1.3449999999999933
+len(visitedPosition)  9491
+generation =  387
+prob mutation  1.3499999999999932
+len(visitedPosition)  9500
+generation =  388
+prob mutation  1.354999999999993
+len(visitedPosition)  9511
+generation =  389
+prob mutation  1.359999999999993
+len(visitedPosition)  9518
+generation =  390
+plotmaze, len(visitedPositions) = 9518
+prob mutation  1.3649999999999929
+len(visitedPosition)  9528
+generation =  391
+prob mutation  1.3699999999999928
+len(visitedPosition)  9537
+generation =  392
+prob mutation  1.3749999999999927
+len(visitedPosition)  9551
+generation =  393
+prob mutation  1.3799999999999926
+len(visitedPosition)  9561
+generation =  394
+prob mutation  1.3849999999999925
+len(visitedPosition)  8923
+generation =  305
+plotmaze, len(visitedPositions) = 8923
+prob mutation  1.6300000000000012
+len(visitedPosition)  8935
+generation =  306
+prob mutation  1.6400000000000012
+len(visitedPosition)  8940
+generation =  307
+prob mutation  1.6500000000000012
+len(visitedPosition)  8955
+generation =  308
+prob mutation  1.6600000000000013
+len(visitedPosition)  8959
+generation =  309
+prob mutation  1.6700000000000013
+len(visitedPosition)  8972
+generation =  310
+plotmaze, len(visitedPositions) = 8972
+prob mutation  1.6800000000000013
+len(visitedPosition)  8977
+generation =  311
+prob mutation  1.6900000000000013
+len(visitedPosition)  8989
+generation =  312
+prob mutation  1.7000000000000013
+len(visitedPosition)  8997
+generation =  313
+prob mutation  1.7100000000000013
+len(visitedPosition)  9008
+generation =  314
+prob mutation  1.7200000000000013
+len(visitedPosition)  9017
+generation =  315
+plotmaze, len(visitedPositions) = 9017
+prob mutation  1.7300000000000013
+len(visitedPosition)  9030
+generation =  316
+prob mutation  1.7400000000000013
+len(visitedPosition)  9043
+generation =  317
+prob mutation  1.7500000000000013
+len(visitedPosition)  9049
+generation =  318
+prob mutation  1.7600000000000013
+len(visitedPosition)  9057
+generation =  319
+prob mutation  1.7700000000000014
+len(visitedPosition)  9066
+generation =  320
+plotmaze, len(visitedPositions) = 9066
+prob mutation  1.7800000000000014
+len(visitedPosition)  9071
+generation =  321
+prob mutation  1.7900000000000014
+len(visitedPosition)  9081
+generation =  322
+prob mutation  1.8000000000000014
+len(visitedPosition)  9097
+generation =  323
+prob mutation  1.8100000000000014
+len(visitedPosition)  9114
+generation =  324
+prob mutation  1.8200000000000014
+len(visitedPosition)  9129
+generation =  325
+plotmaze, len(visitedPositions) = 9129
+prob mutation  1.8300000000000014
+len(visitedPosition)  9147
+generation =  326
+prob mutation  1.8400000000000014
+len(visitedPosition)  9155
+generation =  327
+prob mutation  1.8500000000000014
+len(visitedPosition)  9164
+generation =  328
+prob mutation  1.8600000000000014
+len(visitedPosition)  9177
+generation =  329
+prob mutation  1.8700000000000014
+len(visitedPosition)  9183
+generation =  330
+plotmaze, len(visitedPositions) = 9183
+prob mutation  1.8800000000000014
+len(visitedPosition)  9193
+generation =  331
+prob mutation  1.8900000000000015
+len(visitedPosition)  9201
+generation =  332
+prob mutation  1.9000000000000015
+len(visitedPosition)  9204
+generation =  333
+prob mutation  1.9100000000000015
+len(visitedPosition)  9212
+generation =  334
+prob mutation  1.9200000000000015
+len(visitedPosition)  9222
+generation =  335
+plotmaze, len(visitedPositions) = 9222
+prob mutation  1.9300000000000015
+len(visitedPosition)  9234
+generation =  336
+prob mutation  1.9400000000000015
+len(visitedPosition)  9246
+generation =  337
+prob mutation  1.9500000000000015
+len(visitedPosition)  9255
+generation =  338
+prob mutation  1.9600000000000015
+len(visitedPosition)  9265
+generation =  339
+prob mutation  1.9700000000000015
+len(visitedPosition)  9278
+generation =  340
+plotmaze, len(visitedPositions) = 9278
+prob mutation  1.9800000000000015
+len(visitedPosition)  9293
+generation =  341
+prob mutation  1.9900000000000015
+len(visitedPosition)  9306
+generation =  342
+prob mutation  2.0000000000000013
+len(visitedPosition)  9320
+generation =  343
+prob mutation  2.010000000000001
+len(visitedPosition)  9333
+generation =  344
+prob mutation  2.020000000000001
+len(visitedPosition)  9335
+generation =  345
+plotmaze, len(visitedPositions) = 9335
+prob mutation  2.0300000000000007
+len(visitedPosition)  9341
+generation =  346
+prob mutation  2.0400000000000005
+len(visitedPosition)  9348
+generation =  347
+prob mutation  2.0500000000000003
+len(visitedPosition)  9359
+generation =  348
+prob mutation  2.06
+len(visitedPosition)  9373
+generation =  349
+prob mutation  2.07
+len(visitedPosition)  9379
+generation =  350
+plotmaze, len(visitedPositions) = 9379
+prob mutation  2.0799999999999996
+len(visitedPosition)  9388
+generation =  351
+prob mutation  2.0899999999999994
+len(visitedPosition)  9403
+generation =  352
+prob mutation  2.099999999999999
+len(visitedPosition)  9415
+generation =  353
+prob mutation  2.109999999999999
+len(visitedPosition)  9429
+generation =  354
+prob mutation  2.1199999999999988
+len(visitedPosition)  9438
+generation =  355
+plotmaze, len(visitedPositions) = 9438
+prob mutation  2.1299999999999986
+len(visitedPosition)  9450
+generation =  356
+prob mutation  2.1399999999999983
+len(visitedPosition)  9458
+generation =  357
+prob mutation  2.149999999999998
+len(visitedPosition)  9466
+generation =  358
+prob mutation  2.159999999999998
+len(visitedPosition)  9476
+generation =  359
+prob mutation  2.1699999999999977
+len(visitedPosition)  9492
+generation =  360
+plotmaze, len(visitedPositions) = 9492
+prob mutation  2.1799999999999975
+len(visitedPosition)  9500
+generation =  361
+prob mutation  2.1899999999999973
+len(visitedPosition)  9512
+generation =  362
+prob mutation  2.199999999999997
+len(visitedPosition)  9532
+generation =  363
+prob mutation  2.199999999999997
+len(visitedPosition)  9538
+generation =  364
+prob mutation  2.209999999999997
+len(visitedPosition)  9550
+generation =  365
+plotmaze, len(visitedPositions) = 9550
+prob mutation  2.2199999999999966
+len(visitedPosition)  9562
+generation =  366
+prob mutation  2.2299999999999964
+len(visitedPosition)  9577
+generation =  367
+prob mutation  2.239999999999996
+len(visitedPosition)  9583
+generation =  368
+prob mutation  2.249999999999996
+len(visitedPosition)  9595
+generation =  369
+prob mutation  2.259999999999996
+len(visitedPosition)  9605
+generation =  370
+plotmaze, len(visitedPositions) = 9605
+prob mutation  2.2699999999999956
+len(visitedPosition)  9613
+generation =  371
+prob mutation  2.2799999999999954
+len(visitedPosition)  9625
+generation =  372
+prob mutation  2.289999999999995
+len(visitedPosition)  9636
+generation =  373
+prob mutation  2.299999999999995
+len(visitedPosition)  9645
+generation =  374
+prob mutation  2.3099999999999947
+len(visitedPosition)  9654
+generation =  375
+plotmaze, len(visitedPositions) = 9654
+prob mutation  2.3199999999999945
+len(visitedPosition)  9667
+generation =  376
+prob mutation  2.3299999999999943
+len(visitedPosition)  9678
+generation =  377
+prob mutation  2.339999999999994
+len(visitedPosition)  9687
+generation =  378
+prob mutation  2.349999999999994
+len(visitedPosition)  9697
+generation =  379
+prob mutation  2.3599999999999937
+len(visitedPosition)  9701
+generation =  380
+plotmaze, len(visitedPositions) = 9701
+prob mutation  2.3699999999999934
+len(visitedPosition)  9706
+generation =  381
+prob mutation  2.3799999999999932
+len(visitedPosition)  9712
+generation =  382
+prob mutation  2.389999999999993
+len(visitedPosition)  9727
+generation =  383
+prob mutation  2.399999999999993
+len(visitedPosition)  9737
+generation =  384
+prob mutation  2.4099999999999926
+len(visitedPosition)  9742
+generation =  385
+plotmaze, len(visitedPositions) = 9742
+prob mutation  2.4199999999999924
+len(visitedPosition)  9748
+generation =  386
+prob mutation  2.429999999999992
+len(visitedPosition)  9761
+generation =  387
+prob mutation  2.439999999999992
+len(visitedPosition)  9767
+generation =  388
+prob mutation  2.4499999999999917
+len(visitedPosition)  9780
+generation =  389
+prob mutation  2.4599999999999915
+len(visitedPosition)  9791
+generation =  390
+plotmaze, len(visitedPositions) = 9791
+prob mutation  2.4699999999999913
+len(visitedPosition)  9795
+generation =  391
+prob mutation  2.479999999999991
+len(visitedPosition)  9812
+generation =  392
+prob mutation  2.489999999999991
+len(visitedPosition)  9819
+generation =  393
+prob mutation  2.4999999999999907
+len(visitedPosition)  9826
+generation =  394
+prob mutation  2.5099999999999905
+len(visitedPosition)  9836
+generation =  395
+plotmaze, len(visitedPositions) = 9836
+prob mutation  2.5199999999999902
+len(visitedPosition)  9846
+generation =  396
+prob mutation  2.52999999999999
+len(visitedPosition)  9860
+generation =  397
+prob mutation  2.53999999999999
+len(visitedPosition)  9871
+generation =  398
+prob mutation  2.5499999999999896
+len(visitedPosition)  9878
+generation =  399
+prob mutation  2.5599999999999894
+len(visitedPosition)  9887
+generation =  400
+plotmaze, len(visitedPositions) = 9887
+prob mutation  2.569999999999989
+len(visitedPosition)  732
+generation =  1
+prob mutation  2.569999999999989
+len(visitedPosition)  851
+generation =  2
+prob mutation  2.569999999999989
+len(visitedPosition)  976
+generation =  3
+prob mutation  2.569999999999989
+len(visitedPosition)  1099
+generation =  4
+prob mutation  2.569999999999989
+len(visitedPosition)  1230
+generation =  5
+plotmaze, len(visitedPositions) = 1230
+prob mutation  2.569999999999989
+len(visitedPosition)  1339
+generation =  6
+prob mutation  2.569999999999989
+len(visitedPosition)  1443
+generation =  7
+prob mutation  2.569999999999989
+len(visitedPosition)  1560
+generation =  8
+prob mutation  2.569999999999989
+len(visitedPosition)  1672
+generation =  9
+prob mutation  2.569999999999989
+len(visitedPosition)  1767
+generation =  10
+plotmaze, len(visitedPositions) = 1767
+prob mutation  2.569999999999989
+len(visitedPosition)  1851
+generation =  11
+prob mutation  2.569999999999989
+len(visitedPosition)  1929
+generation =  12
+prob mutation  2.569999999999989
+len(visitedPosition)  2028
+generation =  13
+prob mutation  2.569999999999989
+len(visitedPosition)  2119
+generation =  14
+prob mutation  2.569999999999989
+len(visitedPosition)  2196
+generation =  15
+plotmaze, len(visitedPositions) = 2196
+prob mutation  2.569999999999989
+len(visitedPosition)  2270
+generation =  16
+prob mutation  2.569999999999989
+len(visitedPosition)  2344
+generation =  17
+prob mutation  2.569999999999989
+len(visitedPosition)  2423
+generation =  18
+prob mutation  2.569999999999989
+len(visitedPosition)  2489
+generation =  19
+prob mutation  2.569999999999989
+len(visitedPosition)  2548
+generation =  20
+plotmaze, len(visitedPositions) = 2548
+prob mutation  2.569999999999989
+len(visitedPosition)  2602
+generation =  21
+prob mutation  2.569999999999989
+len(visitedPosition)  2661
+generation =  22
+prob mutation  2.569999999999989
+len(visitedPosition)  2725
+generation =  23
+prob mutation  2.569999999999989
+len(visitedPosition)  2809
+generation =  24
+prob mutation  2.569999999999989
+len(visitedPosition)  2869
+generation =  25
+plotmaze, len(visitedPositions) = 2869
+prob mutation  2.569999999999989
+len(visitedPosition)  2938
+generation =  26
+prob mutation  2.569999999999989
+len(visitedPosition)  3001
+generation =  27
+prob mutation  2.569999999999989
+len(visitedPosition)  3049
+generation =  28
+prob mutation  2.569999999999989
+len(visitedPosition)  3106
+generation =  29
+prob mutation  2.569999999999989
+len(visitedPosition)  3152
+generation =  30
+plotmaze, len(visitedPositions) = 3152
+prob mutation  2.569999999999989
+len(visitedPosition)  3223
+generation =  31
+prob mutation  2.569999999999989
+len(visitedPosition)  3270
+generation =  32
+prob mutation  2.569999999999989
+len(visitedPosition)  3323
+generation =  33
+prob mutation  2.569999999999989
+len(visitedPosition)  3376
+generation =  34
+prob mutation  2.569999999999989
+len(visitedPosition)  3423
+generation =  35
+plotmaze, len(visitedPositions) = 3423
+prob mutation  2.569999999999989
+len(visitedPosition)  3472
+generation =  36
+prob mutation  2.569999999999989
+len(visitedPosition)  3522
+generation =  37
+prob mutation  2.569999999999989
+len(visitedPosition)  3568
+generation =  38
+prob mutation  2.569999999999989
+len(visitedPosition)  3618
+generation =  39
+prob mutation  2.569999999999989
+len(visitedPosition)  3667
+generation =  40
+plotmaze, len(visitedPositions) = 3667
+prob mutation  2.569999999999989
+len(visitedPosition)  3717
+generation =  41
+prob mutation  2.569999999999989
+len(visitedPosition)  3760
+generation =  42
+prob mutation  2.569999999999989
+len(visitedPosition)  3799
+generation =  43
+prob mutation  2.569999999999989
+len(visitedPosition)  3835
+generation =  44
+prob mutation  2.569999999999989
+len(visitedPosition)  3880
+generation =  45
+plotmaze, len(visitedPositions) = 3880
+prob mutation  2.569999999999989
+len(visitedPosition)  3920
+generation =  46
+prob mutation  2.569999999999989
+len(visitedPosition)  3958
+generation =  47
+prob mutation  2.569999999999989
+len(visitedPosition)  4005
+generation =  48
+prob mutation  2.569999999999989
+len(visitedPosition)  4042
+generation =  49
+prob mutation  2.569999999999989
+len(visitedPosition)  4085
+generation =  50
+plotmaze, len(visitedPositions) = 4085
+prob mutation  2.569999999999989
+len(visitedPosition)  4117
+generation =  51
+prob mutation  2.569999999999989
+len(visitedPosition)  4157
+generation =  52
+prob mutation  2.569999999999989
+len(visitedPosition)  4205
+generation =  53
+prob mutation  2.569999999999989
+len(visitedPosition)  4232
+generation =  54
+prob mutation  2.569999999999989
+len(visitedPosition)  4266
+generation =  55
+plotmaze, len(visitedPositions) = 4266
+prob mutation  2.569999999999989
+len(visitedPosition)  4305
+generation =  56
+prob mutation  2.569999999999989
+len(visitedPosition)  4338
+generation =  57
+prob mutation  2.569999999999989
+len(visitedPosition)  4378
+generation =  58
+prob mutation  2.569999999999989
+len(visitedPosition)  4413
+generation =  59
+prob mutation  2.569999999999989
+len(visitedPosition)  4446
+generation =  60
+plotmaze, len(visitedPositions) = 4446
+prob mutation  2.569999999999989
+len(visitedPosition)  4483
+generation =  61
+prob mutation  2.569999999999989
+len(visitedPosition)  4513
+generation =  62
+prob mutation  2.569999999999989
+len(visitedPosition)  4548
+generation =  63
+prob mutation  2.569999999999989
+len(visitedPosition)  4581
+generation =  64
+prob mutation  2.569999999999989
+len(visitedPosition)  4611
+generation =  65
+plotmaze, len(visitedPositions) = 4611
+prob mutation  2.569999999999989
+len(visitedPosition)  4639
+generation =  66
+prob mutation  2.569999999999989
+len(visitedPosition)  4670
+generation =  67
+prob mutation  2.569999999999989
+len(visitedPosition)  4692
+generation =  68
+prob mutation  2.569999999999989
+len(visitedPosition)  4719
+generation =  69
+prob mutation  2.569999999999989
+len(visitedPosition)  4750
+generation =  70
+plotmaze, len(visitedPositions) = 4750
+prob mutation  2.569999999999989
+len(visitedPosition)  4770
+generation =  71
+prob mutation  2.569999999999989
+len(visitedPosition)  4797
+generation =  72
+prob mutation  2.569999999999989
+len(visitedPosition)  4827
+generation =  73
+prob mutation  2.569999999999989
+len(visitedPosition)  4852
+generation =  74
+prob mutation  2.569999999999989
+len(visitedPosition)  4883
+generation =  75
+plotmaze, len(visitedPositions) = 4883
+prob mutation  2.569999999999989
+len(visitedPosition)  4910
+generation =  76
+prob mutation  2.569999999999989
+len(visitedPosition)  4938
+generation =  77
+prob mutation  2.569999999999989
+len(visitedPosition)  4959
+generation =  78
+prob mutation  2.569999999999989
+len(visitedPosition)  4985
+generation =  79
+prob mutation  2.569999999999989
+len(visitedPosition)  5008
+generation =  80
+plotmaze, len(visitedPositions) = 5008
+prob mutation  2.569999999999989
+len(visitedPosition)  5034
+generation =  81
+prob mutation  2.569999999999989
+len(visitedPosition)  5063
+generation =  82
+prob mutation  2.569999999999989
+len(visitedPosition)  5102
+generation =  83
+prob mutation  2.569999999999989
+len(visitedPosition)  5134
+generation =  84
+prob mutation  2.569999999999989
+len(visitedPosition)  5165
+generation =  85
+plotmaze, len(visitedPositions) = 5165
+prob mutation  2.569999999999989
+len(visitedPosition)  5178
+generation =  86
+prob mutation  2.579999999999989
+len(visitedPosition)  5196
+generation =  87
+prob mutation  2.5899999999999888
+len(visitedPosition)  5223
+generation =  88
+prob mutation  2.5899999999999888
+len(visitedPosition)  5250
+generation =  89
+prob mutation  2.5899999999999888
+len(visitedPosition)  5275
+generation =  90
+plotmaze, len(visitedPositions) = 5275
+prob mutation  2.5899999999999888
+len(visitedPosition)  5308
+generation =  91
+prob mutation  2.5899999999999888
+len(visitedPosition)  5324
+generation =  92
+prob mutation  2.5999999999999885
+len(visitedPosition)  5353
+generation =  93
+prob mutation  2.5999999999999885
+len(visitedPosition)  5370
+generation =  94
+prob mutation  2.6099999999999883
+len(visitedPosition)  5386
+generation =  95
+plotmaze, len(visitedPositions) = 5386
+prob mutation  2.619999999999988
+len(visitedPosition)  5405
+generation =  96
+prob mutation  9579
+generation =  395
+plotmaze, len(visitedPositions) = 9579
+prob mutation  1.3899999999999924
+len(visitedPosition)  9590
+generation =  396
+prob mutation  1.3949999999999922
+len(visitedPosition)  9600
+generation =  397
+prob mutation  1.3999999999999921
+len(visitedPosition)  9614
+generation =  398
+prob mutation  1.404999999999992
+len(visitedPosition)  9628
+generation =  399
+prob mutation  1.409999999999992
+len(visitedPosition)  9635
+generation =  400
+plotmaze, len(visitedPositions) = 9635
+prob mutation  1.4149999999999918
+len(visitedPosition)  9645
+generation =  401
+prob mutation  1.4199999999999917
+len(visitedPosition)  9655
+generation =  402
+prob mutation  1.4249999999999916
+len(visitedPosition)  9663
+generation =  403
+prob mutation  1.4299999999999915
+len(visitedPosition)  9673
+generation =  404
+prob mutation  1.4349999999999914
+len(visitedPosition)  9679
+generation =  405
+plotmaze, len(visitedPositions) = 9679
+prob mutation  1.4399999999999913
+len(visitedPosition)  9694
+generation =  406
+prob mutation  1.4449999999999912
+len(visitedPosition)  9703
+generation =  407
+prob mutation  1.449999999999991
+len(visitedPosition)  9708
+generation =  408
+prob mutation  1.454999999999991
+len(visitedPosition)  9718
+generation =  409
+prob mutation  1.4599999999999909
+len(visitedPosition)  9726
+generation =  410
+plotmaze, len(visitedPositions) = 9726
+prob mutation  1.4649999999999908
+len(visitedPosition)  9731
+generation =  411
+prob mutation  1.4699999999999906
+len(visitedPosition)  9741
+generation =  412
+prob mutation  1.4749999999999905
+len(visitedPosition)  9754
+generation =  413
+prob mutation  1.4799999999999904
+len(visitedPosition)  9763
+generation =  414
+prob mutation  1.4849999999999903
+len(visitedPosition)  9773
+generation =  415
+plotmaze, len(visitedPositions) = 9773
+prob mutation  1.4899999999999902
+len(visitedPosition)  9780
+generation =  416
+prob mutation  1.4949999999999901
+len(visitedPosition)  9791
+generation =  417
+prob mutation  1.49999999999999
+len(visitedPosition)  9802
+generation =  418
+prob mutation  1.50499999999999
+len(visitedPosition)  9809
+generation =  419
+prob mutation  1.5099999999999898
+len(visitedPosition)  9821
+generation =  420
+plotmaze, len(visitedPositions) = 9821
+prob mutation  1.5149999999999897
+len(visitedPosition)  9827
+generation =  421
+prob mutation  1.5199999999999896
+len(visitedPosition)  9838
+generation =  422
+prob mutation  1.5249999999999895
+len(visitedPosition)  9853
+generation =  423
+prob mutation  1.5299999999999894
+len(visitedPosition)  9865
+generation =  424
+prob mutation  1.5349999999999893
+len(visitedPosition)  9871
+generation =  425
+plotmaze, len(visitedPositions) = 9871
+prob mutation  1.5399999999999892
+len(visitedPosition)  9878
+generation =  426
+prob mutation  1.544999999999989
+len(visitedPosition)  9888
+generation =  427
+prob mutation  1.549999999999989
+len(visitedPosition)  9901
+generation =  428
+prob mutation  1.5549999999999888
+len(visitedPosition)  9917
+generation =  429
+prob mutation  1.5599999999999887
+len(visitedPosition)  9929
+generation =  430
+plotmaze, len(visitedPositions) = 9929
+prob mutation  1.5649999999999886
+len(visitedPosition)  9934
+generation =  431
+prob mutation  1.5699999999999885
+len(visitedPosition)  9945
+generation =  432
+prob mutation  1.5749999999999884
+len(visitedPosition)  9957
+generation =  433
+prob mutation  1.5799999999999883
+len(visitedPosition)  9965
+generation =  434
+prob mutation  1.5849999999999882
+len(visitedPosition)  9976
+generation =  435
+plotmaze, len(visitedPositions) = 9976
+prob mutation  1.589999999999988
+len(visitedPosition)  9985
+generation =  436
+prob mutation  1.594999999999988
+len(visitedPosition)  10001
+generation =  437
+prob mutation  1.5999999999999879
+len(visitedPosition)  10011
+generation =  438
+prob mutation  1.6049999999999878
+len(visitedPosition)  10017
+generation =  439
+prob mutation  1.6099999999999877
+len(visitedPosition)  10025
+generation =  440
+plotmaze, len(visitedPositions) = 10025
+prob mutation  1.6149999999999876
+len(visitedPosition)  10036
+generation =  441
+prob mutation  1.6199999999999875
+len(visitedPosition)  10044
+generation =  442
+prob mutation  1.6249999999999873
+len(visitedPosition)  10058
+generation =  443
+prob mutation  1.6299999999999872
+len(visitedPosition)  10068
+generation =  444
+prob mutation  1.6349999999999871
+len(visitedPosition)  10075
+generation =  445
+plotmaze, len(visitedPositions) = 10075
+prob mutation  1.639999999999987
+len(visitedPosition)  10087
+generation =  446
+prob mutation  1.644999999999987
+len(visitedPosition)  10097
+generation =  447
+prob mutation  1.6499999999999868
+len(visitedPosition)  10103
+generation =  448
+prob mutation  1.6549999999999867
+len(visitedPosition)  10110
+generation =  449
+prob mutation  1.6599999999999866
+len(visitedPosition)  10121
+generation =  450
+plotmaze, len(visitedPositions) = 10121
+prob mutation  1.6649999999999865
+len(visitedPosition)  10135
+generation =  451
+prob mutation  1.6699999999999864
+len(visitedPosition)  10138
+generation =  452
+prob mutation  1.6749999999999863
+len(visitedPosition)  10146
+generation =  453
+prob mutation  1.6799999999999862
+len(visitedPosition)  10153
+generation =  454
+prob mutation  1.684999999999986
+len(visitedPosition)  10157
+generation =  455
+plotmaze, len(visitedPositions) = 10157
+prob mutation  1.689999999999986
+len(visitedPosition)  10167
+generation =  456
+prob mutation  1.6949999999999859
+len(visitedPosition)  10171
+generation =  457
+prob mutation  1.6999999999999857
+len(visitedPosition)  10181
+generation =  458
+prob mutation  1.7049999999999856
+len(visitedPosition)  10195
+generation =  459
+prob mutation  1.7099999999999855
+len(visitedPosition)  10205
+generation =  460
+plotmaze, len(visitedPositions) = 10205
+prob mutation  1.7149999999999854
+len(visitedPosition)  10215
+generation =  461
+prob mutation  1.7199999999999853
+len(visitedPosition)  10221
+generation =  462
+prob mutation  1.7249999999999852
+len(visitedPosition)  10234
+generation =  463
+prob mutation  1.729999999999985
+len(visitedPosition)  10246
+generation =  464
+prob mutation  1.734999999999985
+len(visitedPosition)  10254
+generation =  465
+plotmaze, len(visitedPositions) = 10254
+prob mutation  1.739999999999985
+len(visitedPosition)  10260
+generation =  466
+prob mutation  1.7449999999999848
+len(visitedPosition)  10265
+generation =  467
+prob mutation  1.7499999999999847
+len(visitedPosition)  10273
+generation =  468
+prob mutation  1.7549999999999846
+len(visitedPosition)  10284
+generation =  469
+prob mutation  1.7599999999999845
+len(visitedPosition)  10287
+generation =  470
+plotmaze, len(visitedPositions) = 10287
+prob mutation  1.7649999999999844
+len(visitedPosition)  10295
+generation =  471
+prob mutation  1.7699999999999843
+len(visitedPosition)  10302
+generation =  472
+prob mutation  1.7749999999999841
+len(visitedPosition)  10309
+generation =  473
+prob mutation  1.779999999999984
+len(visitedPosition)  10318
+generation =  474
+prob mutation  1.784999999999984
+len(visitedPosition)  10327
+generation =  475
+plotmaze, len(visitedPositions) = 10327
+prob mutation  1.7899999999999838
+len(visitedPosition)  10332
+generation =  476
+prob mutation  1.7949999999999837
+len(visitedPosition)  10338
+generation =  477
+prob mutation  1.7999999999999836
+len(visitedPosition)  10340
+generation =  478
+prob mutation  1.8049999999999835
+len(visitedPosition)  10351
+generation =  479
+prob mutation  1.8099999999999834
+len(visitedPosition)  10357
+generation =  480
+plotmaze, len(visitedPositions) = 10357
+prob mutation  1.8149999999999833
+len(visitedPosition)  10362
+generation =  481
+prob mutation  1.8199999999999832
+len(visitedPosition)  10367
+generation =  482
+prob mutation  1.824999999999983
+len(visitedPosition)  10373
+generation =  483
+prob mutation  1.829999999999983
+len(visitedPosition)  10383
+generation =  484
+prob mutation  1.8349999999999829
+len(visitedPosition)  10390
+generation =  485
+plotmaze, len(visitedPositions) = 10390
+prob mutation  1.8399999999999828
+len(visitedPosition)  10400
+generation =  486
+prob mutation  1.8449999999999827
+len(visitedPosition)  10406
+generation =  487
+prob mutation  1.8499999999999825
+len(visitedPosition)  10414
+generation =  488
+prob mutation  1.8549999999999824
+len(visitedPosition)  2.629999999999988
+len(visitedPosition)  5441
+generation =  97
+prob mutation  2.629999999999988
+len(visitedPosition)  5463
+generation =  98
+prob mutation  2.629999999999988
+len(visitedPosition)  5480
+generation =  99
+prob mutation  2.6399999999999877
+len(visitedPosition)  5502
+generation =  100
+plotmaze, len(visitedPositions) = 5502
+prob mutation  2.6399999999999877
+len(visitedPosition)  5523
+generation =  101
+prob mutation  2.6399999999999877
+len(visitedPosition)  5543
+generation =  102
+prob mutation  2.6399999999999877
+len(visitedPosition)  5561
+generation =  103
+prob mutation  2.6499999999999875
+len(visitedPosition)  5580
+generation =  104
+prob mutation  2.6599999999999873
+len(visitedPosition)  5607
+generation =  105
+plotmaze, len(visitedPositions) = 5607
+prob mutation  2.6599999999999873
+len(visitedPosition)  5632
+generation =  106
+prob mutation  2.6599999999999873
+len(visitedPosition)  5648
+generation =  107
+prob mutation  2.669999999999987
+len(visitedPosition)  5665
+generation =  108
+prob mutation  2.679999999999987
+len(visitedPosition)  5686
+generation =  109
+prob mutation  2.679999999999987
+len(visitedPosition)  5709
+generation =  110
+plotmaze, len(visitedPositions) = 5709
+prob mutation  2.679999999999987
+len(visitedPosition)  5733
+generation =  111
+prob mutation  2.679999999999987
+len(visitedPosition)  5760
+generation =  112
+prob mutation  2.679999999999987
+len(visitedPosition)  5783
+generation =  113
+prob mutation  2.679999999999987
+len(visitedPosition)  5809
+generation =  114
+prob mutation  2.679999999999987
+len(visitedPosition)  5839
+generation =  115
+plotmaze, len(visitedPositions) = 5839
+prob mutation  2.679999999999987
+len(visitedPosition)  5864
+generation =  116
+prob mutation  2.679999999999987
+len(visitedPosition)  5884
+generation =  117
+prob mutation  2.679999999999987
+len(visitedPosition)  5908
+generation =  118
+prob mutation  2.679999999999987
+len(visitedPosition)  5928
+generation =  119
+prob mutation  2.679999999999987
+len(visitedPosition)  5948
+generation =  120
+plotmaze, len(visitedPositions) = 5948
+prob mutation  2.679999999999987
+len(visitedPosition)  5962
+generation =  121
+prob mutation  2.6899999999999866
+len(visitedPosition)  5983
+generation =  122
+prob mutation  2.6899999999999866
+len(visitedPosition)  6001
+generation =  123
+prob mutation  2.6999999999999864
+len(visitedPosition)  6022
+generation =  124
+prob mutation  2.6999999999999864
+len(visitedPosition)  6045
+generation =  125
+plotmaze, len(visitedPositions) = 6045
+prob mutation  2.6999999999999864
+len(visitedPosition)  6067
+generation =  126
+prob mutation  2.6999999999999864
+len(visitedPosition)  6089
+generation =  127
+prob mutation  2.6999999999999864
+len(visitedPosition)  6111
+generation =  128
+prob mutation  2.6999999999999864
+len(visitedPosition)  6129
+generation =  129
+prob mutation  2.709999999999986
+len(visitedPosition)  6143
+generation =  130
+plotmaze, len(visitedPositions) = 6143
+prob mutation  2.719999999999986
+len(visitedPosition)  6164
+generation =  131
+prob mutation  2.719999999999986
+len(visitedPosition)  6182
+generation =  132
+prob mutation  2.7299999999999858
+len(visitedPosition)  6197
+generation =  133
+prob mutation  2.7399999999999856
+len(visitedPosition)  6217
+generation =  134
+prob mutation  2.7399999999999856
+len(visitedPosition)  6235
+generation =  135
+plotmaze, len(visitedPositions) = 6235
+prob mutation  2.7499999999999853
+len(visitedPosition)  6249
+generation =  136
+prob mutation  2.759999999999985
+len(visitedPosition)  6264
+generation =  137
+prob mutation  2.769999999999985
+len(visitedPosition)  6286
+generation =  138
+prob mutation  2.769999999999985
+len(visitedPosition)  6303
+generation =  139
+prob mutation  2.7799999999999847
+len(visitedPosition)  6319
+generation =  140
+plotmaze, len(visitedPositions) = 6319
+prob mutation  2.7899999999999845
+len(visitedPosition)  6341
+generation =  141
+prob mutation  2.7899999999999845
+len(visitedPosition)  6353
+generation =  142
+prob mutation  2.7999999999999843
+len(visitedPosition)  6370
+generation =  143
+prob mutation  2.809999999999984
+len(visitedPosition)  6382
+generation =  144
+prob mutation  2.819999999999984
+len(visitedPosition)  6399
+generation =  145
+plotmaze, len(visitedPositions) = 6399
+prob mutation  2.8299999999999836
+len(visitedPosition)  6422
+generation =  146
+prob mutation  2.8299999999999836
+len(visitedPosition)  6435
+generation =  147
+prob mutation  2.8399999999999834
+len(visitedPosition)  6448
+generation =  148
+prob mutation  2.849999999999983
+len(visitedPosition)  6472
+generation =  149
+prob mutation  2.849999999999983
+len(visitedPosition)  6488
+generation =  150
+plotmaze, len(visitedPositions) = 6488
+prob mutation  2.859999999999983
+len(visitedPosition)  6507
+generation =  151
+prob mutation  2.869999999999983
+len(visitedPosition)  6529
+generation =  152
+prob mutation  2.869999999999983
+len(visitedPosition)  6556
+generation =  153
+prob mutation  2.869999999999983
+len(visitedPosition)  6573
+generation =  154
+prob mutation  2.8799999999999826
+len(visitedPosition)  6593
+generation =  155
+plotmaze, len(visitedPositions) = 6593
+prob mutation  2.8799999999999826
+len(visitedPosition)  6618
+generation =  156
+prob mutation  2.8799999999999826
+len(visitedPosition)  6637
+generation =  157
+prob mutation  2.8899999999999824
+len(visitedPosition)  6653
+generation =  158
+prob mutation  2.899999999999982
+len(visitedPosition)  6666
+generation =  159
+prob mutation  2.909999999999982
+len(visitedPosition)  6683
+generation =  160
+plotmaze, len(visitedPositions) = 6683
+prob mutation  2.9199999999999817
+len(visitedPosition)  6707
+generation =  161
+prob mutation  2.9199999999999817
+len(visitedPosition)  6721
+generation =  162
+prob mutation  2.9299999999999815
+len(visitedPosition)  6735
+generation =  163
+prob mutation  2.9399999999999813
+len(visitedPosition)  6752
+generation =  164
+prob mutation  2.949999999999981
+len(visitedPosition)  6765
+generation =  165
+plotmaze, len(visitedPositions) = 6765
+prob mutation  2.959999999999981
+len(visitedPosition)  6779
+generation =  166
+prob mutation  2.9699999999999807
+len(visitedPosition)  6803
+generation =  167
+prob mutation  2.9699999999999807
+len(visitedPosition)  6824
+generation =  168
+prob mutation  2.9699999999999807
+len(visitedPosition)  6839
+generation =  169
+prob mutation  2.9799999999999804
+len(visitedPosition)  6856
+generation =  170
+plotmaze, len(visitedPositions) = 6856
+prob mutation  2.9899999999999802
+len(visitedPosition)  6877
+generation =  171
+prob mutation  2.9899999999999802
+len(visitedPosition)  6890
+generation =  172
+prob mutation  2.99999999999998
+len(visitedPosition)  6901
+generation =  173
+prob mutation  3.00999999999998
+len(visitedPosition)  6912
+generation =  174
+prob mutation  3.0199999999999796
+len(visitedPosition)  6924
+generation =  175
+plotmaze, len(visitedPositions) = 6924
+prob mutation  3.0299999999999794
+len(visitedPosition)  6940
+generation =  176
+prob mutation  3.039999999999979
+len(visitedPosition)  6964
+generation =  177
+prob mutation  3.039999999999979
+len(visitedPosition)  6976
+generation =  178
+prob mutation  3.049999999999979
+len(visitedPosition)  6985
+generation =  179
+prob mutation  3.0599999999999787
+len(visitedPosition)  7003
+generation =  180
+plotmaze, len(visitedPositions) = 7003
+prob mutation  3.0699999999999785
+len(visitedPosition)  7017
+generation =  181
+prob mutation  3.0799999999999783
+len(visitedPosition)  7030
+generation =  182
+prob mutation  3.089999999999978
+len(visitedPosition)  7043
+generation =  183
+prob mutation  3.099999999999978
+len(visitedPosition)  7054
+generation =  184
+prob mutation  3.1099999999999777
+len(visitedPosition)  7070
+generation =  185
+plotmaze, len(visitedPositions) = 7070
+prob mutation  3.1199999999999775
+len(visitedPosition)  7082
+generation =  186
+prob mutation  3.1299999999999772
+len(visitedPosition)  7094
+generation =  187
+prob mutation  3.139999999999977
+len(visitedPosition)  7099
+generation =  188
+prob mutation  3.149999999999977
+len(visitedPosition)  7113
+generation =  189
+prob mutation  3.1599999999999766
+len(visitedPosition)  7132
+generation =  190
+plotmaze, len(visitedPositions) = 7132
+prob mutation  3.1699999999999764
+len(visitedPosition)  7147
+generation =  191
+prob mutation  3.179999999999976
+len(visitedPosition)  7155
+generation =  192
+prob mutation  3.189999999999976
+len(visitedPosition)  7167
+generation =  193
+prob mutation  3.1999999999999758
+len(visitedPosition)  7178
+generation =  194
+prob mutation  3.2099999999999755
+len(visitedPosition)  7196
+generation =  195
+plotmaze, len(visitedPositions) = 7196
+prob mutation  3.2199999999999753
+len(visitedPosition)  7210
+generation =  196
+prob mutation  3.229999999999975
+len(visitedPosition)  7223
+generation =  197
+prob mutation  3.239999999999975
+len(visitedPosition)  7231
+generation =  198
+prob mutation  3.2499999999999747
+len(visitedPosition)  7247
+generation =  199
+prob mutation  3.2599999999999745
+len(visitedPosition)  7259
+generation =  200
+plotmaze, len(visitedPositions) = 7259
+prob mutation  3.2699999999999743
+len(visitedPosition)  7274
+generation =  201
+prob mutation  3.279999999999974
+len(visitedPosition)  7291
+generation =  202
+prob mutation  3.289999999999974
+len(visitedPosition)  7307
+generation =  203
+prob mutation  3.2999999999999736
+len(visitedPosition)  7322
+generation =  204
+prob mutation  3.3099999999999734
+len(visitedPosition)  7337
+generation =  205
+plotmaze, len(visitedPositions) = 7337
+prob mutation  3.319999999999973
+len(visitedPosition)  7355
+generation =  206
+prob mutation  3.329999999999973
+len(visitedPosition)  7368
+generation =  207
+prob mutation  3.3399999999999728
+len(visitedPosition)  7382
+generation =  208
+prob mutation  3.3499999999999726
+len(visitedPosition)  7391
+generation =  209
+prob mutation  3.3599999999999723
+len(visitedPosition)  7408
+generation =  210
+plotmaze, len(visitedPositions) = 7408
+prob mutation  3.369999999999972
+len(visitedPosition)  7425
+generation =  211
+prob mutation  3.379999999999972
+len(visitedPosition)  7439
+generation =  212
+prob mutation  3.3899999999999717
+len(visitedPosition)  7456
+generation =  213
+prob mutation  3.3999999999999715
+len(visitedPosition)  7467
+generation =  214
+prob mutation  3.4099999999999713
+len(visitedPosition)  7489
+generation =  215
+plotmaze, len(visitedPositions) = 7489
+prob mutation  3.4099999999999713
+len(visitedPosition)  7501
+generation =  216
+prob mutation  3.419999999999971
+len(visitedPosition)  7515
+generation =  217
+prob mutation  3.429999999999971
+len(visitedPosition)  7530
+generation =  218
+prob mutation  3.4399999999999706
+len(visitedPosition)  7545
+generation =  219
+prob mutation  3.4499999999999704
+len(visitedPosition)  7562
+generation =  220
+plotmaze, len(visitedPositions) = 7562
+prob mutation  3.45999999999997
+len(visitedPosition)  7579
+generation =  221
+prob mutation  3.46999999999997
+len(visitedPosition)  7590
+generation =  222
+prob mutation  3.47999999999997
+len(visitedPosition)  7606
+generation =  223
+prob mutation  3.4899999999999696
+len(visitedPosition)  7616
+generation =  224
+prob mutation  3.4999999999999694
+len(visitedPosition)  7626
+generation =  225
+plotmaze, len(visitedPositions) = 7626
+prob mutation  3.509999999999969
+len(visitedPosition)  7644
+generation =  226
+prob mutation  3.519999999999969
+len(visitedPosition)  7665
+generation =  227
+prob mutation  3.519999999999969
+len(visitedPosition)  7678
+generation =  228
+prob mutation  3.5299999999999687
+len(visitedPosition)  7693
+generation =  229
+prob mutation  3.5399999999999685
+len(visitedPosition)  7704
+generation =  230
+plotmaze, len(visitedPositions) = 7704
+prob mutation  3.5499999999999683
+len(visitedPosition)  7721
+generation =  231
+prob mutation  3.559999999999968
+len(visitedPosition)  7732
+generation =  232
+prob mutation  3.569999999999968
+len(visitedPosition)  7750
+generation =  233
+prob mutation  3.5799999999999677
+len(visitedPosition)  7759
+generation =  234
+prob mutation  3.5899999999999674
+len(visitedPosition)  7776
+generation =  235
+plotmaze, len(visitedPositions) = 7776
+prob mutation  3.5999999999999672
+len(visitedPosition)  7787
+generation =  236
+prob mutation  3.609999999999967
+len(visitedPosition)  7804
+generation =  237
+prob mutation  3.619999999999967
+len(visitedPosition)  7818
+generation =  238
+prob mutation  3.6299999999999666
+len(visitedPosition)  7830
+generation =  239
+prob mutation  3.6399999999999664
+len(visitedPosition)  7844
+generation =  240
+plotmaze, len(visitedPositions) = 7844
+prob mutation  3.649999999999966
+len(visitedPosition)  7866
+generation =  241
+prob mutation  3.649999999999966
+len(visitedPosition)  7872
+generation =  242
+prob mutation  3.659999999999966
+len(visitedPosition)  7882
+generation =  243
+prob mutation  3.6699999999999657
+len(visitedPosition)  7896
+generation =  244
+prob mutation  3.6799999999999655
+len(visitedPosition)  7905
+generation =  245
+plotmaze, len(visitedPositions) = 7905
+prob mutation  3.6899999999999653
+len(visitedPosition)  7915
+generation =  246
+prob mutation  3.699999999999965
+len(visitedPosition)  7927
+generation =  247
+prob mutation  3.709999999999965
+len(visitedPosition)  7933
+generation =  248
+prob mutation  3.7199999999999647
+len(visitedPosition)  7949
+generation =  249
+prob mutation  3.7299999999999645
+len(visitedPosition)  7965
+generation =  250
+plotmaze, len(visitedPositions) = 7965
+prob mutation  3.7399999999999642
+len(visitedPosition)  7975
+generation =  251
+prob mutation  3.749999999999964
+len(visitedPosition)  7987
+generation =  252
+prob mutation  3.759999999999964
+len(visitedPosition)  7998
+generation =  253
+prob mutation  3.7699999999999636
+len(visitedPosition)  8009
+generation =  254
+prob mutation  3.7799999999999634
+len(visitedPosition)  8018
+generation =  255
+plotmaze, len(visitedPositions) = 8018
+prob mutation  3.789999999999963
+len(visitedPosition)  8032
+generation =  256
+prob mutation  3.799999999999963
+len(visitedPosition)  8048
+generation =  257
+prob mutation  3.8099999999999627
+len(visitedPosition)  8059
+generation =  258
+prob mutation  3.8199999999999625
+len(visitedPosition)  8072
+generation =  259
+prob mutation  3.8299999999999623
+len(visitedPosition)  8082
+generation =  260
+plotmaze, len(visitedPositions) = 8082
+prob mutation  3.839999999999962
+len(visitedPosition)  8096
+generation =  261
+prob mutation  3.849999999999962
+len(visitedPosition)  8108
+generation =  262
+prob mutation  3.8599999999999617
+len(visitedPosition)  8124
+generation =  263
+prob mutation  3.8699999999999615
+len(visitedPosition)  8138
+generation =  264
+prob mutation  3.8799999999999613
+len(visitedPosition)  8142
+generation =  265
+plotmaze, len(visitedPositions) = 8142
+prob mutation  3.889999999999961
+len(visitedPosition)  8155
+generation =  266
+prob mutation  3.899999999999961
+len(visitedPosition)  8168
+generation =  267
+prob mutation  3.9099999999999606
+len(visitedPosition)  8176
+generation =  268
+prob mutation  3.9199999999999604
+len(visitedPosition)  8187
+generation =  269
+prob mutation  3.92999999999996
+len(visitedPosition)  8197
+generation =  270
+plotmaze, len(visitedPositions) = 8197
+prob mutation  3.93999999999996
+len(visitedPosition)  8210
+generation =  271
+prob mutation  3.9499999999999598
+len(visitedPosition)  8222
+generation =  272
+prob mutation  3.9599999999999596
+len(visitedPosition)  8235
+generation =  273
+prob mutation  3.9699999999999593
+len(visitedPosition)  8250
+generation =  274
+prob mutation  3.979999999999959
+len(visitedPosition)  8263
+generation =  275
+plotmaze, len(visitedPositions) = 8263
+prob mutation  3.989999999999959
+len(visitedPosition)  8279
+generation =  276
+prob mutation  3.9999999999999587
+len(visitedPosition)  8284
+generation =  277
+prob mutation  4.009999999999959
+len(visitedPosition)  8289
+generation =  278
+prob mutation  4.019999999999959
+len(visitedPosition)  8299
+generation =  279
+prob mutation  4.0299999999999585
+len(visitedPosition)  8312
+generation =  280
+plotmaze, len(visitedPositions) = 8312
+prob mutation  4.039999999999958
+len(visitedPosition)  8323
+generation =  281
+prob mutation  4.049999999999958
+len(visitedPosition)  8333
+generation =  282
+prob mutation  4.059999999999958
+len(visitedPosition)  8343
+generation =  283
+prob mutation  4.069999999999958
+len(visitedPosition)  8354
+generation =  284
+prob mutation  4.079999999999957
+len(visitedPosition)  8368
+generation =  285
+plotmaze, len(visitedPositions) = 8368
+prob mutation  4.089999999999957
+len(visitedPosition)  8376
+generation =  286
+prob mutation  4.099999999999957
+len(visitedPosition)  8386
+generation =  287
+prob mutation  4.109999999999957
+len(visitedPosition)  8397
+generation =  288
+prob mutation  4.119999999999957
+len(visitedPosition)  8409
+generation =  289
+prob mutation  4.129999999999956
+len(visitedPosition)  8418
+generation =  290
+plotmaze, len(visitedPositions) = 8418
+prob mutation  4.139999999999956
+len(visitedPosition)  8432
+generation =  291
+prob mutation  4.149999999999956
+len(visitedPosition)  8444
+generation =  292
+prob mutation  4.159999999999956
+len(visitedPosition)  8455
+generation =  293
+prob mutation  4.1699999999999555
+len(visitedPosition)  8462
+generation =  294
+prob mutation  4.179999999999955
+len(visitedPosition)  8478
+generation =  295
+plotmaze, len(visitedPositions) = 8478
+prob mutation  4.189999999999955
+len(visitedPosition)  8489
+generation =  296
+prob mutation  4.199999999999955
+len(visitedPosition)  8495
+generation =  297
+prob mutation  4.209999999999955
+len(visitedPosition)  8505
+generation =  298
+prob mutation  4.2199999999999545
+len(visitedPosition)  8513
+generation =  299
+prob mutation  4.229999999999954
+len(visitedPosition)  8525
+generation =  300
+plotmaze, len(visitedPositions) = 8525
+prob mutation  4.239999999999954
+len(visitedPosition)  8537
+generation =  301
+prob mutation  4.249999999999954
+len(visitedPosition)  8551
+generation =  302
+prob mutation  4.259999999999954
+len(visitedPosition)  8558
+generation =  303
+prob mutation  4.269999999999953
+len(visitedPosition)  8563
+generation =  304
+prob mutation  4.279999999999953
+len(visitedPosition)  8575
+generation =  305
+plotmaze, len(visitedPositions) = 8575
+prob mutation  4.289999999999953
+len(visitedPosition)  8592
+generation =  306
+prob mutation  4.299999999999953
+len(visitedPosition)  8603
+generation =  307
+prob mutation  4.3099999999999525
+len(visitedPosition)  8614
+generation =  308
+prob mutation  4.319999999999952
+len(visitedPosition)  8626
+generation =  309
+prob mutation  4.329999999999952
+len(visitedPosition)  8635
+generation =  310
+plotmaze, len(visitedPositions) = 8635
+prob mutation  4.339999999999952
+len(visitedPosition)  8642
+generation =  311
+prob mutation  4.349999999999952
+len(visitedPosition)  8656
+generation =  312
+prob mutation  4.3599999999999515
+len(visitedPosition)  8662
+generation =  313
+prob mutation  4.369999999999951
+len(visitedPosition)  8671
+generation =  314
+prob mutation  4.379999999999951
+len(visitedPosition)  8679
+generation =  315
+plotmaze, len(visitedPositions) = 8679
+prob mutation  4.389999999999951
+len(visitedPosition)  8688
+generation =  316
+prob mutation  4.399999999999951
+len(visitedPosition)  8697
+generation =  317
+prob mutation  4.40999999999995
+len(visitedPosition)  8708
+generation =  318
+prob mutation  4.41999999999995
+len(visitedPosition)  8723
+generation =  319
+prob mutation  4.42999999999995
+len(visitedPosition)  8729
+generation =  320
+plotmaze, len(visitedPositions) = 8729
+prob mutation  4.43999999999995
+len(visitedPosition)  8737
+generation =  321
+prob mutation  4.4499999999999496
+len(visitedPosition)  8745
+generation =  322
+prob mutation  4.459999999999949
+len(visitedPosition)  8752
+generation =  323
+prob mutation  4.469999999999949
+len(visitedPosition)  8761
+generation =  324
+prob mutation  4.479999999999949
+len(visitedPosition)  8773
+generation =  325
+plotmaze, len(visitedPositions) = 8773
+prob mutation  4.489999999999949
+len(visitedPosition)  8778
+generation =  326
+prob mutation  4.4999999999999485
+len(visitedPosition)  8789
+generation =  327
+prob mutation  4.509999999999948
+len(visitedPosition)  8798
+generation =  328
+prob mutation  4.519999999999948
+len(visitedPosition)  8806
+generation =  329
+prob mutation  4.529999999999948
+len(visitedPosition)  8819
+generation =  330
+plotmaze, len(visitedPositions) = 8819
+prob mutation  4.539999999999948
+len(visitedPosition)  8830
+generation =  331
+prob mutation  4.549999999999947
+len(visitedPosition)  8833
+generation =  332
+prob mutation  4.559999999999947
+len(visitedPosition)  8848
+generation =  333
+prob mutation  4.569999999999947
+len(visitedPosition)  8855
+generation =  334
+prob mutation  4.579999999999947
+len(visitedPosition)  8870
+generation =  335
+plotmaze, len(visitedPositions) = 8870
+prob mutation  4.589999999999947
+len(visitedPosition)  8884
+generation =  336
+prob mutation  4.599999999999946
+len(visitedPosition)  8893
+generation =  337
+prob mutation  4.609999999999946
+len(visitedPosition)  8905
+generation =  338
+prob mutation  4.619999999999946
+len(visitedPosition)  8913
+generation =  339
+prob mutation  4.629999999999946
+len(visitedPosition)  8926
+generation =  340
+plotmaze, len(visitedPositions) = 8926
+prob mutation  4.6399999999999455
+len(visitedPosition)  8932
+generation =  341
+prob mutation  4.649999999999945
+len(visitedPosition)  8937
+generation =  342
+prob mutation  4.659999999999945
+len(visitedPosition)  8947
+generation =  343
+prob mutation  4.669999999999945
+len(visitedPosition)  8953
+generation =  344
+prob mutation  4.679999999999945
+len(visitedPosition)  8964
+generation =  345
+plotmaze, len(visitedPositions) = 8964
+prob mutation  4.689999999999944
+len(visitedPosition)  8973
+generation =  346
+prob mutation  4.699999999999944
+len(visitedPosition)  8983
+generation =  347
+prob mutation  4.709999999999944
+len(visitedPosition)  8990
+generation =  348
+prob mutation  4.719999999999944
+len(visitedPosition)  9000
+generation =  349
+prob mutation  4.729999999999944
+len(visitedPosition)  9009
+generation =  350
+plotmaze, len(visitedPositions) = 9009
+prob mutation  4.739999999999943
+len(visitedPosition)  9024
+generation =  351
+prob mutation  4.749999999999943
+len(visitedPosition)  9030
+generation =  352
+prob mutation  4.759999999999943
+len(visitedPosition)  9045
+generation =  353
+prob mutation  4.769999999999943
+len(visitedPosition)  9055
+generation =  354
+prob mutation  4.7799999999999425
+len(visitedPosition)  9062
+generation =  355
+plotmaze, len(visitedPositions) = 9062
+prob mutation  4.789999999999942
+len(visitedPosition)  9076
+generation =  356
+prob mutation  4.799999999999942
+len(visitedPosition)  9086
+generation =  357
+prob mutation  4.809999999999942
+len(visitedPosition)  9097
+generation =  358
+prob mutation  4.819999999999942
+len(visitedPosition)  9110
+generation =  359
+prob mutation  4.8299999999999415
+len(visitedPosition)  9119
+generation =  360
+plotmaze, len(visitedPositions) = 9119
+prob mutation  4.839999999999941
+len(visitedPosition)  9126
+generation =  361
+prob mutation  4.849999999999941
+len(visitedPosition)  9136
+generation =  362
+prob mutation  4.859999999999941
+len(visitedPosition)  9147
+generation =  363
+prob mutation  4.869999999999941
+len(visitedPosition)  9158
+generation =  364
+prob mutation  4.87999999999994
+len(visitedPosition)  9172
+generation =  365
+plotmaze, len(visitedPositions) = 9172
+prob mutation  4.88999999999994
+len(visitedPosition)  9184
+generation =  366
+prob mutation  4.89999999999994
+len(visitedPosition)  9189
+generation =  367
+prob mutation  4.90999999999994
+len(visitedPosition)  9201
+generation =  368
+prob mutation  4.9199999999999395
+len(visitedPosition)  9212
+generation =  369
+prob mutation  4.929999999999939
+len(visitedPosition)  9223
+generation =  370
+plotmaze, len(visitedPositions) = 9223
+prob mutation  4.939999999999939
+len(visitedPosition)  9236
+generation =  371
+prob mutation  4.949999999999939
+len(visitedPosition)  9245
+generation =  372
+prob mutation  4.959999999999939
+len(visitedPosition)  9257
+generation =  373
+prob mutation  4.9699999999999385
+len(visitedPosition)  9267
+generation =  374
+prob mutation  4.979999999999938
+len(visitedPosition)  9273
+generation =  375
+plotmaze, len(visitedPositions) = 9273
+prob mutation  4.989999999999938
+len(visitedPosition)  9281
+generation =  376
+prob mutation  4.999999999999938
+len(visitedPosition)  9288
+generation =  377
+prob mutation  5.009999999999938
+len(visitedPosition)  9296
+generation =  378
+prob mutation  5.019999999999937
+len(visitedPosition)  9300
+generation =  379
+prob mutation  5.029999999999937
+len(visitedPosition)  9304
+generation =  380
+plotmaze, len(visitedPositions) = 9304
+prob mutation  5.039999999999937
+len(visitedPosition)  9317
+generation =  381
+prob mutation  5.049999999999937
+len(visitedPosition)  9320
+generation =  382
+prob mutation  5.0599999999999365
+len(visitedPosition)  9335
+generation =  383
+prob mutation  5.069999999999936
+len(visitedPosition)  9348
+generation =  384
+prob mutation  5.079999999999936
+len(visitedPosition)  9358
+generation =  385
+plotmaze, len(visitedPositions) = 9358
+prob mutation  5.089999999999936
+len(visitedPosition)  9367
+generation =  386
+prob mutation  5.099999999999936
+len(visitedPosition)  9379
+generation =  387
+prob mutation  5.1099999999999355
+len(visitedPosition)  9388
+generation =  388
+prob mutation  5.119999999999935
+len(visitedPosition)  9399
+generation =  389
+prob mutation  5.129999999999935
+len(visitedPosition)  9411
+generation =  390
+plotmaze, len(visitedPositions) = 9411
+prob mutation  5.139999999999935
+len(visitedPosition)  9421
+generation =  391
+prob mutation  5.149999999999935
+len(visitedPosition)  9429
+generation =  392
+prob mutation  5.159999999999934
+len(visitedPosition)  9444
+generation =  393
+prob mutation  5.169999999999934
+len(visitedPosition)  9450
+generation =  394
+prob mutation  5.179999999999934
+len(visitedPosition)  9464
+generation =  395
+plotmaze, len(visitedPositions) = 9464
+prob mutation  5.189999999999934
+len(visitedPosition)  9470
+generation =  396
+prob mutation  5.199999999999934
+len(visitedPosition)  9478
+generation =  397
+prob mutation  5.209999999999933
+len(visitedPosition)  9486
+generation =  398
+prob mutation  5.219999999999933
+len(visitedPosition)  9493
+generation =  399
+prob mutation  5.229999999999933
+len(visitedPosition)  9503
+generation =  400
+plotmaze, len(visitedPositions) = 9503
+prob mutation  5.239999999999933
