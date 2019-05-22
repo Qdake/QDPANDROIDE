@@ -133,7 +133,7 @@ def eval_genomes(nb_run):
                     return;
                 if distc(position,robot.finish_position)<dis:
                     dis = distc(position,robot.finish_position);
-                f.write(str(dis)+"\n");
+            f.write(str(dis)+"\n");
         nouveaute_position = [];
         # calculer nouveaute pour tout genome de la population
         for position in visitedPosition:
