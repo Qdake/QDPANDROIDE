@@ -14425,3 +14425,19 @@ j= 500
 plotmaze, len(visitedPosition) = 12980
 XIO:  fatal IO error 0 (Success) on X server ":0"
       after 75 requests (74 known processed) with 0 events remaining.
+len(visitedPosition)  786
+generation =  1
+prob mutation  0.01
+len(visitedPosition)  931
+generation =  2
+prob mutation  0.01
+len(visitedPosition)  1064
+generation =  3
+prob mutation  0.01
+len(visitedPosition)  1208
+generation =  4
+prob mutation  0.01
+len(visitedPosition)  1336
+generation =  5
+prob mutation  0.01
+len(v

@@ -73,7 +73,7 @@ def select_k_position(k,position_nouveaute):
     # ordonner la liste de toutes les positions par nouveaute decroissante
     positions =[i[0] for i in sorted(position_nouveaute,key = lambda x:-x[1])];
     return positions[0:k];
-def mutationFaible(nn,):
+def mutationFaible(nn):
     ''' mutation en changeant quelques valeur des aretes
     '''   
     gene = nn.unroll_weights();
@@ -86,29 +86,9 @@ def mutationFaible(nn,):
 def varier(B):
     global probMutation;
     r = [];
-    for i in range(100):
-        individu1= B[2*i];
-        individu2 = B[2*i+1];
-        individu3,individu4 = croissement(individu1,individu2);
-        #mutation
-        individu3 = mutation(individu3,probMutation);
-        individu4 = mutation(individu4,probMutation);
-        #ajouter dans la prochaine population
-        r.append(individu3);
-        r.append(individu4);
-    for i in range(50):
+    for i in range(len(B)):
         r.append(mutationFaible(B[i]))
     return r;
-
-def sauvegarder(X,visitedPosition,R,nb_run):
-    fn = "./2305/"+str(nb_run)+"_x_mapelite.pickle";
-    pickle.dump(X,open(fn,"wb"));
-    fn = "./2305/"+str(nb_run)+"_visitedPosition_mapelite.pickle";
-    pickle.dump(visitedPosition,open(fn,"wb"))
-    fn = "./2305/"+str(nb_run)+"_R_mapelite.pickle";
-    pickle.dump(R,open(fn,"wb"));
-    
-
 def eval_genomes(nb_run):
     fn = "./2305/map_"+str(nb_run)+"_run_mutationfaible.txt"
     f = open(fn,"a");
@@ -135,7 +115,7 @@ def eval_genomes(nb_run):
     for position in visitedPosition:
         nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
         
-    for generation in range(1,1001):
+    for generation in range(1,501):
         
         delta = 0;
         # choisir 250 genomes dans la population par rapport a sa nouveaute
@@ -174,13 +154,12 @@ def eval_genomes(nb_run):
         print("len(visitedPosition) ",len(visitedPosition))
         #generation de graph
         print("generation = ",generation );
-        if generation%50 == 0 and generation!=0:
+        if generation%5 == 0 and generation!=0:
             plotmaze(visitedPosition,"./2305/NS_mapElite_Maze_{}_run_{}_generation.png".format(nb_run,generation))
-            sauvegarder(X,visitedPosition,R,nb_run);
         if delta <20:
             probMutation += 0.01
         print("prob mutation ",probMutation);
 probMutation = 0.01
-eval_genomes(23053);
+eval_genomes(230503);
 
 
