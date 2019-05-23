@@ -101,9 +101,12 @@ def eval_genomes(population,generation,nb_run):
                 delta += 1;
             # verifier si le but est atteint
             if butAtteint(positionFinale):
-                plotmaze(visitedPosition,"./result2005soir/novelty/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
+                plotmaze(visitedPosition,"./rf/noveltyGuideMaze_{}_run_{}_generation.png".format(nb_run,j))
 #                plotmaze(visitedPosition,"./test/result_pb5sur1000p01_250000evaluations/noveltyGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
-                return;    
+                return; 
+            f = open("./rf/novelty_5_run.txt","a");
+            f.write(str(positionFinale)+"\n");
+            f.close();
             
             
         ### calculer le nouveaute par rapport a ses distances avec les voisins pour chaque genome dans la population
@@ -152,7 +155,7 @@ def eval_genomes(population,generation,nb_run):
         #generation de graph
         print("j=", j);
         if j%50 == 0 and j!=0:
-            plotmaze(visitedPosition,"./result2005soir/novelty/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
+            plotmaze(visitedPosition,"./rf/noveltyGuideMaze_{}_run_{}_generation.png".format(nb_run,j))
 #            plotmaze(visitedPosition,"./test/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
 
 
@@ -160,7 +163,7 @@ def eval_genomes(population,generation,nb_run):
 N = 250 #taille population
 p = genererPopulation(N,[16,12,1])
 probMutation = 0.005
-nb_generation = 1000
-for nb_run in range(1,2):
+nb_generation = 500
+for nb_run in range(0,1):
     position = [];
-    eval_genomes(p,nb_generation,nb_run);
+    eval_genomes(p,nb_generation,5);

@@ -6601,3 +6601,7827 @@ len(visitedPosition)  9503
 generation =  400
 plotmaze, len(visitedPositions) = 9503
 prob mutation  5.239999999999933
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA write failed (unrecoverable): Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8309:(snd_pcm_recover) cannot recovery from underrun, prepare failed: Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8309:(snd_pcm_recover) cannot recovery from underrun, prepare failed: Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8309:(snd_pcm_recover) cannot recovery from underrun, prepare failed: Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8309:(snd_pcm_recover) cannot recovery from underrun, prepare failed: Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA write failed (unrecoverable): Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8309:(snd_pcm_recover) cannot recovery from underrun, prepare failed: Input/output error
+ALSA write failed (unrecoverable): Input/output error
+ALSA lib pcm.c:8306:(snd_pcm_recover) underrun occurred
+ALSA lib pcm.c:8309:(snd_pcm_recover) cannot recovery from underrun, prepare failed: Input/output error
+ALSA write failed (unrecoverable): Input/output error
+0 -ieme generation
+1 -ieme generation
+2 -ieme generation
+3 -ieme generation
+4 -ieme generation
+5 -ieme generation
+6 -ieme generation
+7 -ieme generation
+8 -ieme generation
+9 -ieme generation
+10 -ieme generation
+11 -ieme generation
+12 -ieme generation
+13 -ieme generation
+14 -ieme generation
+15 -ieme generation
+16 -ieme generation
+17 -ieme generation
+18 -ieme generation
+19 -ieme generation
+20 -ieme generation
+21 -ieme generation
+22 -ieme generation
+23 -ieme generation
+24 -ieme generation
+25 -ieme generation
+26 -ieme generation
+27 -ieme generation
+28 -ieme generation
+29 -ieme generation
+30 -ieme generation
+31 -ieme generation
+32 -ieme generation
+33 -ieme generation
+34 -ieme generation
+35 -ieme generation
+36 -ieme generation
+37 -ieme generation
+38 -ieme generation
+39 -ieme generation
+40 -ieme generation
+41 -ieme generation
+42 -ieme generation
+43 -ieme generation
+44 -ieme generation
+45 -ieme generation
+46 -ieme generation
+47 -ieme generation
+48 -ieme generation
+49 -ieme generation
+50 -ieme generation
+plotmaze, len(visitedPositions) = 2031
+51 -ieme generation
+52 -ieme generation
+53 -ieme generation
+54 -ieme generation
+55 -ieme generation
+56 -ieme generation
+57 -ieme generation
+58 -ieme generation
+59 -ieme generation
+60 -ieme generation
+61 -ieme generation
+62 -ieme generation
+63 -ieme generation
+64 -ieme generation
+65 -ieme generation
+66 -ieme generation
+67 -ieme generation
+68 -ieme generation
+69 -ieme generation
+70 -ieme generation
+71 -ieme generation
+72 -ieme generation
+73 -ieme generation
+74 -ieme generation
+75 -ieme generation
+76 -ieme generation
+77 -ieme generation
+78 -ieme generation
+79 -ieme generation
+80 -ieme generation
+81 -ieme generation
+82 -ieme generation
+83 -ieme generation
+84 -ieme generation
+85 -ieme generation
+86 -ieme generation
+87 -ieme generation
+88 -ieme generation
+89 -ieme generation
+90 -ieme generation
+91 -ieme generation
+92 -ieme generation
+93 -ieme generation
+94 -ieme generation
+95 -ieme generation
+96 -ieme generation
+97 -ieme generation
+98 -ieme generation
+99 -ieme generation
+100 -ieme generation
+plotmaze, len(visitedPositions) = 2322
+101 -ieme generation
+102 -ieme generation
+103 -ieme generation
+104 -ieme generation
+105 -ieme generation
+106 -ieme generation
+107 -ieme generation
+108 -ieme generation
+109 -ieme generation
+110 -ieme generation
+111 -ieme generation
+112 -ieme generation
+113 -ieme generation
+114 -ieme generation
+115 -ieme generation
+116 -ieme generation
+117 -ieme generation
+118 -ieme generation
+119 -ieme generation
+120 -ieme generation
+121 -ieme generation
+122 -ieme generation
+123 -ieme generation
+124 -ieme generation
+125 -ieme generation
+126 -ieme generation
+127 -ieme generation
+128 -ieme generation
+129 -ieme generation
+130 -ieme generation
+131 -ieme generation
+132 -ieme generation
+133 -ieme generation
+134 -ieme generation
+135 -ieme generation
+136 -ieme generation
+137 -ieme generation
+138 -ieme generation
+139 -ieme generation
+140 -ieme generation
+141 -ieme generation
+142 -ieme generation
+143 -ieme generation
+144 -ieme generation
+145 -ieme generation
+146 -ieme generation
+147 -ieme generation
+148 -ieme generation
+149 -ieme generation
+150 -ieme generation
+plotmaze, len(visitedPositions) = 2634
+151 -ieme generation
+152 -ieme generation
+153 -ieme generation
+154 -ieme generation
+155 -ieme generation
+156 -ieme generation
+157 -ieme generation
+158 -ieme generation
+159 -ieme generation
+160 -ieme generation
+161 -ieme generation
+162 -ieme generation
+163 -ieme generation
+164 -ieme generation
+165 -ieme generation
+166 -ieme generation
+167 -ieme generation
+168 -ieme generation
+169 -ieme generation
+170 -ieme generation
+171 -ieme generation
+172 -ieme generation
+173 -ieme generation
+174 -ieme generation
+175 -ieme generation
+176 -ieme generation
+177 -ieme generation
+178 -ieme generation
+179 -ieme generation
+180 -ieme generation
+181 -ieme generation
+182 -ieme generation
+183 -ieme generation
+184 -ieme generation
+185 -ieme generation
+186 -ieme generation
+187 -ieme generation
+188 -ieme generation
+189 -ieme generation
+190 -ieme generation
+191 -ieme generation
+192 -ieme generation
+193 -ieme generation
+194 -ieme generation
+195 -ieme generation
+196 -ieme generation
+197 -ieme generation
+198 -ieme generation
+199 -ieme generation
+200 -ieme generation
+plotmaze, len(visitedPositions) = 2785
+201 -ieme generation
+202 -ieme generation
+203 -ieme generation
+204 -ieme generation
+205 -ieme generation
+206 -ieme generation
+207 -ieme generation
+208 -ieme generation
+209 -ieme generation
+210 -ieme generation
+211 -ieme generation
+212 -ieme generation
+213 -ieme generation
+214 -ieme generation
+215 -ieme generation
+216 -ieme generation
+217 -ieme generation
+218 -ieme generation
+219 -ieme generation
+220 -ieme generation
+221 -ieme generation
+222 -ieme generation
+223 -ieme generation
+224 -ieme generation
+225 -ieme generation
+226 -ieme generation
+227 -ieme generation
+228 -ieme generation
+229 -ieme generation
+230 -ieme generation
+231 -ieme generation
+232 -ieme generation
+233 -ieme generation
+234 -ieme generation
+235 -ieme generation
+236 -ieme generation
+237 -ieme generation
+238 -ieme generation
+239 -ieme generation
+240 -ieme generation
+241 -ieme generation
+242 -ieme generation
+243 -ieme generation
+244 -ieme generation
+245 -ieme generation
+246 -ieme generation
+247 -ieme generation
+248 -ieme generation
+249 -ieme generation
+250 -ieme generation
+plotmaze, len(visitedPositions) = 2886
+251 -ieme generation
+252 -ieme generation
+253 -ieme generation
+254 -ieme generation
+255 -ieme generation
+256 -ieme generation
+257 -ieme generation
+258 -ieme generation
+259 -ieme generation
+260 -ieme generation
+261 -ieme generation
+262 -ieme generation
+263 -ieme generation
+264 -ieme generation
+265 -ieme generation
+266 -ieme generation
+267 -ieme generation
+268 -ieme generation
+269 -ieme generation
+270 -ieme generation
+271 -ieme generation
+272 -ieme generation
+273 -ieme generation
+274 -ieme generation
+275 -ieme generation
+276 -ieme generation
+277 -ieme generation
+278 -ieme generation
+279 -ieme generation
+280 -ieme generation
+281 -ieme generation
+282 -ieme generation
+283 -ieme generation
+284 -ieme generation
+285 -ieme generation
+286 -ieme generation
+287 -ieme generation
+288 -ieme generation
+289 -ieme generation
+290 -ieme generation
+291 -ieme generation
+292 -ieme generation
+293 -ieme generation
+294 -ieme generation
+295 -ieme generation
+296 -ieme generation
+297 -ieme generation
+298 -ieme generation
+299 -ieme generation
+300 -ieme generation
+plotmaze, len(visitedPositions) = 2954
+301 -ieme generation
+302 -ieme generation
+303 -ieme generation
+304 -ieme generation
+305 -ieme generation
+306 -ieme generation
+307 -ieme generation
+308 -ieme generation
+309 -ieme generation
+310 -ieme generation
+311 -ieme generation
+312 -ieme generation
+313 -ieme generation
+314 -ieme generation
+315 -ieme generation
+316 -ieme generation
+317 -ieme generation
+318 -ieme generation
+319 -ieme generation
+320 -ieme generation
+321 -ieme generation
+322 -ieme generation
+323 -ieme generation
+324 -ieme generation
+325 -ieme generation
+326 -ieme generation
+327 -ieme generation
+328 -ieme generation
+329 -ieme generation
+330 -ieme generation
+331 -ieme generation
+332 -ieme generation
+333 -ieme generation
+334 -ieme generation
+335 -ieme generation
+336 -ieme generation
+337 -ieme generation
+338 -ieme generation
+339 -ieme generation
+340 -ieme generation
+341 -ieme generation
+342 -ieme generation
+343 -ieme generation
+344 -ieme generation
+345 -ieme generation
+346 -ieme generation
+347 -ieme generation
+348 -ieme generation
+349 -ieme generation
+350 -ieme generation
+plotmaze, len(visitedPositions) = 3003
+351 -ieme generation
+352 -ieme generation
+353 -ieme generation
+354 -ieme generation
+355 -ieme generation
+356 -ieme generation
+357 -ieme generation
+358 -ieme generation
+359 -ieme generation
+360 -ieme generation
+361 -ieme generation
+362 -ieme generation
+363 -ieme generation
+364 -ieme generation
+365 -ieme generation
+366 -ieme generation
+367 -ieme generation
+368 -ieme generation
+369 -ieme generation
+370 -ieme generation
+371 -ieme generation
+372 -ieme generation
+373 -ieme generation
+374 -ieme generation
+375 -ieme generation
+376 -ieme generation
+377 -ieme generation
+378 -ieme generation
+379 -ieme generation
+380 -ieme generation
+381 -ieme generation
+382 -ieme generation
+383 -ieme generation
+384 -ieme generation
+385 -ieme generation
+386 -ieme generation
+387 -ieme generation
+388 -ieme generation
+389 -ieme generation
+390 -ieme generation
+391 -ieme generation
+392 -ieme generation
+393 -ieme generation
+394 -ieme generation
+395 -ieme generation
+396 -ieme generation
+397 -ieme generation
+398 -ieme generation
+399 -ieme generation
+400 -ieme generation
+plotmaze, len(visitedPositions) = 3043
+401 -ieme generation
+402 -ieme generation
+403 -ieme generation
+404 -ieme generation
+405 -ieme generation
+406 -ieme generation
+407 -ieme generation
+408 -ieme generation
+409 -ieme generation
+410 -ieme generation
+411 -ieme generation
+412 -ieme generation
+413 -ieme generation
+414 -ieme generation
+415 -ieme generation
+416 -ieme generation
+417 -ieme generation
+418 -ieme generation
+419 -ieme generation
+420 -ieme generation
+421 -ieme generation
+422 -ieme generation
+423 -ieme generation
+424 -ieme generation
+425 -ieme generation
+426 -ieme generation
+427 -ieme generation
+428 -ieme generation
+429 -ieme generation
+430 -ieme generation
+431 -ieme generation
+432 -ieme generation
+433 -ieme generation
+434 -ieme generation
+435 -ieme generation
+436 -ieme generation
+437 -ieme generation
+438 -ieme generation
+439 -ieme generation
+440 -ieme generation
+441 -ieme generation
+442 -ieme generation
+443 -ieme generation
+444 -ieme generation
+445 -ieme generation
+446 -ieme generation
+447 -ieme generation
+448 -ieme generation
+449 -ieme generation
+450 -ieme generation
+plotmaze, len(visitedPositions) = 3079
+451 -ieme generation
+452 -ieme generation
+453 -ieme generation
+454 -ieme generation
+455 -ieme generation
+456 -ieme generation
+457 -ieme generation
+458 -ieme generation
+459 -ieme generation
+460 -ieme generation
+461 -ieme generation
+462 -ieme generation
+463 -ieme generation
+464 -ieme generation
+465 -ieme generation
+466 -ieme generation
+467 -ieme generation
+468 -ieme generation
+469 -ieme generation
+470 -ieme generation
+471 -ieme generation
+472 -ieme generation
+473 -ieme generation
+474 -ieme generation
+475 -ieme generation
+476 -ieme generation
+477 -ieme generation
+478 -ieme generation
+479 -ieme generation
+480 -ieme generation
+481 -ieme generation
+482 -ieme generation
+483 -ieme generation
+484 -ieme generation
+485 -ieme generation
+486 -ieme generation
+487 -ieme generation
+488 -ieme generation
+489 -ieme generation
+490 -ieme generation
+491 -ieme generation
+492 -ieme generation
+493 -ieme generation
+494 -ieme generation
+495 -ieme generation
+496 -ieme generation
+497 -ieme generation
+498 -ieme generation
+499 -ieme generation
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+0 -ieme generation
+1 -ieme generation
+2 -ieme generation
+3 -ieme generation
+4 -ieme generation
+5 -ieme generation
+6 -ieme generation
+7 -ieme generation
+8 -ieme generation
+9 -ieme generation
+10 -ieme generation
+11 -ieme generation
+12 -ieme generation
+13 -ieme generation
+14 -ieme generation
+15 -ieme generation
+16 -ieme generation
+17 -ieme generation
+18 -ieme generation
+19 -ieme generation
+20 -ieme generation
+21 -ieme generation
+22 -ieme generation
+23 -ieme generation
+24 -ieme generation
+25 -ieme generation
+26 -ieme generation
+27 -ieme generation
+28 -ieme generation
+29 -ieme generation
+30 -ieme generation
+31 -ieme generation
+32 -ieme generation
+33 -ieme generation
+34 -ieme generation
+35 -ieme generation
+36 -ieme generation
+37 -ieme generation
+38 -ieme generation
+39 -ieme generation
+40 -ieme generation
+41 -ieme generation
+42 -ieme generation
+43 -ieme generation
+44 -ieme generation
+45 -ieme generation
+46 -ieme generation
+47 -ieme generation
+48 -ieme generation
+49 -ieme generation
+50 -ieme generation
+plotmaze, len(visitedPositions) = 2653
+51 -ieme generation
+52 -ieme generation
+53 -ieme generation
+54 -ieme generation
+55 -ieme generation
+56 -ieme generation
+57 -ieme generation
+58 -ieme generation
+59 -ieme generation
+60 -ieme generation
+61 -ieme generation
+62 -ieme generation
+63 -ieme generation
+64 -ieme generation
+65 -ieme generation
+66 -ieme generation
+67 -ieme generation
+68 -ieme generation
+69 -ieme generation
+70 -ieme generation
+71 -ieme generation
+72 -ieme generation
+73 -ieme generation
+74 -ieme generation
+75 -ieme generation
+76 -ieme generation
+77 -ieme generation
+78 -ieme generation
+79 -ieme generation
+80 -ieme generation
+81 -ieme generation
+82 -ieme generation
+83 -ieme generation
+84 -ieme generation
+85 -ieme generation
+86 -ieme generation
+87 -ieme generation
+88 -ieme generation
+89 -ieme generation
+90 -ieme generation
+91 -ieme generation
+92 -ieme generation
+93 -ieme generation
+94 -ieme generation
+95 -ieme generation
+96 -ieme generation
+97 -ieme generation
+98 -ieme generation
+99 -ieme generation
+100 -ieme generation
+plotmaze, len(visitedPositions) = 3000
+101 -ieme generation
+102 -ieme generation
+103 -ieme generation
+104 -ieme generation
+105 -ieme generation
+106 -ieme generation
+107 -ieme generation
+108 -ieme generation
+109 -ieme generation
+110 -ieme generation
+111 -ieme generation
+112 -ieme generation
+113 -ieme generation
+114 -ieme generation
+115 -ieme generation
+116 -ieme generation
+117 -ieme generation
+118 -ieme generation
+119 -ieme generation
+120 -ieme generation
+121 -ieme generation
+122 -ieme generation
+123 -ieme generation
+124 -ieme generation
+125 -ieme generation
+126 -ieme generation
+127 -ieme generation
+128 -ieme generation
+129 -ieme generation
+130 -ieme generation
+131 -ieme generation
+132 -ieme generation
+133 -ieme generation
+134 -ieme generation
+135 -ieme generation
+136 -ieme generation
+137 -ieme generation
+138 -ieme generation
+139 -ieme generation
+140 -ieme generation
+141 -ieme generation
+142 -ieme generation
+143 -ieme generation
+144 -ieme generation
+145 -ieme generation
+146 -ieme generation
+147 -ieme generation
+148 -ieme generation
+149 -ieme generation
+150 -ieme generation
+plotmaze, len(visitedPositions) = 3341
+151 -ieme generation
+152 -ieme generation
+153 -ieme generation
+154 -ieme generation
+155 -ieme generation
+156 -ieme generation
+157 -ieme generation
+158 -ieme generation
+159 -ieme generation
+160 -ieme generation
+161 -ieme generation
+162 -ieme generation
+163 -ieme generation
+164 -ieme generation
+165 -ieme generation
+166 -ieme generation
+167 -ieme generation
+168 -ieme generation
+169 -ieme generation
+170 -ieme generation
+171 -ieme generation
+172 -ieme generation
+173 -ieme generation
+174 -ieme generation
+175 -ieme generation
+176 -ieme generation
+177 -ieme generation
+178 -ieme generation
+179 -ieme generation
+180 -ieme generation
+181 -ieme generation
+182 -ieme generation
+183 -ieme generation
+184 -ieme generation
+185 -ieme generation
+186 -ieme generation
+187 -ieme generation
+188 -ieme generation
+189 -ieme generation
+190 -ieme generation
+191 -ieme generation
+192 -ieme generation
+193 -ieme generation
+194 -ieme generation
+195 -ieme generation
+196 -ieme generation
+197 -ieme generation
+198 -ieme generation
+199 -ieme generation
+200 -ieme generation
+plotmaze, len(visitedPositions) = 3450
+201 -ieme generation
+202 -ieme generation
+203 -ieme generation
+204 -ieme generation
+205 -ieme generation
+206 -ieme generation
+207 -ieme generation
+208 -ieme generation
+209 -ieme generation
+210 -ieme generation
+211 -ieme generation
+212 -ieme generation
+213 -ieme generation
+214 -ieme generation
+215 -ieme generation
+216 -ieme generation
+217 -ieme generation
+218 -ieme generation
+219 -ieme generation
+220 -ieme generation
+221 -ieme generation
+222 -ieme generation
+223 -ieme generation
+224 -ieme generation
+225 -ieme generation
+226 -ieme generation
+227 -ieme generation
+228 -ieme generation
+229 -ieme generation
+230 -ieme generation
+231 -ieme generation
+232 -ieme generation
+233 -ieme generation
+234 -ieme generation
+235 -ieme generation
+236 -ieme generation
+237 -ieme generation
+238 -ieme generation
+239 -ieme generation
+240 -ieme generation
+241 -ieme generation
+242 -ieme generation
+243 -ieme generation
+244 -ieme generation
+245 -ieme generation
+246 -ieme generation
+247 -ieme generation
+248 -ieme generation
+249 -ieme generation
+250 -ieme generation
+plotmaze, len(visitedPositions) = 3524
+251 -ieme generation
+252 -ieme generation
+253 -ieme generation
+254 -ieme generation
+255 -ieme generation
+256 -ieme generation
+257 -ieme generation
+258 -ieme generation
+259 -ieme generation
+260 -ieme generation
+261 -ieme generation
+262 -ieme generation
+263 -ieme generation
+264 -ieme generation
+265 -ieme generation
+266 -ieme generation
+267 -ieme generation
+268 -ieme generation
+269 -ieme generation
+270 -ieme generation
+271 -ieme generation
+272 -ieme generation
+273 -ieme generation
+274 -ieme generation
+275 -ieme generation
+276 -ieme generation
+277 -ieme generation
+278 -ieme generation
+279 -ieme generation
+280 -ieme generation
+281 -ieme generation
+282 -ieme generation
+283 -ieme generation
+284 -ieme generation
+285 -ieme generation
+286 -ieme generation
+287 -ieme generation
+288 -ieme generation
+289 -ieme generation
+290 -ieme generation
+291 -ieme generation
+292 -ieme generation
+293 -ieme generation
+294 -ieme generation
+295 -ieme generation
+296 -ieme generation
+297 -ieme generation
+298 -ieme generation
+299 -ieme generation
+300 -ieme generation
+plotmaze, len(visitedPositions) = 3618
+301 -ieme generation
+302 -ieme generation
+303 -ieme generation
+304 -ieme generation
+305 -ieme generation
+306 -ieme generation
+307 -ieme generation
+308 -ieme generation
+309 -ieme generation
+310 -ieme generation
+311 -ieme generation
+312 -ieme generation
+313 -ieme generation
+314 -ieme generation
+315 -ieme generation
+316 -ieme generation
+317 -ieme generation
+318 -ieme generation
+319 -ieme generation
+320 -ieme generation
+321 -ieme generation
+322 -ieme generation
+323 -ieme generation
+324 -ieme generation
+325 -ieme generation
+326 -ieme generation
+327 -ieme generation
+328 -ieme generation
+329 -ieme generation
+330 -ieme generation
+331 -ieme generation
+332 -ieme generation
+333 -ieme generation
+334 -ieme generation
+335 -ieme generation
+336 -ieme generation
+337 -ieme generation
+338 -ieme generation
+339 -ieme generation
+340 -ieme generation
+341 -ieme generation
+342 -ieme generation
+343 -ieme generation
+344 -ieme generation
+345 -ieme generation
+346 -ieme generation
+347 -ieme generation
+348 -ieme generation
+349 -ieme generation
+350 -ieme generation
+plotmaze, len(visitedPositions) = 3720
+351 -ieme generation
+352 -ieme generation
+353 -ieme generation
+354 -ieme generation
+355 -ieme generation
+356 -ieme generation
+357 -ieme generation
+358 -ieme generation
+359 -ieme generation
+360 -ieme generation
+361 -ieme generation
+362 -ieme generation
+363 -ieme generation
+364 -ieme generation
+365 -ieme generation
+366 -ieme generation
+367 -ieme generation
+368 -ieme generation
+369 -ieme generation
+370 -ieme generation
+371 -ieme generation
+372 -ieme generation
+373 -ieme generation
+374 -ieme generation
+375 -ieme generation
+376 -ieme generation
+377 -ieme generation
+378 -ieme generation
+379 -ieme generation
+380 -ieme generation
+381 -ieme generation
+382 -ieme generation
+383 -ieme generation
+384 -ieme generation
+385 -ieme generation
+386 -ieme generation
+387 -ieme generation
+388 -ieme generation
+389 -ieme generation
+390 -ieme generation
+391 -ieme generation
+392 -ieme generation
+393 -ieme generation
+394 -ieme generation
+395 -ieme generation
+396 -ieme generation
+397 -ieme generation
+398 -ieme generation
+399 -ieme generation
+400 -ieme generation
+plotmaze, len(visitedPositions) = 3845
+401 -ieme generation
+402 -ieme generation
+403 -ieme generation
+404 -ieme generation
+405 -ieme generation
+406 -ieme generation
+407 -ieme generation
+408 -ieme generation
+409 -ieme generation
+410 -ieme generation
+411 -ieme generation
+412 -ieme generation
+413 -ieme generation
+414 -ieme generation
+415 -ieme generation
+416 -ieme generation
+417 -ieme generation
+418 -ieme generation
+419 -ieme generation
+420 -ieme generation
+421 -ieme generation
+422 -ieme generation
+423 -ieme generation
+424 -ieme generation
+425 -ieme generation
+426 -ieme generation
+427 -ieme generation
+428 -ieme generation
+429 -ieme generation
+430 -ieme generation
+431 -ieme generation
+432 -ieme generation
+433 -ieme generation
+434 -ieme generation
+435 -ieme generation
+436 -ieme generation
+437 -ieme generation
+438 -ieme generation
+439 -ieme generation
+440 -ieme generation
+441 -ieme generation
+442 -ieme generation
+443 -ieme generation
+444 -ieme generation
+445 -ieme generation
+446 -ieme generation
+447 -ieme generation
+448 -ieme generation
+449 -ieme generation
+450 -ieme generation
+plotmaze, len(visitedPositions) = 3894
+451 -ieme generation
+452 -ieme generation
+453 -ieme generation
+454 -ieme generation
+455 -ieme generation
+456 -ieme generation
+457 -ieme generation
+458 -ieme generation
+459 -ieme generation
+460 -ieme generation
+461 -ieme generation
+462 -ieme generation
+463 -ieme generation
+464 -ieme generation
+465 -ieme generation
+466 -ieme generation
+467 -ieme generation
+468 -ieme generation
+469 -ieme generation
+470 -ieme generation
+471 -ieme generation
+472 -ieme generation
+473 -ieme generation
+474 -ieme generation
+475 -ieme generation
+476 -ieme generation
+477 -ieme generation
+478 -ieme generation
+479 -ieme generation
+480 -ieme generation
+481 -ieme generation
+482 -ieme generation
+483 -ieme generation
+484 -ieme generation
+485 -ieme generation
+486 -ieme generation
+487 -ieme generation
+488 -ieme generation
+489 -ieme generation
+490 -ieme generation
+491 -ieme generation
+492 -ieme generation
+493 -ieme generation
+494 -ieme generation
+495 -ieme generation
+496 -ieme generation
+497 -ieme generation
+498 -ieme generation
+499 -ieme generation
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+0 -ieme generation
+1 -ieme generation
+2 -ieme generation
+3 -ieme generation
+4 -ieme generation
+5 -ieme generation
+6 -ieme generation
+7 -ieme generation
+8 -ieme generation
+9 -ieme generation
+10 -ieme generation
+11 -ieme generation
+12 -ieme generation
+13 -ieme generation
+14 -ieme generation
+15 -ieme generation
+16 -ieme generation
+17 -ieme generation
+18 -ieme generation
+19 -ieme generation
+20 -ieme generation
+21 -ieme generation
+22 -ieme generation
+23 -ieme generation
+24 -ieme generation
+25 -ieme generation
+26 -ieme generation
+27 -ieme generation
+28 -ieme generation
+29 -ieme generation
+30 -ieme generation
+31 -ieme generation
+32 -ieme generation
+33 -ieme generation
+34 -ieme generation
+35 -ieme generation
+36 -ieme generation
+37 -ieme generation
+38 -ieme generation
+39 -ieme generation
+40 -ieme generation
+41 -ieme generation
+42 -ieme generation
+43 -ieme generation
+44 -ieme generation
+45 -ieme generation
+46 -ieme generation
+47 -ieme generation
+48 -ieme generation
+49 -ieme generation
+50 -ieme generation
+plotmaze, len(visitedPositions) = 2186
+51 -ieme generation
+52 -ieme generation
+53 -ieme generation
+54 -ieme generation
+55 -ieme generation
+56 -ieme generation
+57 -ieme generation
+58 -ieme generation
+59 -ieme generation
+60 -ieme generation
+61 -ieme generation
+62 -ieme generation
+63 -ieme generation
+64 -ieme generation
+65 -ieme generation
+66 -ieme generation
+67 -ieme generation
+68 -ieme generation
+69 -ieme generation
+70 -ieme generation
+71 -ieme generation
+72 -ieme generation
+73 -ieme generation
+74 -ieme generation
+75 -ieme generation
+76 -ieme generation
+77 -ieme generation
+78 -ieme generation
+79 -ieme generation
+80 -ieme generation
+81 -ieme generation
+82 -ieme generation
+83 -ieme generation
+84 -ieme generation
+85 -ieme generation
+86 -ieme generation
+87 -ieme generation
+88 -ieme generation
+89 -ieme generation
+90 -ieme generation
+91 -ieme generation
+92 -ieme generation
+93 -ieme generation
+94 -ieme generation
+95 -ieme generation
+96 -ieme generation
+97 -ieme generation
+98 -ieme generation
+99 -ieme generation
+100 -ieme generation
+plotmaze, len(visitedPositions) = 2640
+101 -ieme generation
+102 -ieme generation
+103 -ieme generation
+104 -ieme generation
+105 -ieme generation
+106 -ieme generation
+107 -ieme generation
+108 -ieme generation
+109 -ieme generation
+110 -ieme generation
+111 -ieme generation
+112 -ieme generation
+113 -ieme generation
+114 -ieme generation
+115 -ieme generation
+116 -ieme generation
+117 -ieme generation
+118 -ieme generation
+119 -ieme generation
+120 -ieme generation
+121 -ieme generation
+122 -ieme generation
+123 -ieme generation
+124 -ieme generation
+125 -ieme generation
+126 -ieme generation
+127 -ieme generation
+128 -ieme generation
+129 -ieme generation
+130 -ieme generation
+131 -ieme generation
+132 -ieme generation
+133 -ieme generation
+134 -ieme generation
+135 -ieme generation
+136 -ieme generation
+137 -ieme generation
+138 -ieme generation
+139 -ieme generation
+140 -ieme generation
+141 -ieme generation
+142 -ieme generation
+143 -ieme generation
+144 -ieme generation
+145 -ieme generation
+146 -ieme generation
+147 -ieme generation
+148 -ieme generation
+149 -ieme generation
+150 -ieme generation
+plotmaze, len(visitedPositions) = 2981
+151 -ieme generation
+152 -ieme generation
+153 -ieme generation
+154 -ieme generation
+155 -ieme generation
+156 -ieme generation
+157 -ieme generation
+158 -ieme generation
+159 -ieme generation
+160 -ieme generation
+161 -ieme generation
+162 -ieme generation
+163 -ieme generation
+164 -ieme generation
+165 -ieme generation
+166 -ieme generation
+167 -ieme generation
+168 -ieme generation
+169 -ieme generation
+170 -ieme generation
+171 -ieme generation
+172 -ieme generation
+173 -ieme generation
+174 -ieme generation
+175 -ieme generation
+176 -ieme generation
+177 -ieme generation
+178 -ieme generation
+179 -ieme generation
+180 -ieme generation
+181 -ieme generation
+182 -ieme generation
+183 -ieme generation
+184 -ieme generation
+185 -ieme generation
+186 -ieme generation
+187 -ieme generation
+188 -ieme generation
+189 -ieme generation
+190 -ieme generation
+191 -ieme generation
+192 -ieme generation
+193 -ieme generation
+194 -ieme generation
+195 -ieme generation
+196 -ieme generation
+197 -ieme generation
+198 -ieme generation
+199 -ieme generation
+200 -ieme generation
+plotmaze, len(visitedPositions) = 3231
+201 -ieme generation
+202 -ieme generation
+203 -ieme generation
+204 -ieme generation
+205 -ieme generation
+206 -ieme generation
+207 -ieme generation
+208 -ieme generation
+209 -ieme generation
+210 -ieme generation
+211 -ieme generation
+212 -ieme generation
+213 -ieme generation
+214 -ieme generation
+215 -ieme generation
+216 -ieme generation
+217 -ieme generation
+218 -ieme generation
+219 -ieme generation
+220 -ieme generation
+221 -ieme generation
+222 -ieme generation
+223 -ieme generation
+224 -ieme generation
+225 -ieme generation
+226 -ieme generation
+227 -ieme generation
+228 -ieme generation
+229 -ieme generation
+230 -ieme generation
+231 -ieme generation
+232 -ieme generation
+233 -ieme generation
+234 -ieme generation
+235 -ieme generation
+236 -ieme generation
+237 -ieme generation
+238 -ieme generation
+239 -ieme generation
+240 -ieme generation
+241 -ieme generation
+242 -ieme generation
+243 -ieme generation
+244 -ieme generation
+245 -ieme generation
+246 -ieme generation
+247 -ieme generation
+248 -ieme generation
+249 -ieme generation
+250 -ieme generation
+plotmaze, len(visitedPositions) = 3437
+251 -ieme generation
+252 -ieme generation
+253 -ieme generation
+254 -ieme generation
+255 -ieme generation
+256 -ieme generation
+257 -ieme generation
+258 -ieme generation
+259 -ieme generation
+260 -ieme generation
+261 -ieme generation
+262 -ieme generation
+263 -ieme generation
+264 -ieme generation
+265 -ieme generation
+266 -ieme generation
+267 -ieme generation
+268 -ieme generation
+269 -ieme generation
+270 -ieme generation
+271 -ieme generation
+272 -ieme generation
+273 -ieme generation
+274 -ieme generation
+275 -ieme generation
+276 -ieme generation
+277 -ieme generation
+278 -ieme generation
+279 -ieme generation
+280 -ieme generation
+281 -ieme generation
+282 -ieme generation
+283 -ieme generation
+284 -ieme generation
+285 -ieme generation
+286 -ieme generation
+287 -ieme generation
+288 -ieme generation
+289 -ieme generation
+290 -ieme generation
+291 -ieme generation
+292 -ieme generation
+293 -ieme generation
+294 -ieme generation
+295 -ieme generation
+296 -ieme generation
+297 -ieme generation
+298 -ieme generation
+299 -ieme generation
+300 -ieme generation
+plotmaze, len(visitedPositions) = 3618
+301 -ieme generation
+302 -ieme generation
+303 -ieme generation
+304 -ieme generation
+305 -ieme generation
+306 -ieme generation
+307 -ieme generation
+308 -ieme generation
+309 -ieme generation
+310 -ieme generation
+311 -ieme generation
+312 -ieme generation
+313 -ieme generation
+314 -ieme generation
+315 -ieme generation
+316 -ieme generation
+317 -ieme generation
+318 -ieme generation
+319 -ieme generation
+320 -ieme generation
+321 -ieme generation
+322 -ieme generation
+323 -ieme generation
+324 -ieme generation
+325 -ieme generation
+326 -ieme generation
+327 -ieme generation
+328 -ieme generation
+329 -ieme generation
+330 -ieme generation
+331 -ieme generation
+332 -ieme generation
+333 -ieme generation
+334 -ieme generation
+335 -ieme generation
+336 -ieme generation
+337 -ieme generation
+338 -ieme generation
+339 -ieme generation
+340 -ieme generation
+341 -ieme generation
+342 -ieme generation
+343 -ieme generation
+344 -ieme generation
+345 -ieme generation
+346 -ieme generation
+347 -ieme generation
+348 -ieme generation
+349 -ieme generation
+350 -ieme generation
+plotmaze, len(visitedPositions) = 3693
+351 -ieme generation
+352 -ieme generation
+353 -ieme generation
+354 -ieme generation
+355 -ieme generation
+356 -ieme generation
+357 -ieme generation
+358 -ieme generation
+359 -ieme generation
+360 -ieme generation
+361 -ieme generation
+362 -ieme generation
+363 -ieme generation
+364 -ieme generation
+365 -ieme generation
+366 -ieme generation
+367 -ieme generation
+368 -ieme generation
+369 -ieme generation
+370 -ieme generation
+371 -ieme generation
+372 -ieme generation
+373 -ieme generation
+374 -ieme generation
+375 -ieme generation
+376 -ieme generation
+377 -ieme generation
+378 -ieme generation
+379 -ieme generation
+380 -ieme generation
+381 -ieme generation
+382 -ieme generation
+383 -ieme generation
+384 -ieme generation
+385 -ieme generation
+386 -ieme generation
+387 -ieme generation
+388 -ieme generation
+389 -ieme generation
+390 -ieme generation
+391 -ieme generation
+392 -ieme generation
+393 -ieme generation
+394 -ieme generation
+395 -ieme generation
+396 -ieme generation
+397 -ieme generation
+398 -ieme generation
+399 -ieme generation
+400 -ieme generation
+plotmaze, len(visitedPositions) = 3755
+401 -ieme generation
+402 -ieme generation
+403 -ieme generation
+404 -ieme generation
+405 -ieme generation
+406 -ieme generation
+407 -ieme generation
+408 -ieme generation
+409 -ieme generation
+410 -ieme generation
+411 -ieme generation
+412 -ieme generation
+413 -ieme generation
+414 -ieme generation
+415 -ieme generation
+416 -ieme generation
+417 -ieme generation
+418 -ieme generation
+419 -ieme generation
+420 -ieme generation
+421 -ieme generation
+422 -ieme generation
+423 -ieme generation
+424 -ieme generation
+425 -ieme generation
+426 -ieme generation
+427 -ieme generation
+428 -ieme generation
+429 -ieme generation
+430 -ieme generation
+431 -ieme generation
+432 -ieme generation
+433 -ieme generation
+434 -ieme generation
+435 -ieme generation
+436 -ieme generation
+437 -ieme generation
+438 -ieme generation
+439 -ieme generation
+440 -ieme generation
+441 -ieme generation
+442 -ieme generation
+443 -ieme generation
+444 -ieme generation
+445 -ieme generation
+446 -ieme generation
+447 -ieme generation
+448 -ieme generation
+449 -ieme generation
+450 -ieme generation
+plotmaze, len(visitedPositions) = 3825
+451 -ieme generation
+452 -ieme generation
+453 -ieme generation
+454 -ieme generation
+455 -ieme generation
+456 -ieme generation
+457 -ieme generation
+458 -ieme generation
+459 -ieme generation
+460 -ieme generation
+461 -ieme generation
+462 -ieme generation
+463 -ieme generation
+464 -ieme generation
+465 -ieme generation
+466 -ieme generation
+467 -ieme generation
+468 -ieme generation
+469 -ieme generation
+470 -ieme generation
+471 -ieme generation
+472 -ieme generation
+473 -ieme generation
+474 -ieme generation
+475 -ieme generation
+476 -ieme generation
+477 -ieme generation
+478 -ieme generation
+479 -ieme generation
+480 -ieme generation
+481 -ieme generation
+482 -ieme generation
+483 -ieme generation
+484 -ieme generation
+485 -ieme generation
+486 -ieme generation
+487 -ieme generation
+488 -ieme generation
+489 -ieme generation
+490 -ieme generation
+491 -ieme generation
+492 -ieme generation
+493 -ieme generation
+494 -ieme generation
+495 -ieme generation
+496 -ieme generation
+497 -ieme generation
+498 -ieme generation
+499 -ieme generation
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+0 -ieme generation
+1 -ieme generation
+2 -ieme generation
+3 -ieme generation
+4 -ieme generation
+5 -ieme generation
+6 -ieme generation
+7 -ieme generation
+8 -ieme generation
+9 -ieme generation
+10 -ieme generation
+11 -ieme generation
+12 -ieme generation
+13 -ieme generation
+14 -ieme generation
+15 -ieme generation
+16 -ieme generation
+17 -ieme generation
+18 -ieme generation
+19 -ieme generation
+20 -ieme generation
+21 -ieme generation
+22 -ieme generation
+23 -ieme generation
+24 -ieme generation
+25 -ieme generation
+26 -ieme generation
+27 -ieme generation
+28 -ieme generation
+29 -ieme generation
+30 -ieme generation
+31 -ieme generation
+32 -ieme generation
+33 -ieme generation
+34 -ieme generation
+35 -ieme generation
+36 -ieme generation
+37 -ieme generation
+38 -ieme generation
+39 -ieme generation
+40 -ieme generation
+41 -ieme generation
+42 -ieme generation
+43 -ieme generation
+44 -ieme generation
+45 -ieme generation
+46 -ieme generation
+47 -ieme generation
+48 -ieme generation
+49 -ieme generation
+50 -ieme generation
+plotmaze, len(visitedPositions) = 1885
+51 -ieme generation
+52 -ieme generation
+53 -ieme generation
+54 -ieme generation
+55 -ieme generation
+56 -ieme generation
+57 -ieme generation
+58 -ieme generation
+59 -ieme generation
+60 -ieme generation
+61 -ieme generation
+62 -ieme generation
+63 -ieme generation
+64 -ieme generation
+65 -ieme generation
+66 -ieme generation
+67 -ieme generation
+68 -ieme generation
+69 -ieme generation
+70 -ieme generation
+71 -ieme generation
+72 -ieme generation
+73 -ieme generation
+74 -ieme generation
+75 -ieme generation
+76 -ieme generation
+77 -ieme generation
+78 -ieme generation
+79 -ieme generation
+80 -ieme generation
+81 -ieme generation
+82 -ieme generation
+83 -ieme generation
+84 -ieme generation
+85 -ieme generation
+86 -ieme generation
+87 -ieme generation
+88 -ieme generation
+89 -ieme generation
+90 -ieme generation
+91 -ieme generation
+92 -ieme generation
+93 -ieme generation
+94 -ieme generation
+95 -ieme generation
+96 -ieme generation
+97 -ieme generation
+98 -ieme generation
+99 -ieme generation
+100 -ieme generation
+plotmaze, len(visitedPositions) = 2290
+101 -ieme generation
+102 -ieme generation
+103 -ieme generation
+104 -ieme generation
+105 -ieme generation
+106 -ieme generation
+107 -ieme generation
+108 -ieme generation
+109 -ieme generation
+110 -ieme generation
+111 -ieme generation
+112 -ieme generation
+113 -ieme generation
+114 -ieme generation
+115 -ieme generation
+116 -ieme generation
+117 -ieme generation
+118 -ieme generation
+119 -ieme generation
+120 -ieme generation
+121 -ieme generation
+122 -ieme generation
+123 -ieme generation
+124 -ieme generation
+125 -ieme generation
+126 -ieme generation
+127 -ieme generation
+128 -ieme generation
+129 -ieme generation
+130 -ieme generation
+131 -ieme generation
+132 -ieme generation
+133 -ieme generation
+134 -ieme generation
+135 -ieme generation
+136 -ieme generation
+137 -ieme generation
+138 -ieme generation
+139 -ieme generation
+140 -ieme generation
+141 -ieme generation
+142 -ieme generation
+143 -ieme generation
+144 -ieme generation
+145 -ieme generation
+146 -ieme generation
+147 -ieme generation
+148 -ieme generation
+149 -ieme generation
+150 -ieme generation
+plotmaze, len(visitedPositions) = 2832
+151 -ieme generation
+152 -ieme generation
+153 -ieme generation
+154 -ieme generation
+155 -ieme generation
+156 -ieme generation
+157 -ieme generation
+158 -ieme generation
+159 -ieme generation
+160 -ieme generation
+161 -ieme generation
+162 -ieme generation
+163 -ieme generation
+164 -ieme generation
+165 -ieme generation
+166 -ieme generation
+167 -ieme generation
+168 -ieme generation
+169 -ieme generation
+170 -ieme generation
+171 -ieme generation
+172 -ieme generation
+173 -ieme generation
+174 -ieme generation
+175 -ieme generation
+176 -ieme generation
+177 -ieme generation
+178 -ieme generation
+179 -ieme generation
+180 -ieme generation
+181 -ieme generation
+182 -ieme generation
+183 -ieme generation
+184 -ieme generation
+185 -ieme generation
+186 -ieme generation
+187 -ieme generation
+188 -ieme generation
+189 -ieme generation
+190 -ieme generation
+191 -ieme generation
+192 -ieme generation
+193 -ieme generation
+194 -ieme generation
+195 -ieme generation
+196 -ieme generation
+197 -ieme generation
+198 -ieme generation
+199 -ieme generation
+200 -ieme generation
+plotmaze, len(visitedPositions) = 3011
+201 -ieme generation
+202 -ieme generation
+203 -ieme generation
+204 -ieme generation
+205 -ieme generation
+206 -ieme generation
+207 -ieme generation
+208 -ieme generation
+209 -ieme generation
+210 -ieme generation
+211 -ieme generation
+212 -ieme generation
+213 -ieme generation
+214 -ieme generation
+215 -ieme generation
+216 -ieme generation
+217 -ieme generation
+218 -ieme generation
+219 -ieme generation
+220 -ieme generation
+221 -ieme generation
+222 -ieme generation
+223 -ieme generation
+224 -ieme generation
+225 -ieme generation
+226 -ieme generation
+227 -ieme generation
+228 -ieme generation
+229 -ieme generation
+230 -ieme generation
+231 -ieme generation
+232 -ieme generation
+233 -ieme generation
+234 -ieme generation
+235 -ieme generation
+236 -ieme generation
+237 -ieme generation
+238 -ieme generation
+239 -ieme generation
+240 -ieme generation
+241 -ieme generation
+242 -ieme generation
+243 -ieme generation
+244 -ieme generation
+245 -ieme generation
+246 -ieme generation
+247 -ieme generation
+248 -ieme generation
+249 -ieme generation
+250 -ieme generation
+plotmaze, len(visitedPositions) = 3151
+251 -ieme generation
+252 -ieme generation
+253 -ieme generation
+254 -ieme generation
+255 -ieme generation
+256 -ieme generation
+257 -ieme generation
+258 -ieme generation
+259 -ieme generation
+260 -ieme generation
+261 -ieme generation
+262 -ieme generation
+263 -ieme generation
+264 -ieme generation
+265 -ieme generation
+266 -ieme generation
+267 -ieme generation
+268 -ieme generation
+269 -ieme generation
+270 -ieme generation
+271 -ieme generation
+272 -ieme generation
+273 -ieme generation
+274 -ieme generation
+275 -ieme generation
+276 -ieme generation
+277 -ieme generation
+278 -ieme generation
+279 -ieme generation
+280 -ieme generation
+281 -ieme generation
+282 -ieme generation
+283 -ieme generation
+284 -ieme generation
+285 -ieme generation
+286 -ieme generation
+287 -ieme generation
+288 -ieme generation
+289 -ieme generation
+290 -ieme generation
+291 -ieme generation
+292 -ieme generation
+293 -ieme generation
+294 -ieme generation
+295 -ieme generation
+296 -ieme generation
+297 -ieme generation
+298 -ieme generation
+299 -ieme generation
+300 -ieme generation
+plotmaze, len(visitedPositions) = 3272
+301 -ieme generation
+302 -ieme generation
+303 -ieme generation
+304 -ieme generation
+305 -ieme generation
+306 -ieme generation
+307 -ieme generation
+308 -ieme generation
+309 -ieme generation
+310 -ieme generation
+311 -ieme generation
+312 -ieme generation
+313 -ieme generation
+314 -ieme generation
+315 -ieme generation
+316 -ieme generation
+317 -ieme generation
+318 -ieme generation
+319 -ieme generation
+320 -ieme generation
+321 -ieme generation
+322 -ieme generation
+323 -ieme generation
+324 -ieme generation
+325 -ieme generation
+326 -ieme generation
+327 -ieme generation
+328 -ieme generation
+329 -ieme generation
+330 -ieme generation
+331 -ieme generation
+332 -ieme generation
+333 -ieme generation
+334 -ieme generation
+335 -ieme generation
+336 -ieme generation
+337 -ieme generation
+338 -ieme generation
+339 -ieme generation
+340 -ieme generation
+341 -ieme generation
+342 -ieme generation
+343 -ieme generation
+344 -ieme generation
+345 -ieme generation
+346 -ieme generation
+347 -ieme generation
+348 -ieme generation
+349 -ieme generation
+350 -ieme generation
+plotmaze, len(visitedPositions) = 3346
+351 -ieme generation
+352 -ieme generation
+353 -ieme generation
+354 -ieme generation
+355 -ieme generation
+356 -ieme generation
+357 -ieme generation
+358 -ieme generation
+359 -ieme generation
+360 -ieme generation
+361 -ieme generation
+362 -ieme generation
+363 -ieme generation
+364 -ieme generation
+365 -ieme generation
+366 -ieme generation
+367 -ieme generation
+368 -ieme generation
+369 -ieme generation
+370 -ieme generation
+371 -ieme generation
+372 -ieme generation
+373 -ieme generation
+374 -ieme generation
+375 -ieme generation
+376 -ieme generation
+377 -ieme generation
+378 -ieme generation
+379 -ieme generation
+380 -ieme generation
+381 -ieme generation
+382 -ieme generation
+383 -ieme generation
+384 -ieme generation
+385 -ieme generation
+386 -ieme generation
+387 -ieme generation
+388 -ieme generation
+389 -ieme generation
+390 -ieme generation
+391 -ieme generation
+392 -ieme generation
+393 -ieme generation
+394 -ieme generation
+395 -ieme generation
+396 -ieme generation
+397 -ieme generation
+398 -ieme generation
+399 -ieme generation
+400 -ieme generation
+plotmaze, len(visitedPositions) = 3408
+401 -ieme generation
+402 -ieme generation
+403 -ieme generation
+404 -ieme generation
+405 -ieme generation
+406 -ieme generation
+407 -ieme generation
+408 -ieme generation
+409 -ieme generation
+410 -ieme generation
+411 -ieme generation
+412 -ieme generation
+413 -ieme generation
+414 -ieme generation
+415 -ieme generation
+416 -ieme generation
+417 -ieme generation
+418 -ieme generation
+419 -ieme generation
+420 -ieme generation
+421 -ieme generation
+422 -ieme generation
+423 -ieme generation
+424 -ieme generation
+425 -ieme generation
+426 -ieme generation
+427 -ieme generation
+428 -ieme generation
+429 -ieme generation
+430 -ieme generation
+431 -ieme generation
+432 -ieme generation
+433 -ieme generation
+434 -ieme generation
+435 -ieme generation
+436 -ieme generation
+437 -ieme generation
+438 -ieme generation
+439 -ieme generation
+440 -ieme generation
+441 -ieme generation
+442 -ieme generation
+443 -ieme generation
+444 -ieme generation
+445 -ieme generation
+446 -ieme generation
+447 -ieme generation
+448 -ieme generation
+449 -ieme generation
+450 -ieme generation
+plotmaze, len(visitedPositions) = 3450
+451 -ieme generation
+452 -ieme generation
+453 -ieme generation
+454 -ieme generation
+455 -ieme generation
+456 -ieme generation
+457 -ieme generation
+458 -ieme generation
+459 -ieme generation
+460 -ieme generation
+461 -ieme generation
+462 -ieme generation
+463 -ieme generation
+464 -ieme generation
+465 -ieme generation
+466 -ieme generation
+467 -ieme generation
+468 -ieme generation
+469 -ieme generation
+470 -ieme generation
+471 -ieme generation
+472 -ieme generation
+473 -ieme generation
+474 -ieme generation
+475 -ieme generation
+476 -ieme generation
+477 -ieme generation
+478 -ieme generation
+479 -ieme generation
+480 -ieme generation
+481 -ieme generation
+482 -ieme generation
+483 -ieme generation
+484 -ieme generation
+485 -ieme generation
+486 -ieme generation
+487 -ieme generation
+488 -ieme generation
+489 -ieme generation
+490 -ieme generation
+491 -ieme generation
+492 -ieme generation
+493 -ieme generation
+494 -ieme generation
+495 -ieme generation
+496 -ieme generation
+497 -ieme generation
+498 -ieme generation
+499 -ieme generation
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+0 -ieme generation
+1 -ieme generation
+2 -ieme generation
+3 -ieme generation
+4 -ieme generation
+5 -ieme generation
+6 -ieme generation
+7 -ieme generation
+8 -ieme generation
+9 -ieme generation
+10 -ieme generation
+11 -ieme generation
+12 -ieme generation
+13 -ieme generation
+14 -ieme generation
+15 -ieme generation
+16 -ieme generation
+17 -ieme generation
+18 -ieme generation
+19 -ieme generation
+20 -ieme generation
+21 -ieme generation
+22 -ieme generation
+23 -ieme generation
+24 -ieme generation
+25 -ieme generation
+26 -ieme generation
+27 -ieme generation
+28 -ieme generation
+29 -ieme generation
+30 -ieme generation
+31 -ieme generation
+32 -ieme generation
+33 -ieme generation
+34 -ieme generation
+35 -ieme generation
+36 -ieme generation
+37 -ieme generation
+38 -ieme generation
+39 -ieme generation
+40 -ieme generation
+41 -ieme generation
+42 -ieme generation
+43 -ieme generation
+44 -ieme generation
+45 -ieme generation
+46 -ieme generation
+47 -ieme generation
+48 -ieme generation
+49 -ieme generation
+50 -ieme generation
+plotmaze, len(visitedPositions) = 2688
+51 -ieme generation
+52 -ieme generation
+53 -ieme generation
+54 -ieme generation
+55 -ieme generation
+56 -ieme generation
+57 -ieme generation
+58 -ieme generation
+59 -ieme generation
+60 -ieme generation
+61 -ieme generation
+62 -ieme generation
+63 -ieme generation
+64 -ieme generation
+65 -ieme generation
+66 -ieme generation
+67 -ieme generation
+68 -ieme generation
+69 -ieme generation
+70 -ieme generation
+71 -ieme generation
+72 -ieme generation
+73 -ieme generation
+74 -ieme generation
+75 -ieme generation
+76 -ieme generation
+77 -ieme generation
+78 -ieme generation
+79 -ieme generation
+80 -ieme generation
+81 -ieme generation
+82 -ieme generation
+83 -ieme generation
+84 -ieme generation
+85 -ieme generation
+86 -ieme generation
+87 -ieme generation
+88 -ieme generation
+89 -ieme generation
+90 -ieme generation
+91 -ieme generation
+92 -ieme generation
+93 -ieme generation
+94 -ieme generation
+95 -ieme generation
+96 -ieme generation
+97 -ieme generation
+98 -ieme generation
+99 -ieme generation
+100 -ieme generation
+plotmaze, len(visitedPositions) = 2900
+101 -ieme generation
+102 -ieme generation
+103 -ieme generation
+104 -ieme generation
+105 -ieme generation
+106 -ieme generation
+107 -ieme generation
+108 -ieme generation
+109 -ieme generation
+110 -ieme generation
+111 -ieme generation
+112 -ieme generation
+113 -ieme generation
+114 -ieme generation
+115 -ieme generation
+116 -ieme generation
+117 -ieme generation
+118 -ieme generation
+119 -ieme generation
+120 -ieme generation
+121 -ieme generation
+122 -ieme generation
+123 -ieme generation
+124 -ieme generation
+125 -ieme generation
+126 -ieme generation
+127 -ieme generation
+128 -ieme generation
+129 -ieme generation
+130 -ieme generation
+131 -ieme generation
+132 -ieme generation
+133 -ieme generation
+134 -ieme generation
+135 -ieme generation
+136 -ieme generation
+137 -ieme generation
+138 -ieme generation
+139 -ieme generation
+140 -ieme generation
+141 -ieme generation
+142 -ieme generation
+143 -ieme generation
+144 -ieme generation
+145 -ieme generation
+146 -ieme generation
+147 -ieme generation
+148 -ieme generation
+149 -ieme generation
+150 -ieme generation
+plotmaze, len(visitedPositions) = 3186
+151 -ieme generation
+152 -ieme generation
+153 -ieme generation
+154 -ieme generation
+155 -ieme generation
+156 -ieme generation
+157 -ieme generation
+158 -ieme generation
+159 -ieme generation
+160 -ieme generation
+161 -ieme generation
+162 -ieme generation
+163 -ieme generation
+164 -ieme generation
+165 -ieme generation
+166 -ieme generation
+167 -ieme generation
+168 -ieme generation
+169 -ieme generation
+170 -ieme generation
+171 -ieme generation
+172 -ieme generation
+173 -ieme generation
+174 -ieme generation
+175 -ieme generation
+176 -ieme generation
+177 -ieme generation
+178 -ieme generation
+179 -ieme generation
+180 -ieme generation
+181 -ieme generation
+182 -ieme generation
+183 -ieme generation
+184 -ieme generation
+185 -ieme generation
+186 -ieme generation
+187 -ieme generation
+188 -ieme generation
+189 -ieme generation
+190 -ieme generation
+191 -ieme generation
+192 -ieme generation
+193 -ieme generation
+194 -ieme generation
+195 -ieme generation
+196 -ieme generation
+197 -ieme generation
+198 -ieme generation
+199 -ieme generation
+200 -ieme generation
+plotmaze, len(visitedPositions) = 3356
+201 -ieme generation
+202 -ieme generation
+203 -ieme generation
+204 -ieme generation
+205 -ieme generation
+206 -ieme generation
+207 -ieme generation
+208 -ieme generation
+209 -ieme generation
+210 -ieme generation
+211 -ieme generation
+212 -ieme generation
+213 -ieme generation
+214 -ieme generation
+215 -ieme generation
+216 -ieme generation
+217 -ieme generation
+218 -ieme generation
+219 -ieme generation
+220 -ieme generation
+221 -ieme generation
+222 -ieme generation
+223 -ieme generation
+224 -ieme generation
+225 -ieme generation
+226 -ieme generation
+227 -ieme generation
+228 -ieme generation
+229 -ieme generation
+230 -ieme generation
+231 -ieme generation
+232 -ieme generation
+233 -ieme generation
+234 -ieme generation
+235 -ieme generation
+236 -ieme generation
+237 -ieme generation
+238 -ieme generation
+239 -ieme generation
+240 -ieme generation
+241 -ieme generation
+242 -ieme generation
+243 -ieme generation
+244 -ieme generation
+245 -ieme generation
+246 -ieme generation
+247 -ieme generation
+248 -ieme generation
+249 -ieme generation
+250 -ieme generation
+plotmaze, len(visitedPositions) = 3452
+251 -ieme generation
+252 -ieme generation
+253 -ieme generation
+254 -ieme generation
+255 -ieme generation
+256 -ieme generation
+257 -ieme generation
+258 -ieme generation
+259 -ieme generation
+260 -ieme generation
+261 -ieme generation
+262 -ieme generation
+263 -ieme generation
+264 -ieme generation
+265 -ieme generation
+266 -ieme generation
+267 -ieme generation
+268 -ieme generation
+269 -ieme generation
+270 -ieme generation
+271 -ieme generation
+272 -ieme generation
+273 -ieme generation
+274 -ieme generation
+275 -ieme generation
+276 -ieme generation
+277 -ieme generation
+278 -ieme generation
+279 -ieme generation
+280 -ieme generation
+281 -ieme generation
+282 -ieme generation
+283 -ieme generation
+284 -ieme generation
+285 -ieme generation
+286 -ieme generation
+287 -ieme generation
+288 -ieme generation
+289 -ieme generation
+290 -ieme generation
+291 -ieme generation
+292 -ieme generation
+293 -ieme generation
+294 -ieme generation
+295 -ieme generation
+296 -ieme generation
+297 -ieme generation
+298 -ieme generation
+299 -ieme generation
+300 -ieme generation
+plotmaze, len(visitedPositions) = 3532
+301 -ieme generation
+302 -ieme generation
+303 -ieme generation
+304 -ieme generation
+305 -ieme generation
+306 -ieme generation
+307 -ieme generation
+308 -ieme generation
+309 -ieme generation
+310 -ieme generation
+311 -ieme generation
+312 -ieme generation
+313 -ieme generation
+314 -ieme generation
+315 -ieme generation
+316 -ieme generation
+317 -ieme generation
+318 -ieme generation
+319 -ieme generation
+320 -ieme generation
+321 -ieme generation
+322 -ieme generation
+323 -ieme generation
+324 -ieme generation
+325 -ieme generation
+326 -ieme generation
+327 -ieme generation
+328 -ieme generation
+329 -ieme generation
+330 -ieme generation
+331 -ieme generation
+332 -ieme generation
+333 -ieme generation
+334 -ieme generation
+335 -ieme generation
+336 -ieme generation
+337 -ieme generation
+338 -ieme generation
+339 -ieme generation
+340 -ieme generation
+341 -ieme generation
+342 -ieme generation
+343 -ieme generation
+344 -ieme generation
+345 -ieme generation
+346 -ieme generation
+347 -ieme generation
+348 -ieme generation
+349 -ieme generation
+350 -ieme generation
+plotmaze, len(visitedPositions) = 3591
+351 -ieme generation
+352 -ieme generation
+353 -ieme generation
+354 -ieme generation
+355 -ieme generation
+356 -ieme generation
+357 -ieme generation
+358 -ieme generation
+359 -ieme generation
+360 -ieme generation
+361 -ieme generation
+362 -ieme generation
+363 -ieme generation
+364 -ieme generation
+365 -ieme generation
+366 -ieme generation
+367 -ieme generation
+368 -ieme generation
+369 -ieme generation
+370 -ieme generation
+371 -ieme generation
+372 -ieme generation
+373 -ieme generation
+374 -ieme generation
+375 -ieme generation
+376 -ieme generation
+377 -ieme generation
+378 -ieme generation
+379 -ieme generation
+380 -ieme generation
+381 -ieme generation
+382 -ieme generation
+383 -ieme generation
+384 -ieme generation
+385 -ieme generation
+386 -ieme generation
+387 -ieme generation
+388 -ieme generation
+389 -ieme generation
+390 -ieme generation
+391 -ieme generation
+392 -ieme generation
+393 -ieme generation
+394 -ieme generation
+395 -ieme generation
+396 -ieme generation
+397 -ieme generation
+398 -ieme generation
+399 -ieme generation
+400 -ieme generation
+plotmaze, len(visitedPositions) = 3636
+401 -ieme generation
+402 -ieme generation
+403 -ieme generation
+404 -ieme generation
+405 -ieme generation
+406 -ieme generation
+407 -ieme generation
+408 -ieme generation
+409 -ieme generation
+410 -ieme generation
+411 -ieme generation
+412 -ieme generation
+413 -ieme generation
+414 -ieme generation
+415 -ieme generation
+416 -ieme generation
+417 -ieme generation
+418 -ieme generation
+419 -ieme generation
+420 -ieme generation
+421 -ieme generation
+422 -ieme generation
+423 -ieme generation
+424 -ieme generation
+425 -ieme generation
+426 -ieme generation
+427 -ieme generation
+428 -ieme generation
+429 -ieme generation
+430 -ieme generation
+431 -ieme generation
+432 -ieme generation
+433 -ieme generation
+434 -ieme generation
+435 -ieme generation
+436 -ieme generation
+437 -ieme generation
+438 -ieme generation
+439 -ieme generation
+440 -ieme generation
+441 -ieme generation
+442 -ieme generation
+443 -ieme generation
+444 -ieme generation
+445 -ieme generation
+446 -ieme generation
+447 -ieme generation
+448 -ieme generation
+449 -ieme generation
+450 -ieme generation
+plotmaze, len(visitedPositions) = 3690
+451 -ieme generation
+452 -ieme generation
+453 -ieme generation
+454 -ieme generation
+455 -ieme generation
+456 -ieme generation
+457 -ieme generation
+458 -ieme generation
+459 -ieme generation
+460 -ieme generation
+461 -ieme generation
+462 -ieme generation
+463 -ieme generation
+464 -ieme generation
+465 -ieme generation
+466 -ieme generation
+467 -ieme generation
+468 -ieme generation
+469 -ieme generation
+470 -ieme generation
+471 -ieme generation
+472 -ieme generation
+473 -ieme generation
+474 -ieme generation
+475 -ieme generation
+476 -ieme generation
+477 -ieme generation
+478 -ieme generation
+479 -ieme generation
+480 -ieme generation
+481 -ieme generation
+482 -ieme generation
+483 -ieme generation
+484 -ieme generation
+485 -ieme generation
+486 -ieme generation
+487 -ieme generation
+488 -ieme generation
+489 -ieme generation
+490 -ieme generation
+491 -ieme generation
+492 -ieme generation
+493 -ieme generation
+494 -ieme generation
+495 -ieme generation
+496 -ieme generation
+497 -ieme generation
+498 -ieme generation
+499 -ieme generation
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+0 -ieme generation
+1 -ieme generation
+2 -ieme generation
+3 -ieme generation
+4 -ieme generation
+5 -ieme generation
+6 -ieme generation
+7 -ieme generation
+8 -ieme generation
+9 -ieme generation
+10 -ieme generation
+11 -ieme generation
+12 -ieme generation
+13 -ieme generation
+14 -ieme generation
+15 -ieme generation
+16 -ieme generation
+17 -ieme generation
+18 -ieme generation
+19 -ieme generation
+20 -ieme generation
+21 -ieme generation
+22 -ieme generation
+23 -ieme generation
+24 -ieme generation
+25 -ieme generation
+26 -ieme generation
+27 -ieme generation
+28 -ieme generation
+29 -ieme generation
+30 -ieme generation
+31 -ieme generation
+32 -ieme generation
+33 -ieme generation
+34 -ieme generation
+35 -ieme generation
+36 -ieme generation
+37 -ieme generation
+38 -ieme generation
+39 -ieme generation
+40 -ieme generation
+41 -ieme generation
+42 -ieme generation
+43 -ieme generation
+44 -ieme generation
+45 -ieme generation
+46 -ieme generation
+47 -ieme generation
+48 -ieme generation
+49 -ieme generation
+50 -ieme generation
+plotmaze, len(visitedPositions) = 2175
+51 -ieme generation
+52 -ieme generation
+53 -ieme generation
+54 -ieme generation
+55 -ieme generation
+56 -ieme generation
+57 -ieme generation
+58 -ieme generation
+59 -ieme generation
+60 -ieme generation
+61 -ieme generation
+62 -ieme generation
+63 -ieme generation
+64 -ieme generation
+65 -ieme generation
+66 -ieme generation
+67 -ieme generation
+68 -ieme generation
+69 -ieme generation
+70 -ieme generation
+71 -ieme generation
+72 -ieme generation
+73 -ieme generation
+74 -ieme generation
+75 -ieme generation
+76 -ieme generation
+77 -ieme generation
+78 -ieme generation
+79 -ieme generation
+80 -ieme generation
+81 -ieme generation
+82 -ieme generation
+83 -ieme generation
+84 -ieme generation
+85 -ieme generation
+86 -ieme generation
+87 -ieme generation
+88 -ieme generation
+89 -ieme generation
+90 -ieme generation
+91 -ieme generation
+92 -ieme generation
+93 -ieme generation
+94 -ieme generation
+95 -ieme generation
+96 -ieme generation
+97 -ieme generation
+98 -ieme generation
+99 -ieme generation
+100 -ieme generation
+plotmaze, len(visitedPositions) = 2578
+101 -ieme generation
+102 -ieme generation
+103 -ieme generation
+104 -ieme generation
+105 -ieme generation
+106 -ieme generation
+107 -ieme generation
+108 -ieme generation
+109 -ieme generation
+110 -ieme generation
+111 -ieme generation
+112 -ieme generation
+113 -ieme generation
+114 -ieme generation
+115 -ieme generation
+116 -ieme generation
+117 -ieme generation
+118 -ieme generation
+119 -ieme generation
+120 -ieme generation
+121 -ieme generation
+122 -ieme generation
+123 -ieme generation
+124 -ieme generation
+125 -ieme generation
+126 -ieme generation
+127 -ieme generation
+128 -ieme generation
+129 -ieme generation
+130 -ieme generation
+131 -ieme generation
+132 -ieme generation
+133 -ieme generation
+134 -ieme generation
+135 -ieme generation
+136 -ieme generation
+137 -ieme generation
+138 -ieme generation
+139 -ieme generation
+140 -ieme generation
+141 -ieme generation
+142 -ieme generation
+143 -ieme generation
+144 -ieme generation
+145 -ieme generation
+146 -ieme generation
+147 -ieme generation
+148 -ieme generation
+149 -ieme generation
+150 -ieme generation
+plotmaze, len(visitedPositions) = 2993
+151 -ieme generation
+152 -ieme generation
+153 -ieme generation
+154 -ieme generation
+155 -ieme generation
+156 -ieme generation
+157 -ieme generation
+158 -ieme generation
+159 -ieme generation
+160 -ieme generation
+161 -ieme generation
+162 -ieme generation
+163 -ieme generation
+164 -ieme generation
+165 -ieme generation
+166 -ieme generation
+167 -ieme generation
+168 -ieme generation
+169 -ieme generation
+170 -ieme generation
+171 -ieme generation
+172 -ieme generation
+173 -ieme generation
+174 -ieme generation
+175 -ieme generation
+176 -ieme generation
+177 -ieme generation
+178 -ieme generation
+179 -ieme generation
+180 -ieme generation
+181 -ieme generation
+182 -ieme generation
+183 -ieme generation
+184 -ieme generation
+185 -ieme generation
+186 -ieme generation
+187 -ieme generation
+188 -ieme generation
+189 -ieme generation
+190 -ieme generation
+191 -ieme generation
+192 -ieme generation
+193 -ieme generation
+194 -ieme generation
+195 -ieme generation
+196 -ieme generation
+197 -ieme generation
+198 -ieme generation
+199 -ieme generation
+200 -ieme generation
+plotmaze, len(visitedPositions) = 3189
+201 -ieme generation
+202 -ieme generation
+203 -ieme generation
+204 -ieme generation
+205 -ieme generation
+206 -ieme generation
+207 -ieme generation
+208 -ieme generation
+209 -ieme generation
+210 -ieme generation
+211 -ieme generation
+212 -ieme generation
+213 -ieme generation
+214 -ieme generation
+215 -ieme generation
+216 -ieme generation
+217 -ieme generation
+218 -ieme generation
+219 -ieme generation
+220 -ieme generation
+221 -ieme generation
+222 -ieme generation
+223 -ieme generation
+224 -ieme generation
+225 -ieme generation
+226 -ieme generation
+227 -ieme generation
+228 -ieme generation
+229 -ieme generation
+230 -ieme generation
+231 -ieme generation
+232 -ieme generation
+233 -ieme generation
+234 -ieme generation
+235 -ieme generation
+236 -ieme generation
+237 -ieme generation
+238 -ieme generation
+239 -ieme generation
+240 -ieme generation
+241 -ieme generation
+242 -ieme generation
+243 -ieme generation
+244 -ieme generation
+245 -ieme generation
+246 -ieme generation
+247 -ieme generation
+248 -ieme generation
+249 -ieme generation
+250 -ieme generation
+plotmaze, len(visitedPositions) = 3322
+251 -ieme generation
+252 -ieme generation
+253 -ieme generation
+254 -ieme generation
+255 -ieme generation
+256 -ieme generation
+257 -ieme generation
+258 -ieme generation
+259 -ieme generation
+260 -ieme generation
+261 -ieme generation
+262 -ieme generation
+263 -ieme generation
+264 -ieme generation
+265 -ieme generation
+266 -ieme generation
+267 -ieme generation
+268 -ieme generation
+269 -ieme generation
+270 -ieme generation
+271 -ieme generation
+272 -ieme generation
+273 -ieme generation
+274 -ieme generation
+275 -ieme generation
+276 -ieme generation
+277 -ieme generation
+278 -ieme generation
+279 -ieme generation
+280 -ieme generation
+281 -ieme generation
+282 -ieme generation
+283 -ieme generation
+284 -ieme generation
+285 -ieme generation
+286 -ieme generation
+287 -ieme generation
+288 -ieme generation
+289 -ieme generation
+290 -ieme generation
+291 -ieme generation
+292 -ieme generation
+293 -ieme generation
+294 -ieme generation
+295 -ieme generation
+296 -ieme generation
+297 -ieme generation
+298 -ieme generation
+299 -ieme generation
+300 -ieme generation
+plotmaze, len(visitedPositions) = 3431
+301 -ieme generation
+302 -ieme generation
+303 -ieme generation
+304 -ieme generation
+305 -ieme generation
+306 -ieme generation
+307 -ieme generation
+308 -ieme generation
+309 -ieme generation
+310 -ieme generation
+311 -ieme generation
+312 -ieme generation
+313 -ieme generation
+314 -ieme generation
+315 -ieme generation
+316 -ieme generation
+317 -ieme generation
+318 -ieme generation
+319 -ieme generation
+320 -ieme generation
+321 -ieme generation
+322 -ieme generation
+323 -ieme generation
+324 -ieme generation
+325 -ieme generation
+326 -ieme generation
+327 -ieme generation
+328 -ieme generation
+329 -ieme generation
+330 -ieme generation
+331 -ieme generation
+332 -ieme generation
+333 -ieme generation
+334 -ieme generation
+335 -ieme generation
+336 -ieme generation
+337 -ieme generation
+338 -ieme generation
+339 -ieme generation
+340 -ieme generation
+341 -ieme generation
+342 -ieme generation
+343 -ieme generation
+344 -ieme generation
+345 -ieme generation
+346 -ieme generation
+347 -ieme generation
+348 -ieme generation
+349 -ieme generation
+350 -ieme generation
+plotmaze, len(visitedPositions) = 3511
+351 -ieme generation
+352 -ieme generation
+353 -ieme generation
+354 -ieme generation
+355 -ieme generation
+356 -ieme generation
+357 -ieme generation
+358 -ieme generation
+359 -ieme generation
+360 -ieme generation
+361 -ieme generation
+362 -ieme generation
+363 -ieme generation
+364 -ieme generation
+365 -ieme generation
+366 -ieme generation
+367 -ieme generation
+368 -ieme generation
+369 -ieme generation
+370 -ieme generation
+371 -ieme generation
+372 -ieme generation
+373 -ieme generation
+374 -ieme generation
+375 -ieme generation
+376 -ieme generation
+377 -ieme generation
+378 -ieme generation
+379 -ieme generation
+380 -ieme generation
+381 -ieme generation
+382 -ieme generation
+383 -ieme generation
+384 -ieme generation
+385 -ieme generation
+386 -ieme generation
+387 -ieme generation
+388 -ieme generation
+389 -ieme generation
+390 -ieme generation
+391 -ieme generation
+392 -ieme generation
+393 -ieme generation
+394 -ieme generation
+395 -ieme generation
+396 -ieme generation
+397 -ieme generation
+398 -ieme generation
+399 -ieme generation
+400 -ieme generation
+plotmaze, len(visitedPositions) = 3566
+401 -ieme generation
+402 -ieme generation
+403 -ieme generation
+404 -ieme generation
+405 -ieme generation
+406 -ieme generation
+407 -ieme generation
+408 -ieme generation
+409 -ieme generation
+410 -ieme generation
+411 -ieme generation
+412 -ieme generation
+413 -ieme generation
+414 -ieme generation
+415 -ieme generation
+416 -ieme generation
+417 -ieme generation
+418 -ieme generation
+419 -ieme generation
+420 -ieme generation
+421 -ieme generation
+422 -ieme generation
+423 -ieme generation
+424 -ieme generation
+425 -ieme generation
+426 -ieme generation
+427 -ieme generation
+428 -ieme generation
+429 -ieme generation
+430 -ieme generation
+431 -ieme generation
+432 -ieme generation
+433 -ieme generation
+434 -ieme generation
+435 -ieme generation
+436 -ieme generation
+437 -ieme generation
+438 -ieme generation
+439 -ieme generation
+440 -ieme generation
+441 -ieme generation
+442 -ieme generation
+443 -ieme generation
+444 -ieme generation
+445 -ieme generation
+446 -ieme generation
+447 -ieme generation
+448 -ieme generation
+449 -ieme generation
+450 -ieme generation
+plotmaze, len(visitedPositions) = 3621
+451 -ieme generation
+452 -ieme generation
+453 -ieme generation
+454 -ieme generation
+455 -ieme generation
+456 -ieme generation
+457 -ieme generation
+458 -ieme generation
+459 -ieme generation
+460 -ieme generation
+461 -ieme generation
+462 -ieme generation
+463 -ieme generation
+464 -ieme generation
+465 -ieme generation
+466 -ieme generation
+467 -ieme generation
+468 -ieme generation
+469 -ieme generation
+470 -ieme generation
+471 -ieme generation
+472 -ieme generation
+473 -ieme generation
+474 -ieme generation
+475 -ieme generation
+476 -ieme generation
+477 -ieme generation
+478 -ieme generation
+479 -ieme generation
+480 -ieme generation
+481 -ieme generation
+482 -ieme generation
+483 -ieme generation
+484 -ieme generation
+485 -ieme generation
+486 -ieme generation
+487 -ieme generation
+488 -ieme generation
+489 -ieme generation
+490 -ieme generation
+491 -ieme generation
+492 -ieme generation
+493 -ieme generation
+494 -ieme generation
+495 -ieme generation
+496 -ieme generation
+497 -ieme generation
+498 -ieme generation
+499 -ieme generation
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+1 -ieme generation
+prob mutation  0.005
+j= 1
+2 -ieme generation
+prob mutation  0.005
+j= 2
+3 -ieme generation
+prob mutation  0.005
+j= 3
+4 -ieme generation
+prob mutation  0.005
+j= 4
+5 -ieme generation
+prob mutation  0.005
+j= 5
+6 -ieme generation
+prob mutation  0.005
+j= 6
+7 -ieme generation
+prob mutation  0.005
+j= 7
+8 -ieme generation
+prob mutation  0.005
+j= 8
+9 -ieme generation
+prob mutation  0.005
+j= 9
+10 -ieme generation
+prob mutation  0.005
+j= 10
+11 -ieme generation
+prob mutation  0.005
+j= 11
+12 -ieme generation
+prob mutation  0.005
+j= 12
+13 -ieme generation
+prob mutation  0.005
+j= 13
+14 -ieme generation
+prob mutation  0.005
+j= 14
+15 -ieme generation
+prob mutation  0.005
+j= 15
+16 -ieme generation
+prob mutation  0.005
+j= 16
+17 -ieme generation
+prob mutation  0.005
+j= 17
+18 -ieme generation
+prob mutation  0.005
+j= 18
+19 -ieme generation
+prob mutation  0.005
+j= 19
+20 -ieme generation
+prob mutation  0.005
+j= 20
+21 -ieme generation
+prob mutation  0.005
+j= 21
+22 -ieme generation
+prob mutation  0.005
+j= 22
+23 -ieme generation
+prob mutation  0.005
+j= 23
+24 -ieme generation
+prob mutation  0.005
+j= 24
+25 -ieme generation
+prob mutation  0.005
+j= 25
+26 -ieme generation
+prob mutation  0.01
+j= 26
+27 -ieme generation
+prob mutation  0.01
+j= 27
+28 -ieme generation
+prob mutation  0.01
+j= 28
+29 -ieme generation
+prob mutation  0.01
+j= 29
+30 -ieme generation
+prob mutation  0.01
+j= 30
+31 -ieme generation
+prob mutation  0.01
+j= 31
+32 -ieme generation
+prob mutation  0.01
+j= 32
+33 -ieme generation
+prob mutation  0.01
+j= 33
+34 -ieme generation
+prob mutation  0.01
+j= 34
+35 -ieme generation
+prob mutation  0.01
+j= 35
+36 -ieme generation
+prob mutation  0.01
+j= 36
+37 -ieme generation
+prob mutation  0.01
+j= 37
+38 -ieme generation
+prob mutation  0.01
+j= 38
+39 -ieme generation
+prob mutation  0.01
+j= 39
+40 -ieme generation
+prob mutation  0.015
+j= 40
+41 -ieme generation
+prob mutation  0.02
+j= 41
+42 -ieme generation
+prob mutation  0.025
+j= 42
+43 -ieme generation
+prob mutation  0.030000000000000002
+j= 43
+44 -ieme generation
+prob mutation  0.035
+j= 44
+45 -ieme generation
+prob mutation  0.04
+j= 45
+46 -ieme generation
+prob mutation  0.045
+j= 46
+47 -ieme generation
+prob mutation  0.049999999999999996
+j= 47
+48 -ieme generation
+prob mutation  0.05499999999999999
+j= 48
+49 -ieme generation
+prob mutation  0.05999999999999999
+j= 49
+50 -ieme generation
+prob mutation  0.06499999999999999
+j= 50
+plotmaze, len(visitedPosition) = 2335
+51 -ieme generation
+prob mutation  0.06999999999999999
+j= 51
+52 -ieme generation
+prob mutation  0.075
+j= 52
+53 -ieme generation
+prob mutation  0.08
+j= 53
+54 -ieme generation
+prob mutation  0.085
+j= 54
+55 -ieme generation
+prob mutation  0.09000000000000001
+j= 55
+56 -ieme generation
+prob mutation  0.09500000000000001
+j= 56
+57 -ieme generation
+prob mutation  0.10000000000000002
+j= 57
+58 -ieme generation
+prob mutation  0.10000000000000002
+j= 58
+59 -ieme generation
+prob mutation  0.10000000000000002
+j= 59
+60 -ieme generation
+prob mutation  0.10000000000000002
+j= 60
+61 -ieme generation
+prob mutation  0.10000000000000002
+j= 61
+62 -ieme generation
+prob mutation  0.10000000000000002
+j= 62
+63 -ieme generation
+prob mutation  0.10000000000000002
+j= 63
+64 -ieme generation
+prob mutation  0.10000000000000002
+j= 64
+65 -ieme generation
+prob mutation  0.10000000000000002
+j= 65
+66 -ieme generation
+prob mutation  0.10000000000000002
+j= 66
+67 -ieme generation
+prob mutation  0.10000000000000002
+j= 67
+68 -ieme generation
+prob mutation  0.10000000000000002
+j= 68
+69 -ieme generation
+prob mutation  0.10000000000000002
+j= 69
+70 -ieme generation
+prob mutation  0.10000000000000002
+j= 70
+71 -ieme generation
+prob mutation  0.10000000000000002
+j= 71
+72 -ieme generation
+prob mutation  0.10000000000000002
+j= 72
+73 -ieme generation
+prob mutation  0.10000000000000002
+j= 73
+74 -ieme generation
+prob mutation  0.10000000000000002
+j= 74
+75 -ieme generation
+prob mutation  0.10000000000000002
+j= 75
+76 -ieme generation
+prob mutation  0.10000000000000002
+j= 76
+77 -ieme generation
+prob mutation  0.10000000000000002
+j= 77
+78 -ieme generation
+prob mutation  0.10000000000000002
+j= 78
+79 -ieme generation
+prob mutation  0.10000000000000002
+j= 79
+80 -ieme generation
+prob mutation  0.10000000000000002
+j= 80
+81 -ieme generation
+prob mutation  0.10000000000000002
+j= 81
+82 -ieme generation
+prob mutation  0.10000000000000002
+j= 82
+83 -ieme generation
+prob mutation  0.10000000000000002
+j= 83
+84 -ieme generation
+prob mutation  0.10500000000000002
+j= 84
+85 -ieme generation
+prob mutation  0.11000000000000003
+j= 85
+86 -ieme generation
+prob mutation  0.11500000000000003
+j= 86
+87 -ieme generation
+prob mutation  0.12000000000000004
+j= 87
+88 -ieme generation
+prob mutation  0.12500000000000003
+j= 88
+89 -ieme generation
+prob mutation  0.12500000000000003
+j= 89
+90 -ieme generation
+prob mutation  0.13000000000000003
+j= 90
+91 -ieme generation
+prob mutation  0.13000000000000003
+j= 91
+92 -ieme generation
+prob mutation  0.13500000000000004
+j= 92
+93 -ieme generation
+prob mutation  0.13500000000000004
+j= 93
+94 -ieme generation
+prob mutation  0.13500000000000004
+j= 94
+95 -ieme generation
+prob mutation  0.14000000000000004
+j= 95
+96 -ieme generation
+prob mutation  0.14500000000000005
+j= 96
+97 -ieme generation
+prob mutation  0.15000000000000005
+j= 97
+98 -ieme generation
+prob mutation  0.15500000000000005
+j= 98
+99 -ieme generation
+prob mutation  0.15500000000000005
+j= 99
+100 -ieme generation
+prob mutation  0.15500000000000005
+j= 100
+plotmaze, len(visitedPosition) = 3372
+101 -ieme generation
+prob mutation  0.15500000000000005
+j= 101
+102 -ieme generation
+prob mutation  0.15500000000000005
+j= 102
+103 -ieme generation
+prob mutation  0.16000000000000006
+j= 103
+104 -ieme generation
+prob mutation  0.16500000000000006
+j= 104
+105 -ieme generation
+prob mutation  0.17000000000000007
+j= 105
+106 -ieme generation
+prob mutation  0.17500000000000007
+j= 106
+107 -ieme generation
+prob mutation  0.18000000000000008
+j= 107
+108 -ieme generation
+prob mutation  0.18500000000000008
+j= 108
+109 -ieme generation
+prob mutation  0.19000000000000009
+j= 109
+110 -ieme generation
+prob mutation  0.1950000000000001
+j= 110
+111 -ieme generation
+prob mutation  0.2000000000000001
+j= 111
+112 -ieme generation
+prob mutation  0.2050000000000001
+j= 112
+113 -ieme generation
+prob mutation  0.2100000000000001
+j= 113
+114 -ieme generation
+prob mutation  0.2150000000000001
+j= 114
+115 -ieme generation
+prob mutation  0.2200000000000001
+j= 115
+116 -ieme generation
+prob mutation  0.2200000000000001
+j= 116
+117 -ieme generation
+prob mutation  0.22500000000000012
+j= 117
+118 -ieme generation
+prob mutation  0.23000000000000012
+j= 118
+119 -ieme generation
+prob mutation  0.23500000000000013
+j= 119
+120 -ieme generation
+prob mutation  0.24000000000000013
+j= 120
+121 -ieme generation
+prob mutation  0.24500000000000013
+j= 121
+122 -ieme generation
+prob mutation  0.2500000000000001
+j= 122
+123 -ieme generation
+prob mutation  0.2550000000000001
+j= 123
+124 -ieme generation
+prob mutation  0.2600000000000001
+j= 124
+125 -ieme generation
+prob mutation  0.2650000000000001
+j= 125
+126 -ieme generation
+prob mutation  0.27000000000000013
+j= 126
+127 -ieme generation
+prob mutation  0.27500000000000013
+j= 127
+128 -ieme generation
+prob mutation  0.28000000000000014
+j= 128
+129 -ieme generation
+prob mutation  0.28500000000000014
+j= 129
+130 -ieme generation
+prob mutation  0.29000000000000015
+j= 130
+131 -ieme generation
+prob mutation  0.29500000000000015
+j= 131
+132 -ieme generation
+prob mutation  0.30000000000000016
+j= 132
+133 -ieme generation
+prob mutation  0.30500000000000016
+j= 133
+134 -ieme generation
+prob mutation  0.31000000000000016
+j= 134
+135 -ieme generation
+prob mutation  0.31500000000000017
+j= 135
+136 -ieme generation
+prob mutation  0.3200000000000002
+j= 136
+137 -ieme generation
+prob mutation  0.3250000000000002
+j= 137
+138 -ieme generation
+prob mutation  0.3300000000000002
+j= 138
+139 -ieme generation
+prob mutation  0.3350000000000002
+j= 139
+140 -ieme generation
+prob mutation  0.3400000000000002
+j= 140
+141 -ieme generation
+prob mutation  0.3450000000000002
+j= 141
+142 -ieme generation
+prob mutation  0.3500000000000002
+j= 142
+143 -ieme generation
+prob mutation  0.3550000000000002
+j= 143
+144 -ieme generation
+prob mutation  0.3600000000000002
+j= 144
+145 -ieme generation
+prob mutation  0.3650000000000002
+j= 145
+146 -ieme generation
+prob mutation  0.3700000000000002
+j= 146
+147 -ieme generation
+prob mutation  0.3750000000000002
+j= 147
+148 -ieme generation
+prob mutation  0.3800000000000002
+j= 148
+149 -ieme generation
+prob mutation  0.38500000000000023
+j= 149
+150 -ieme generation
+prob mutation  0.39000000000000024
+j= 150
+plotmaze, len(visitedPosition) = 3914
+151 -ieme generation
+prob mutation  0.39500000000000024
+j= 151
+152 -ieme generation
+prob mutation  0.40000000000000024
+j= 152
+153 -ieme generation
+prob mutation  0.40500000000000025
+j= 153
+154 -ieme generation
+prob mutation  0.41000000000000025
+j= 154
+155 -ieme generation
+prob mutation  0.41500000000000026
+j= 155
+156 -ieme generation
+prob mutation  0.42000000000000026
+j= 156
+157 -ieme generation
+prob mutation  0.42500000000000027
+j= 157
+158 -ieme generation
+prob mutation  0.43000000000000027
+j= 158
+159 -ieme generation
+prob mutation  0.4350000000000003
+j= 159
+160 -ieme generation
+prob mutation  0.4400000000000003
+j= 160
+161 -ieme generation
+prob mutation  0.4450000000000003
+j= 161
+162 -ieme generation
+prob mutation  0.4500000000000003
+j= 162
+163 -ieme generation
+prob mutation  0.4550000000000003
+j= 163
+164 -ieme generation
+prob mutation  0.4600000000000003
+j= 164
+165 -ieme generation
+prob mutation  0.4650000000000003
+j= 165
+166 -ieme generation
+prob mutation  0.4700000000000003
+j= 166
+167 -ieme generation
+prob mutation  0.4750000000000003
+j= 167
+168 -ieme generation
+prob mutation  0.4800000000000003
+j= 168
+169 -ieme generation
+prob mutation  0.4850000000000003
+j= 169
+170 -ieme generation
+prob mutation  0.4900000000000003
+j= 170
+171 -ieme generation
+prob mutation  0.49500000000000033
+j= 171
+172 -ieme generation
+prob mutation  0.5000000000000003
+j= 172
+173 -ieme generation
+prob mutation  0.5000000000000003
+j= 173
+174 -ieme generation
+prob mutation  0.5000000000000003
+j= 174
+175 -ieme generation
+prob mutation  0.5050000000000003
+j= 175
+176 -ieme generation
+prob mutation  0.5100000000000003
+j= 176
+177 -ieme generation
+prob mutation  0.5150000000000003
+j= 177
+178 -ieme generation
+prob mutation  0.5200000000000004
+j= 178
+179 -ieme generation
+prob mutation  0.5250000000000004
+j= 179
+180 -ieme generation
+prob mutation  0.5300000000000004
+j= 180
+181 -ieme generation
+prob mutation  0.5350000000000004
+j= 181
+182 -ieme generation
+prob mutation  0.5400000000000004
+j= 182
+183 -ieme generation
+prob mutation  0.5450000000000004
+j= 183
+184 -ieme generation
+prob mutation  0.5450000000000004
+j= 184
+185 -ieme generation
+prob mutation  0.5500000000000004
+j= 185
+186 -ieme generation
+prob mutation  0.5550000000000004
+j= 186
+187 -ieme generation
+prob mutation  0.5600000000000004
+j= 187
+188 -ieme generation
+prob mutation  0.5650000000000004
+j= 188
+189 -ieme generation
+prob mutation  0.5650000000000004
+j= 189
+190 -ieme generation
+prob mutation  0.5700000000000004
+j= 190
+191 -ieme generation
+prob mutation  0.5700000000000004
+j= 191
+192 -ieme generation
+prob mutation  0.5750000000000004
+j= 192
+193 -ieme generation
+prob mutation  0.5800000000000004
+j= 193
+194 -ieme generation
+prob mutation  0.5850000000000004
+j= 194
+195 -ieme generation
+prob mutation  0.5850000000000004
+j= 195
+196 -ieme generation
+prob mutation  0.5900000000000004
+j= 196
+197 -ieme generation
+prob mutation  0.5950000000000004
+j= 197
+198 -ieme generation
+prob mutation  0.6000000000000004
+j= 198
+199 -ieme generation
+prob mutation  0.6050000000000004
+j= 199
+200 -ieme generation
+prob mutation  0.6100000000000004
+j= 200
+plotmaze, len(visitedPosition) = 4632
+201 -ieme generation
+prob mutation  0.6150000000000004
+j= 201
+202 -ieme generation
+prob mutation  0.6200000000000004
+j= 202
+203 -ieme generation
+prob mutation  0.6250000000000004
+j= 203
+204 -ieme generation
+prob mutation  0.6300000000000004
+j= 204
+205 -ieme generation
+prob mutation  0.6350000000000005
+j= 205
+206 -ieme generation
+prob mutation  0.6400000000000005
+j= 206
+207 -ieme generation
+prob mutation  0.6450000000000005
+j= 207
+208 -ieme generation
+prob mutation  0.6500000000000005
+j= 208
+209 -ieme generation
+prob mutation  0.6550000000000005
+j= 209
+210 -ieme generation
+prob mutation  0.6600000000000005
+j= 210
+211 -ieme generation
+prob mutation  0.6600000000000005
+j= 211
+212 -ieme generation
+prob mutation  0.6600000000000005
+j= 212
+213 -ieme generation
+prob mutation  0.6650000000000005
+j= 213
+214 -ieme generation
+prob mutation  0.6700000000000005
+j= 214
+215 -ieme generation
+prob mutation  0.6750000000000005
+j= 215
+216 -ieme generation
+prob mutation  0.6800000000000005
+j= 216
+217 -ieme generation
+prob mutation  0.6850000000000005
+j= 217
+218 -ieme generation
+prob mutation  0.6900000000000005
+j= 218
+219 -ieme generation
+prob mutation  0.6950000000000005
+j= 219
+220 -ieme generation
+prob mutation  0.7000000000000005
+j= 220
+221 -ieme generation
+prob mutation  0.7050000000000005
+j= 221
+222 -ieme generation
+prob mutation  0.7100000000000005
+j= 222
+223 -ieme generation
+prob mutation  0.7150000000000005
+j= 223
+224 -ieme generation
+prob mutation  0.7200000000000005
+j= 224
+225 -ieme generation
+prob mutation  0.7250000000000005
+j= 225
+226 -ieme generation
+prob mutation  0.7300000000000005
+j= 226
+227 -ieme generation
+prob mutation  0.7350000000000005
+j= 227
+228 -ieme generation
+prob mutation  0.7400000000000005
+j= 228
+229 -ieme generation
+prob mutation  0.7450000000000006
+j= 229
+230 -ieme generation
+prob mutation  0.7500000000000006
+j= 230
+231 -ieme generation
+prob mutation  0.7550000000000006
+j= 231
+232 -ieme generation
+prob mutation  0.7600000000000006
+j= 232
+233 -ieme generation
+prob mutation  0.7650000000000006
+j= 233
+234 -ieme generation
+prob mutation  0.7700000000000006
+j= 234
+235 -ieme generation
+prob mutation  0.7750000000000006
+j= 235
+236 -ieme generation
+prob mutation  0.7800000000000006
+j= 236
+237 -ieme generation
+prob mutation  0.7850000000000006
+j= 237
+238 -ieme generation
+prob mutation  0.7900000000000006
+j= 238
+239 -ieme generation
+prob mutation  0.7950000000000006
+j= 239
+240 -ieme generation
+prob mutation  0.8000000000000006
+j= 240
+241 -ieme generation
+prob mutation  0.8050000000000006
+j= 241
+242 -ieme generation
+prob mutation  0.8100000000000006
+j= 242
+243 -ieme generation
+prob mutation  0.8150000000000006
+j= 243
+244 -ieme generation
+prob mutation  0.8150000000000006
+j= 244
+245 -ieme generation
+prob mutation  0.8200000000000006
+j= 245
+246 -ieme generation
+prob mutation  0.8200000000000006
+j= 246
+247 -ieme generation
+prob mutation  0.8200000000000006
+j= 247
+248 -ieme generation
+prob mutation  0.8200000000000006
+j= 248
+249 -ieme generation
+prob mutation  0.8200000000000006
+j= 249
+250 -ieme generation
+prob mutation  0.8200000000000006
+j= 250
+plotmaze, len(visitedPosition) = 5223
+251 -ieme generation
+prob mutation  0.8200000000000006
+j= 251
+252 -ieme generation
+prob mutation  0.8250000000000006
+j= 252
+253 -ieme generation
+prob mutation  0.8250000000000006
+j= 253
+254 -ieme generation
+prob mutation  0.8300000000000006
+j= 254
+255 -ieme generation
+prob mutation  0.8350000000000006
+j= 255
+256 -ieme generation
+prob mutation  0.8350000000000006
+j= 256
+257 -ieme generation
+prob mutation  0.8350000000000006
+j= 257
+258 -ieme generation
+prob mutation  0.8350000000000006
+j= 258
+259 -ieme generation
+prob mutation  0.8350000000000006
+j= 259
+260 -ieme generation
+prob mutation  0.8350000000000006
+j= 260
+261 -ieme generation
+prob mutation  0.8400000000000006
+j= 261
+262 -ieme generation
+prob mutation  0.8450000000000006
+j= 262
+263 -ieme generation
+prob mutation  0.8500000000000006
+j= 263
+264 -ieme generation
+prob mutation  0.8550000000000006
+j= 264
+265 -ieme generation
+prob mutation  0.8600000000000007
+j= 265
+266 -ieme generation
+prob mutation  0.8650000000000007
+j= 266
+267 -ieme generation
+prob mutation  0.8700000000000007
+j= 267
+268 -ieme generation
+prob mutation  0.8750000000000007
+j= 268
+269 -ieme generation
+prob mutation  0.8800000000000007
+j= 269
+270 -ieme generation
+prob mutation  0.8850000000000007
+j= 270
+271 -ieme generation
+prob mutation  0.8900000000000007
+j= 271
+272 -ieme generation
+prob mutation  0.8950000000000007
+j= 272
+273 -ieme generation
+prob mutation  0.9000000000000007
+j= 273
+274 -ieme generation
+prob mutation  0.9050000000000007
+j= 274
+275 -ieme generation
+prob mutation  0.9100000000000007
+j= 275
+276 -ieme generation
+prob mutation  0.9150000000000007
+j= 276
+277 -ieme generation
+prob mutation  0.9200000000000007
+j= 277
+278 -ieme generation
+prob mutation  0.9250000000000007
+j= 278
+279 -ieme generation
+prob mutation  0.9300000000000007
+j= 279
+280 -ieme generation
+prob mutation  0.9350000000000007
+j= 280
+281 -ieme generation
+prob mutation  0.9400000000000007
+j= 281
+282 -ieme generation
+prob mutation  0.9450000000000007
+j= 282
+283 -ieme generation
+prob mutation  0.9500000000000007
+j= 283
+284 -ieme generation
+prob mutation  0.9550000000000007
+j= 284
+285 -ieme generation
+prob mutation  0.9600000000000007
+j= 285
+286 -ieme generation
+prob mutation  0.9650000000000007
+j= 286
+287 -ieme generation
+prob mutation  0.9700000000000008
+j= 287
+288 -ieme generation
+prob mutation  0.9750000000000008
+j= 288
+289 -ieme generation
+prob mutation  0.9800000000000008
+j= 289
+290 -ieme generation
+prob mutation  0.9850000000000008
+j= 290
+291 -ieme generation
+prob mutation  0.9900000000000008
+j= 291
+292 -ieme generation
+prob mutation  0.9950000000000008
+j= 292
+293 -ieme generation
+prob mutation  1.0000000000000007
+j= 293
+294 -ieme generation
+prob mutation  1.0050000000000006
+j= 294
+295 -ieme generation
+prob mutation  1.0100000000000005
+j= 295
+296 -ieme generation
+prob mutation  1.0150000000000003
+j= 296
+297 -ieme generation
+prob mutation  1.0200000000000002
+j= 297
+298 -ieme generation
+prob mutation  1.0250000000000001
+j= 298
+299 -ieme generation
+prob mutation  1.03
+j= 299
+300 -ieme generation
+prob mutation  1.035
+j= 300
+plotmaze, len(visitedPosition) = 5667
+301 -ieme generation
+prob mutation  1.0399999999999998
+j= 301
+302 -ieme generation
+prob mutation  1.0449999999999997
+j= 302
+303 -ieme generation
+prob mutation  1.0499999999999996
+j= 303
+304 -ieme generation
+prob mutation  1.0549999999999995
+j= 304
+305 -ieme generation
+prob mutation  1.0599999999999994
+j= 305
+306 -ieme generation
+prob mutation  1.0649999999999993
+j= 306
+307 -ieme generation
+prob mutation  1.0699999999999992
+j= 307
+308 -ieme generation
+prob mutation  1.074999999999999
+j= 308
+309 -ieme generation
+prob mutation  1.079999999999999
+j= 309
+310 -ieme generation
+prob mutation  1.0849999999999989
+j= 310
+311 -ieme generation
+prob mutation  1.0899999999999987
+j= 311
+312 -ieme generation
+prob mutation  1.0949999999999986
+j= 312
+313 -ieme generation
+prob mutation  1.0999999999999985
+j= 313
+314 -ieme generation
+prob mutation  1.1049999999999984
+j= 314
+315 -ieme generation
+prob mutation  1.1099999999999983
+j= 315
+316 -ieme generation
+prob mutation  1.1149999999999982
+j= 316
+317 -ieme generation
+prob mutation  1.119999999999998
+j= 317
+318 -ieme generation
+prob mutation  1.124999999999998
+j= 318
+319 -ieme generation
+prob mutation  1.129999999999998
+j= 319
+320 -ieme generation
+prob mutation  1.1349999999999978
+j= 320
+321 -ieme generation
+prob mutation  1.1399999999999977
+j= 321
+322 -ieme generation
+prob mutation  1.1449999999999976
+j= 322
+323 -ieme generation
+prob mutation  1.1499999999999975
+j= 323
+324 -ieme generation
+prob mutation  1.1549999999999974
+j= 324
+325 -ieme generation
+prob mutation  1.1599999999999973
+j= 325
+326 -ieme generation
+prob mutation  1.1649999999999971
+j= 326
+327 -ieme generation
+prob mutation  1.169999999999997
+j= 327
+328 -ieme generation
+prob mutation  1.174999999999997
+j= 328
+329 -ieme generation
+prob mutation  1.1799999999999968
+j= 329
+330 -ieme generation
+prob mutation  1.1849999999999967
+j= 330
+331 -ieme generation
+prob mutation  1.1899999999999966
+j= 331
+332 -ieme generation
+prob mutation  1.1949999999999965
+j= 332
+333 -ieme generation
+prob mutation  1.1999999999999964
+j= 333
+334 -ieme generation
+prob mutation  1.2049999999999963
+j= 334
+335 -ieme generation
+prob mutation  1.2099999999999962
+j= 335
+336 -ieme generation
+prob mutation  1.214999999999996
+j= 336
+337 -ieme generation
+prob mutation  1.219999999999996
+j= 337
+338 -ieme generation
+prob mutation  1.2249999999999959
+j= 338
+339 -ieme generation
+prob mutation  1.2299999999999958
+j= 339
+340 -ieme generation
+prob mutation  1.2349999999999957
+j= 340
+341 -ieme generation
+prob mutation  1.2399999999999956
+j= 341
+342 -ieme generation
+prob mutation  1.2449999999999954
+j= 342
+343 -ieme generation
+prob mutation  1.2499999999999953
+j= 343
+344 -ieme generation
+prob mutation  1.2549999999999952
+j= 344
+345 -ieme generation
+prob mutation  1.2599999999999951
+j= 345
+346 -ieme generation
+prob mutation  1.264999999999995
+j= 346
+347 -ieme generation
+prob mutation  1.269999999999995
+j= 347
+348 -ieme generation
+prob mutation  1.2749999999999948
+j= 348
+349 -ieme generation
+prob mutation  1.2799999999999947
+j= 349
+350 -ieme generation
+prob mutation  1.2849999999999946
+j= 350
+plotmaze, len(visitedPosition) = 5744
+351 -ieme generation
+prob mutation  1.2899999999999945
+j= 351
+352 -ieme generation
+prob mutation  1.2949999999999944
+j= 352
+353 -ieme generation
+prob mutation  1.2999999999999943
+j= 353
+354 -ieme generation
+prob mutation  1.3049999999999942
+j= 354
+355 -ieme generation
+prob mutation  1.309999999999994
+j= 355
+356 -ieme generation
+prob mutation  1.314999999999994
+j= 356
+357 -ieme generation
+prob mutation  1.3199999999999938
+j= 357
+358 -ieme generation
+prob mutation  1.3249999999999937
+j= 358
+359 -ieme generation
+prob mutation  1.3299999999999936
+j= 359
+360 -ieme generation
+prob mutation  1.3349999999999935
+j= 360
+361 -ieme generation
+prob mutation  1.3399999999999934
+j= 361
+362 -ieme generation
+prob mutation  1.3449999999999933
+j= 362
+363 -ieme generation
+prob mutation  1.3499999999999932
+j= 363
+364 -ieme generation
+prob mutation  1.354999999999993
+j= 364
+365 -ieme generation
+prob mutation  1.359999999999993
+j= 365
+366 -ieme generation
+prob mutation  1.3649999999999929
+j= 366
+367 -ieme generation
+prob mutation  1.3699999999999928
+j= 367
+368 -ieme generation
+prob mutation  1.3749999999999927
+j= 368
+369 -ieme generation
+prob mutation  1.3799999999999926
+j= 369
+370 -ieme generation
+prob mutation  1.3849999999999925
+j= 370
+371 -ieme generation
+prob mutation  1.3899999999999924
+j= 371
+372 -ieme generation
+prob mutation  1.3949999999999922
+j= 372
+373 -ieme generation
+prob mutation  1.3999999999999921
+j= 373
+374 -ieme generation
+prob mutation  1.404999999999992
+j= 374
+375 -ieme generation
+prob mutation  1.409999999999992
+j= 375
+376 -ieme generation
+prob mutation  1.4149999999999918
+j= 376
+377 -ieme generation
+prob mutation  1.4199999999999917
+j= 377
+378 -ieme generation
+prob mutation  1.4249999999999916
+j= 378
+379 -ieme generation
+prob mutation  1.4299999999999915
+j= 379
+380 -ieme generation
+prob mutation  1.4349999999999914
+j= 380
+381 -ieme generation
+prob mutation  1.4399999999999913
+j= 381
+382 -ieme generation
+prob mutation  1.4449999999999912
+j= 382
+383 -ieme generation
+prob mutation  1.449999999999991
+j= 383
+384 -ieme generation
+prob mutation  1.454999999999991
+j= 384
+385 -ieme generation
+prob mutation  1.4599999999999909
+j= 385
+386 -ieme generation
+prob mutation  1.4649999999999908
+j= 386
+387 -ieme generation
+prob mutation  1.4699999999999906
+j= 387
+388 -ieme generation
+prob mutation  1.4749999999999905
+j= 388
+389 -ieme generation
+prob mutation  1.4799999999999904
+j= 389
+390 -ieme generation
+prob mutation  1.4849999999999903
+j= 390
+391 -ieme generation
+prob mutation  1.4899999999999902
+j= 391
+392 -ieme generation
+prob mutation  1.4949999999999901
+j= 392
+393 -ieme generation
+prob mutation  1.49999999999999
+j= 393
+394 -ieme generation
+prob mutation  1.50499999999999
+j= 394
+395 -ieme generation
+prob mutation  1.5099999999999898
+j= 395
+396 -ieme generation
+prob mutation  1.5149999999999897
+j= 396
+397 -ieme generation
+prob mutation  1.5199999999999896
+j= 397
+398 -ieme generation
+prob mutation  1.5249999999999895
+j= 398
+399 -ieme generation
+prob mutation  1.5299999999999894
+j= 399
+400 -ieme generation
+prob mutation  1.5349999999999893
+j= 400
+plotmaze, len(visitedPosition) = 5778
+401 -ieme generation
+prob mutation  1.5399999999999892
+j= 401
+402 -ieme generation
+prob mutation  1.544999999999989
+j= 402
+403 -ieme generation
+prob mutation  1.549999999999989
+j= 403
+404 -ieme generation
+prob mutation  1.5549999999999888
+j= 404
+405 -ieme generation
+prob mutation  1.5599999999999887
+j= 405
+406 -ieme generation
+prob mutation  1.5649999999999886
+j= 406
+407 -ieme generation
+prob mutation  1.5699999999999885
+j= 407
+408 -ieme generation
+prob mutation  1.5749999999999884
+j= 408
+409 -ieme generation
+prob mutation  1.5799999999999883
+j= 409
+410 -ieme generation
+prob mutation  1.5849999999999882
+j= 410
+411 -ieme generation
+prob mutation  1.589999999999988
+j= 411
+412 -ieme generation
+prob mutation  1.594999999999988
+j= 412
+413 -ieme generation
+prob mutation  1.5999999999999879
+j= 413
+414 -ieme generation
+prob mutation  1.6049999999999878
+j= 414
+415 -ieme generation
+prob mutation  1.6099999999999877
+j= 415
+416 -ieme generation
+prob mutation  1.6149999999999876
+j= 416
+417 -ieme generation
+prob mutation  1.6199999999999875
+j= 417
+418 -ieme generation
+prob mutation  1.6249999999999873
+j= 418
+419 -ieme generation
+prob mutation  1.6299999999999872
+j= 419
+420 -ieme generation
+prob mutation  1.6349999999999871
+j= 420
+421 -ieme generation
+prob mutation  1.639999999999987
+j= 421
+422 -ieme generation
+prob mutation  1.644999999999987
+j= 422
+423 -ieme generation
+prob mutation  1.6499999999999868
+j= 423
+424 -ieme generation
+prob mutation  1.6549999999999867
+j= 424
+425 -ieme generation
+prob mutation  1.6599999999999866
+j= 425
+426 -ieme generation
+prob mutation  1.6649999999999865
+j= 426
+427 -ieme generation
+prob mutation  1.6699999999999864
+j= 427
+428 -ieme generation
+prob mutation  1.6749999999999863
+j= 428
+429 -ieme generation
+prob mutation  1.6799999999999862
+j= 429
+430 -ieme generation
+prob mutation  1.684999999999986
+j= 430
+431 -ieme generation
+prob mutation  1.689999999999986
+j= 431
+432 -ieme generation
+prob mutation  1.6949999999999859
+j= 432
+433 -ieme generation
+prob mutation  1.6999999999999857
+j= 433
+434 -ieme generation
+prob mutation  1.7049999999999856
+j= 434
+435 -ieme generation
+prob mutation  1.7099999999999855
+j= 435
+436 -ieme generation
+prob mutation  1.7149999999999854
+j= 436
+437 -ieme generation
+prob mutation  1.7199999999999853
+j= 437
+438 -ieme generation
+prob mutation  1.7249999999999852
+j= 438
+439 -ieme generation
+prob mutation  1.729999999999985
+j= 439
+440 -ieme generation
+prob mutation  1.734999999999985
+j= 440
+441 -ieme generation
+prob mutation  1.739999999999985
+j= 441
+442 -ieme generation
+prob mutation  1.7449999999999848
+j= 442
+443 -ieme generation
+prob mutation  1.7499999999999847
+j= 443
+444 -ieme generation
+prob mutation  1.7549999999999846
+j= 444
+445 -ieme generation
+prob mutation  1.7599999999999845
+j= 445
+446 -ieme generation
+prob mutation  1.7649999999999844
+j= 446
+447 -ieme generation
+prob mutation  1.7699999999999843
+j= 447
+448 -ieme generation
+prob mutation  1.7749999999999841
+j= 448
+449 -ieme generation
+prob mutation  1.779999999999984
+j= 449
+450 -ieme generation
+prob mutation  1.784999999999984
+j= 450
+plotmaze, len(visitedPosition) = 5819
+451 -ieme generation
+prob mutation  1.7899999999999838
+j= 451
+452 -ieme generation
+prob mutation  1.7949999999999837
+j= 452
+453 -ieme generation
+prob mutation  1.7999999999999836
+j= 453
+454 -ieme generation
+prob mutation  1.8049999999999835
+j= 454
+455 -ieme generation
+prob mutation  1.8099999999999834
+j= 455
+456 -ieme generation
+prob mutation  1.8149999999999833
+j= 456
+457 -ieme generation
+prob mutation  1.8199999999999832
+j= 457
+458 -ieme generation
+prob mutation  1.824999999999983
+j= 458
+459 -ieme generation
+prob mutation  1.829999999999983
+j= 459
+460 -ieme generation
+prob mutation  1.8349999999999829
+j= 460
+461 -ieme generation
+prob mutation  1.8399999999999828
+j= 461
+462 -ieme generation
+prob mutation  1.8449999999999827
+j= 462
+463 -ieme generation
+prob mutation  1.8499999999999825
+j= 463
+464 -ieme generation
+prob mutation  1.8549999999999824
+j= 464
+465 -ieme generation
+prob mutation  1.8599999999999823
+j= 465
+466 -ieme generation
+prob mutation  1.8649999999999822
+j= 466
+467 -ieme generation
+prob mutation  1.8699999999999821
+j= 467
+468 -ieme generation
+prob mutation  1.874999999999982
+j= 468
+469 -ieme generation
+prob mutation  1.879999999999982
+j= 469
+470 -ieme generation
+prob mutation  1.8849999999999818
+j= 470
+471 -ieme generation
+prob mutation  1.8899999999999817
+j= 471
+472 -ieme generation
+prob mutation  1.8949999999999816
+j= 472
+473 -ieme generation
+prob mutation  1.8999999999999815
+j= 473
+474 -ieme generation
+prob mutation  1.9049999999999814
+j= 474
+475 -ieme generation
+prob mutation  1.9099999999999813
+j= 475
+476 -ieme generation
+prob mutation  1.9149999999999812
+j= 476
+477 -ieme generation
+prob mutation  1.919999999999981
+j= 477
+478 -ieme generation
+prob mutation  1.924999999999981
+j= 478
+479 -ieme generation
+prob mutation  1.9299999999999808
+j= 479
+480 -ieme generation
+prob mutation  1.9349999999999807
+j= 480
+481 -ieme generation
+prob mutation  1.9399999999999806
+j= 481
+482 -ieme generation
+prob mutation  1.9449999999999805
+j= 482
+483 -ieme generation
+prob mutation  1.9499999999999804
+j= 483
+484 -ieme generation
+prob mutation  1.9549999999999803
+j= 484
+485 -ieme generation
+prob mutation  1.9599999999999802
+j= 485
+486 -ieme generation
+prob mutation  1.96499999999998
+j= 486
+487 -ieme generation
+prob mutation  1.96999999999998
+j= 487
+488 -ieme generation
+prob mutation  1.9749999999999799
+j= 488
+489 -ieme generation
+prob mutation  1.9799999999999798
+j= 489
+490 -ieme generation
+prob mutation  1.9849999999999797
+j= 490
+491 -ieme generation
+prob mutation  1.9899999999999796
+j= 491
+492 -ieme generation
+prob mutation  1.9949999999999795
+j= 492
+493 -ieme generation
+prob mutation  1.9999999999999793
+j= 493
+494 -ieme generation
+prob mutation  2.0049999999999795
+j= 494
+495 -ieme generation
+prob mutation  2.0099999999999794
+j= 495
+496 -ieme generation
+prob mutation  2.0149999999999793
+j= 496
+497 -ieme generation
+prob mutation  2.019999999999979
+j= 497
+498 -ieme generation
+prob mutation  2.024999999999979
+j= 498
+499 -ieme generation
+prob mutation  2.029999999999979
+j= 499
+500 -ieme generation
+prob mutation  2.034999999999979
+j= 500
+plotmaze, len(visitedPosition) = 5849
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+1 -ieme generation
+prob mutation  0.005
+j= 1
+2 -ieme generation
+prob mutation  0.005
+j= 2
+3 -ieme generation
+prob mutation  0.005
+j= 3
+4 -ieme generation
+prob mutation  0.005
+j= 4
+5 -ieme generation
+prob mutation  0.005
+j= 5
+6 -ieme generation
+prob mutation  0.005
+j= 6
+7 -ieme generation
+prob mutation  0.005
+j= 7
+8 -ieme generation
+prob mutation  0.005
+j= 8
+9 -ieme generation
+prob mutation  0.005
+j= 9
+10 -ieme generation
+prob mutation  0.005
+j= 10
+11 -ieme generation
+prob mutation  0.005
+j= 11
+12 -ieme generation
+prob mutation  0.005
+j= 12
+13 -ieme generation
+prob mutation  0.005
+j= 13
+14 -ieme generation
+prob mutation  0.005
+j= 14
+15 -ieme generation
+prob mutation  0.005
+j= 15
+16 -ieme generation
+prob mutation  0.005
+j= 16
+17 -ieme generation
+prob mutation  0.005
+j= 17
+18 -ieme generation
+prob mutation  0.005
+j= 18
+19 -ieme generation
+prob mutation  0.005
+j= 19
+20 -ieme generation
+prob mutation  0.005
+j= 20
+21 -ieme generation
+prob mutation  0.005
+j= 21
+22 -ieme generation
+prob mutation  0.005
+j= 22
+23 -ieme generation
+prob mutation  0.005
+j= 23
+24 -ieme generation
+prob mutation  0.005
+j= 24
+25 -ieme generation
+prob mutation  0.005
+j= 25
+26 -ieme generation
+prob mutation  0.005
+j= 26
+27 -ieme generation
+prob mutation  0.005
+j= 27
+28 -ieme generation
+prob mutation  0.005
+j= 28
+29 -ieme generation
+prob mutation  0.005
+j= 29
+30 -ieme generation
+prob mutation  0.005
+j= 30
+31 -ieme generation
+prob mutation  0.005
+j= 31
+32 -ieme generation
+prob mutation  0.005
+j= 32
+33 -ieme generation
+prob mutation  0.005
+j= 33
+34 -ieme generation
+prob mutation  0.005
+j= 34
+35 -ieme generation
+prob mutation  0.005
+j= 35
+36 -ieme generation
+prob mutation  0.005
+j= 36
+37 -ieme generation
+prob mutation  0.005
+j= 37
+38 -ieme generation
+prob mutation  0.005
+j= 38
+39 -ieme generation
+prob mutation  0.005
+j= 39
+40 -ieme generation
+prob mutation  0.005
+j= 40
+41 -ieme generation
+prob mutation  0.005
+j= 41
+42 -ieme generation
+prob mutation  0.005
+j= 42
+43 -ieme generation
+prob mutation  0.005
+j= 43
+44 -ieme generation
+prob mutation  0.005
+j= 44
+45 -ieme generation
+prob mutation  0.005
+j= 45
+46 -ieme generation
+prob mutation  0.005
+j= 46
+47 -ieme generation
+prob mutation  0.005
+j= 47
+48 -ieme generation
+prob mutation  0.005
+j= 48
+49 -ieme generation
+prob mutation  0.005
+j= 49
+50 -ieme generation
+prob mutation  0.005
+j= 50
+plotmaze, len(visitedPosition) = 3943
+51 -ieme generation
+prob mutation  0.005
+j= 51
+52 -ieme generation
+prob mutation  0.005
+j= 52
+53 -ieme generation
+prob mutation  0.005
+j= 53
+54 -ieme generation
+prob mutation  0.005
+j= 54
+55 -ieme generation
+prob mutation  0.005
+j= 55
+56 -ieme generation
+prob mutation  0.005
+j= 56
+57 -ieme generation
+prob mutation  0.005
+j= 57
+58 -ieme generation
+prob mutation  0.005
+j= 58
+59 -ieme generation
+prob mutation  0.005
+j= 59
+60 -ieme generation
+prob mutation  0.005
+j= 60
+61 -ieme generation
+prob mutation  0.01
+j= 61
+62 -ieme generation
+prob mutation  0.015
+j= 62
+63 -ieme generation
+prob mutation  0.02
+j= 63
+64 -ieme generation
+prob mutation  0.025
+j= 64
+65 -ieme generation
+prob mutation  0.030000000000000002
+j= 65
+66 -ieme ge1 -ieme generation
+prob mutation  0.005
+j= 1
+2 -ieme generation
+prob mutation  0.005
+j= 2
+3 -ieme generation
+prob mutation  0.005
+j= 3
+4 -ieme generation
+prob mutation  0.005
+j= 4
+5 -ieme generation
+prob mutation  0.005
+j= 5
+6 -ieme generation
+prob mutation  0.005
+j= 6
+7 -ieme generation
+prob mutation  0.005
+j= 7
+8 -ieme generation
+prob mutation  0.005
+j= 8
+9 -ieme generation
+prob mutation  0.005
+j= 9
+10 -ieme generation
+prob mutation  0.005
+j= 10
+11 -ieme generation
+prob mutation  0.005
+j= 11
+12 -ieme generation
+prob mutation  0.005
+j= 12
+13 -ieme generation
+prob mutation  0.005
+j= 13
+14 -ieme generation
+prob mutation  0.005
+j= 14
+15 -ieme generation
+prob mutation  0.005
+j= 15
+16 -ieme generation
+prob mutation  0.005
+j= 16
+17 -ieme generation
+prob mutation  0.005
+j= 17
+18 -ieme generation
+prob mutation  0.005
+j= 18
+19 -ieme generation
+prob mutation  0.005
+j= 19
+20 -ieme generation
+prob mutation  0.005
+j= 20
+21 -ieme generation
+prob mutation  0.005
+j= 21
+22 -ieme generation
+prob mutation  0.005
+j= 22
+23 -ieme generation
+prob mutation  0.005
+j= 23
+24 -ieme generation
+prob mutation  0.005
+j= 24
+25 -ieme generation
+prob mutation  0.005
+j= 25
+26 -ieme generation
+prob mutation  0.005
+j= 26
+27 -ieme generation
+prob mutation  0.005
+j= 27
+28 -ieme generation
+prob mutation  0.005
+j= 28
+29 -ieme generation
+prob mutation  0.005
+j= 29
+30 -ieme generation
+prob mutation  0.005
+j= 30
+31 -ieme generation
+prob mutation  0.005
+j= 31
+32 -ieme generation
+prob mutation  0.005
+j= 32
+33 -ieme generation
+prob mutation  0.005
+j= 33
+34 -ieme generation
+prob mutation  0.005
+j= 34
+35 -ieme generation
+prob mutation  0.005
+j= 35
+36 -ieme generation
+prob mutation  0.005
+j= 36
+37 -ieme generation
+prob mutation  0.005
+j= 37
+38 -ieme generation
+prob mutation  0.005
+j= 38
+39 -ieme generation
+prob mutation  0.005
+j= 39
+40 -ieme generation
+prob mutation  0.005
+j= 40
+41 -ieme generation
+prob mutation  0.005
+j= 41
+42 -ieme generation
+prob mutation  0.005
+j= 42
+43 -ieme generation
+prob mutation  0.005
+j= 43
+44 -ieme generation
+prob mutation  0.005
+j= 44
+45 -ieme generation
+prob mutation  0.005
+j= 45
+46 -ieme generation
+prob mutation  0.005
+j= 46
+47 -ieme generation
+prob mutation  0.005
+j= 47
+48 -ieme generation
+prob mutation  0.005
+j= 48
+49 -ieme generation
+prob mutation  0.005
+j= 49
+50 -ieme generation
+prob mutation  0.01
+j= 50
+plotmaze, len(visitedPosition) = 3543
+51 -ieme generation
+prob mutation  0.015
+j= 51
+52 -ieme generation
+prob mutation  0.015
+j= 52
+53 -ieme generation
+prob mutation  0.02
+j= 53
+54 -ieme generation
+prob mutation  0.025
+j= 54
+55 -ieme generation
+prob mutation  0.030000000000000002
+j= 55
+56 -ieme generation
+prob mutation  0.035
+j= 56
+57 -ieme generation
+prob mutation  0.04
+j= 57
+58 -ieme generation
+prob mutation  0.045
+j= 58
+59 -ieme generation
+prob mutation  0.049999999999999996
+j= 59
+60 -ieme generation
+prob mutation  0.05499999999999999
+j= 60
+61 -ieme generation
+prob mutation  0.05999999999999999
+j= 61
+62 -ieme generation
+prob mutation  0.06499999999999999
+j= 62
+63 -ieme generation
+prob mutation  0.06999999999999999
+j= 63
+64 -ieme generation
+prob mutation  0.075
+j= 64
+65 -ieme generation
+prob mutation  0.08
+j= 65
+66 -ieme generation
+prob mutation  0.085
+j= 66
+67 -ieme generation
+prob mutation  0.085
+j= 67
+68 -ieme generation
+prob mutation  0.09000000000000001
+j= 68
+69 -ieme generation
+prob mutation  0.09500000000000001
+j= 69
+70 -ieme generation
+prob mutation  0.10000000000000002
+j= 70
+71 -ieme generation
+prob mutation  0.10500000000000002
+j= 71
+72 -ieme generation
+prob mutation  0.11000000000000003
+j= 72
+73 -ieme generation
+prob mutation  0.11500000000000003
+j= 73
+74 -ieme generation
+prob mutation  0.12000000000000004
+j= 74
+75 -ieme generation
+prob mutation  0.12500000000000003
+j= 75
+76 -ieme generation
+prob mutation  0.13000000000000003
+j= 76
+77 -ieme generation
+prob mutation  0.13500000000000004
+j= 77
+78 -ieme generation
+prob mutation  0.14000000000000004
+j= 78
+79 -ieme generation
+prob mutation  0.14500000000000005
+j= 79
+80 -ieme generation
+prob mutation  0.15000000000000005
+j= 80
+81 -ieme generation
+prob mutation  0.15500000000000005
+j= 81
+82 -ieme generation
+prob mutation  0.15500000000000005
+j= 82
+83 -ieme generation
+prob mutation  0.15500000000000005
+j= 83
+84 -ieme generation
+prob mutation  0.15500000000000005
+j= 84
+85 -ieme generation
+prob mutation  0.15500000000000005
+j= 85
+86 -ieme generation
+prob mutation  0.15500000000000005
+j= 86
+87 -ieme generation
+prob mutation  0.16000000000000006
+j= 87
+88 -ieme generation
+prob mutation  0.16000000000000006
+j= 88
+89 -ieme generation
+prob mutation  0.16000000000000006
+j= 89
+90 -ieme generation
+prob mutation  0.16000000000000006
+j= 90
+91 -ieme generation
+prob mutation  0.16000000000000006
+j= 91
+92 -ieme generation
+prob mutation  0.16000000000000006
+j= 92
+93 -ieme generation
+prob mutation  0.16000000000000006
+j= 93
+94 -ieme generation
+prob mutation  0.16000000000000006
+j= 94
+95 -ieme generation
+prob mutation  0.16000000000000006
+j= 95
+96 -ieme generation
+prob mutation  0.16000000000000006
+j= 96
+97 -ieme generation
+prob mutation  0.16000000000000006
+j= 97
+98 -ieme generation
+prob mutation  0.16000000000000006
+j= 98
+99 -ieme generation
+prob mutation  0.16000000000000006
+j= 99
+100 -ieme generation
+prob mutation  0.16000000000000006
+j= 100
+plotmaze, len(visitedPosition) = 4517
+101 -ieme generation
+prob mutation  0.16000000000000006
+j= 101
+102 -ieme generation
+prob mutation  0.16000000000000006
+j= 102
+103 -ieme generation
+prob mutation  0.16000000000000006
+j= 103
+104 -ieme generation
+prob mutation  0.16000000000000006
+j= 104
+105 -ieme generation
+prob mutation  0.16000000000000006
+j= 105
+106 -ieme generation
+prob mutation  0.16000000000000006
+j= 106
+107 -ieme generation
+prob mutation  0.16000000000000006
+j= 107
+108 -ieme generation
+prob mutation  0.16000000000000006
+j= 108
+109 -ieme generation
+prob mutation  0.16000000000000006
+j= 109
+110 -ieme generation
+prob mutation  0.16000000000000006
+j= 110
+111 -ieme generation
+prob mutation  0.16000000000000006
+j= 111
+112 -ieme generation
+prob mutation  0.16000000000000006
+j= 112
+113 -ieme generation
+prob mutation  0.16000000000000006
+j= 113
+114 -ieme generation
+prob mutation  0.16000000000000006
+j= 114
+115 -ieme generation
+prob mutation  0.16000000000000006
+j= 115
+116 -ieme generation
+prob mutation  0.16000000000000006
+j= 116
+117 -ieme generation
+prob mutation  0.16000000000000006
+j= 117
+118 -ieme generation
+prob mutation  0.16000000000000006
+j= 118
+119 -ieme generation
+prob mutation  0.16000000000000006
+j= 119
+120 -ieme generation
+prob mutation  0.16000000000000006
+j= 120
+121 -ieme generation
+prob mutation  0.16000000000000006
+j= 121
+122 -ieme generation
+prob mutation  0.16500000000000006
+j= 122
+123 -ieme generation
+prob mutation  0.17000000000000007
+j= 123
+124 -ieme generation
+prob mutation  0.17000000000000007
+j= 124
+125 -ieme generation
+prob mutation  0.17000000000000007
+j= 125
+126 -ieme generation
+prob mutation  0.17500000000000007
+j= 126
+127 -ieme generation
+prob mutation  0.18000000000000008
+j= 127
+128 -ieme generation
+prob mutation  0.18500000000000008
+j= 128
+129 -ieme generation
+prob mutation  0.19000000000000009
+j= 129
+130 -ieme generation
+prob mutation  0.1950000000000001
+j= 130
+131 -ieme generation
+prob mutation  0.2000000000000001
+j= 131
+132 -ieme generation
+prob mutation  0.2050000000000001
+j= 132
+133 -ieme generation
+prob mutation  0.2100000000000001
+j= 133
+134 -ieme generation
+prob mutation  0.2150000000000001
+j= 134
+135 -ieme generation
+prob mutation  0.2200000000000001
+j= 135
+136 -ieme generation
+prob mutation  0.22500000000000012
+j= 136
+137 -ieme generation
+prob mutation  0.23000000000000012
+j= 137
+138 -ieme generation
+prob mutation  0.23500000000000013
+j= 138
+139 -ieme generation
+prob mutation  0.24000000000000013
+j= 139
+140 -ieme generation
+prob mutation  0.24500000000000013
+j= 140
+141 -ieme generation
+prob mutation  0.2500000000000001
+j= 141
+142 -ieme generation
+prob mutation  0.2550000000000001
+j= 142
+143 -ieme generation
+prob mutation  0.2600000000000001
+j= 143
+144 -ieme generation
+prob mutation  0.2650000000000001
+j= 144
+145 -ieme generation
+prob mutation  0.27000000000000013
+j= 145
+146 -ieme generation
+prob mutation  0.27500000000000013
+j= 146
+147 -ieme generation
+prob mutation  0.28000000000000014
+j= 147
+148 -ieme generation
+prob mutation  0.28500000000000014
+j= 148
+149 -ieme generation
+prob mutation  0.29000000000000015
+j= 149
+150 -ieme generation
+prob mutation  0.29500000000000015
+j= 150
+plotmaze, len(visitedPosition) = 5653
+151 -ieme generation
+prob mutation  0.30000000000000016
+j= 151
+152 -ieme generation
+prob mutation  0.30000000000000016
+j= 152
+153 -ieme generation
+prob mutation  0.30500000000000016
+j= 153
+154 -ieme generation
+prob mutation  0.30500000000000016
+j= 154
+155 -ieme generation
+prob mutation  0.30500000000000016
+j= 155
+156 -ieme generation
+prob mutation  0.31000000000000016
+j= 156
+157 -ieme generation
+prob mutation  0.31500000000000017
+j= 157
+158 -ieme generation
+prob mutation  0.3200000000000002
+j= 158
+159 -ieme generation
+prob mutation  0.3250000000000002
+j= 159
+160 -ieme generation
+prob mutation  0.3300000000000002
+j= 160
+161 -ieme generation
+prob mutation  0.3350000000000002
+j= 161
+162 -ieme generation
+prob mutation  0.3400000000000002
+j= 162
+163 -ieme generation
+prob mutation  0.3450000000000002
+j= 163
+164 -ieme generation
+prob mutation  0.3500000000000002
+j= 164
+165 -ieme generation
+prob mutation  0.3550000000000002
+j= 165
+166 -ieme generation
+prob mutation  0.3600000000000002
+j= 166
+167 -ieme generation
+prob mutation  0.3650000000000002
+j= 167
+168 -ieme generation
+prob mutation  0.3700000000000002
+j= 168
+169 -ieme generation
+prob mutation  0.3750000000000002
+j= 169
+170 -ieme generation
+prob mutation  0.3800000000000002
+j= 170
+171 -ieme generation
+prob mutation  0.38500000000000023
+j= 171
+172 -ieme generation
+prob mutation  0.39000000000000024
+j= 172
+173 -ieme generation
+prob mutation  0.39000000000000024
+j= 173
+174 -ieme generation
+prob mutation  0.39500000000000024
+j= 174
+175 -ieme generation
+prob mutation  0.39500000000000024
+j= 175
+176 -ieme generation
+prob mutation  0.39500000000000024
+j= 176
+177 -ieme generation
+prob mutation  0.40000000000000024
+j= 177
+178 -ieme generation
+prob mutation  0.40500000000000025
+j= 178
+179 -ieme generation
+prob mutation  0.41000000000000025
+j= 179
+180 -ieme generation
+prob mutation  0.41500000000000026
+j= 180
+181 -ieme generation
+prob mutation  0.42000000000000026
+j= 181
+182 -ieme generation
+prob mutation  0.42000000000000026
+j= 182
+183 -ieme generation
+prob mutation  0.42500000000000027
+j= 183
+184 -ieme generation
+prob mutation  0.42500000000000027
+j= 184
+185 -ieme generation
+prob mutation  0.42500000000000027
+j= 185
+186 -ieme generation
+prob mutation  0.43000000000000027
+j= 186
+187 -ieme generation
+prob mutation  0.4350000000000003
+j= 187
+188 -ieme generation
+prob mutation  0.4350000000000003
+j= 188
+189 -ieme generation
+prob mutation  0.4350000000000003
+j= 189
+190 -ieme generation
+prob mutation  0.4350000000000003
+j= 190
+191 -ieme generation
+prob mutation  0.4350000000000003
+j= 191
+192 -ieme generation
+prob mutation  0.4350000000000003
+j= 192
+193 -ieme generation
+prob mutation  0.4350000000000003
+j= 193
+194 -ieme generation
+prob mutation  0.4350000000000003
+j= 194
+195 -ieme generation
+prob mutation  0.4350000000000003
+j= 195
+196 -ieme generation
+prob mutation  0.4350000000000003
+j= 196
+197 -ieme generation
+prob mutation  0.4400000000000003
+j= 197
+198 -ieme generation
+prob mutation  0.4450000000000003
+j= 198
+199 -ieme generation
+prob mutation  0.4450000000000003
+j= 199
+200 -ieme generation
+prob mutation  0.4500000000000003
+j= 200
+plotmaze, len(visitedPosition) = 6630
+201 -ieme generation
+prob mutation  0.4550000000000003
+j= 201
+202 -ieme generation
+prob mutation  0.4600000000000003
+j= 202
+203 -ieme generation
+prob mutation  0.4650000000000003
+j= 203
+204 -ieme generation
+prob mutation  0.4700000000000003
+j= 204
+205 -ieme generation
+prob mutation  0.4750000000000003
+j= 205
+206 -ieme generation
+prob mutation  0.4800000000000003
+j= 206
+207 -ieme generation
+prob mutation  0.4850000000000003
+j= 207
+208 -ieme generation
+prob mutation  0.4900000000000003
+j= 208
+209 -ieme generation
+prob mutation  0.49500000000000033
+j= 209
+210 -ieme generation
+prob mutation  0.5000000000000003
+j= 210
+211 -ieme generation
+prob mutation  0.5050000000000003
+j= 211
+212 -ieme generation
+prob mutation  0.5100000000000003
+j= 212
+213 -ieme generation
+prob mutation  0.5150000000000003
+j= 213
+214 -ieme generation
+prob mutation  0.5200000000000004
+j= 214
+215 -ieme generation
+prob mutation  0.5250000000000004
+j= 215
+216 -ieme generation
+prob mutation  0.5300000000000004
+j= 216
+217 -ieme generation
+prob mutation  0.5350000000000004
+j= 217
+218 -ieme generation
+prob mutation  0.5400000000000004
+j= 218
+219 -ieme generation
+prob mutation  0.5450000000000004
+j= 219
+220 -ieme generation
+prob mutation  0.5500000000000004
+j= 220
+221 -ieme generation
+prob mutation  0.5550000000000004
+j= 221
+222 -ieme generation
+prob mutation  0.5600000000000004
+j= 222
+223 -ieme generation
+prob mutation  0.5650000000000004
+j= 223
+224 -ieme generation
+prob mutation  0.5700000000000004
+j= 224
+225 -ieme generation
+prob mutation  0.5750000000000004
+j= 225
+226 -ieme generation
+prob mutation  0.5800000000000004
+j= 226
+227 -ieme generation
+prob mutation  0.5850000000000004
+j= 227
+228 -ieme generation
+prob mutation  0.5900000000000004
+j= 228
+229 -ieme generation
+prob mutation  0.5950000000000004
+j= 229
+230 -ieme generation
+prob mutation  0.6000000000000004
+j= 230
+231 -ieme generation
+prob mutation  0.6050000000000004
+j= 231
+232 -ieme generation
+prob mutation  0.6100000000000004
+j= 232
+233 -ieme generation
+prob mutation  0.6150000000000004
+j= 233
+234 -ieme generation
+prob mutation  0.6200000000000004
+j= 234
+235 -ieme generation
+prob mutation  0.6250000000000004
+j= 235
+236 -ieme generation
+prob mutation  0.6300000000000004
+j= 236
+237 -ieme generation
+prob mutation  0.6350000000000005
+j= 237
+238 -ieme generation
+prob mutation  0.6400000000000005
+j= 238
+239 -ieme generation
+prob mutation  0.6450000000000005
+j= 239
+240 -ieme generation
+prob mutation  0.6500000000000005
+j= 240
+241 -ieme generation
+prob mutation  0.6550000000000005
+j= 241
+242 -ieme generation
+prob mutation  0.6600000000000005
+j= 242
+243 -ieme generation
+prob mutation  0.6650000000000005
+j= 243
+244 -ieme generation
+prob mutation  0.6700000000000005
+j= 244
+245 -ieme generation
+prob mutation  0.6750000000000005
+j= 245
+246 -ieme generation
+prob mutation  0.6800000000000005
+j= 246
+247 -ieme generation
+prob mutation  0.6850000000000005
+j= 247
+248 -ieme generation
+prob mutation  0.6900000000000005
+j= 248
+249 -ieme generation
+prob mutation  0.6950000000000005
+j= 249
+250 -ieme generation
+prob mutation  0.7000000000000005
+j= 250
+plotmaze, len(visitedPosition) = 7257
+251 -ieme generation
+prob mutation  0.7050000000000005
+j= 251
+252 -ieme generation
+prob mutation  0.7100000000000005
+j= 252
+253 -ieme generation
+prob mutation  0.7150000000000005
+j= 253
+254 -ieme generation
+prob mutation  0.7200000000000005
+j= 254
+255 -ieme generation
+prob mutation  0.7250000000000005
+j= 255
+256 -ieme generation
+prob mutation  0.7300000000000005
+j= 256
+257 -ieme generation
+prob mutation  0.7350000000000005
+j= 257
+258 -ieme generation
+prob mutation  0.7400000000000005
+j= 258
+259 -ieme generation
+prob mutation  0.7450000000000006
+j= 259
+260 -ieme generation
+prob mutation  0.7500000000000006
+j= 260
+261 -ieme generation
+prob mutation  0.7550000000000006
+j= 261
+262 -ieme generation
+prob mutation  0.7600000000000006
+j= 262
+263 -ieme generation
+prob mutation  0.7650000000000006
+j= 263
+264 -ieme generation
+prob mutation  0.7700000000000006
+j= 264
+265 -ieme generation
+prob mutation  0.7750000000000006
+j= 265
+266 -ieme generation
+prob mutation  0.7800000000000006
+j= 266
+267 -ieme generation
+prob mutation  0.7850000000000006
+j= 267
+268 -ieme generation
+prob mutation  0.7900000000000006
+j= 268
+269 -ieme generation
+prob mutation  0.7950000000000006
+j= 269
+270 -ieme generation
+prob mutation  0.8000000000000006
+j= 270
+271 -ieme generation
+prob mutation  0.8050000000000006
+j= 271
+272 -ieme generation
+prob mutation  0.8050000000000006
+j= 272
+273 -ieme generation
+prob mutation  0.8100000000000006
+j= 273
+274 -ieme generation
+prob mutation  0.8150000000000006
+j= 274
+275 -ieme generation
+prob mutation  0.8200000000000006
+j= 275
+276 -ieme generation
+prob mutation  0.8250000000000006
+j= 276
+277 -ieme generation
+prob mutation  0.8300000000000006
+j= 277
+278 -ieme generation
+prob mutation  0.8350000000000006
+j= 278
+279 -ieme generation
+prob mutation  0.8400000000000006
+j= 279
+280 -ieme generation
+prob mutation  0.8450000000000006
+j= 280
+281 -ieme generation
+prob mutation  0.8450000000000006
+j= 281
+282 -ieme generation
+prob mutation  0.8500000000000006
+j= 282
+283 -ieme generation
+prob mutation  0.8550000000000006
+j= 283
+284 -ieme generation
+prob mutation  0.8600000000000007
+j= 284
+285 -ieme generation
+prob mutation  0.8650000000000007
+j= 285
+286 -ieme generation
+prob mutation  0.8700000000000007
+j= 286
+287 -ieme generation
+prob mutation  0.8750000000000007
+j= 287
+288 -ieme generation
+prob mutation  0.8800000000000007
+j= 288
+289 -ieme generation
+prob mutation  0.8850000000000007
+j= 289
+290 -ieme generation
+prob mutation  0.8900000000000007
+j= 290
+291 -ieme generation
+prob mutation  0.8950000000000007
+j= 291
+292 -ieme generation
+prob mutation  0.9000000000000007
+j= 292
+293 -ieme generation
+prob mutation  0.9050000000000007
+j= 293
+294 -ieme generation
+prob mutation  0.9100000000000007
+j= 294
+295 -ieme generation
+prob mutation  0.9100000000000007
+j= 295
+296 -ieme generation
+prob mutation  0.9100000000000007
+j= 296
+297 -ieme generation
+prob mutation  0.9100000000000007
+j= 297
+298 -ieme generation
+prob mutation  0.9150000000000007
+j= 298
+299 -ieme generation
+prob mutation  0.9200000000000007
+j= 299
+300 -ieme generation
+prob mutation  0.9250000000000007
+j= 300
+plotmaze, len(visitedPosition) = 7895
+301 -ieme generation
+prob mutation  0.9250000000000007
+j= 301
+302 -ieme generation
+prob mutation  0.9250000000000007
+j= 302
+303 -ieme generation
+prob mutation  0.9300000000000007
+j= 303
+304 -ieme generation
+prob mutation  0.9300000000000007
+j= 304
+305 -ieme generation
+prob mutation  0.9300000000000007
+j= 305
+306 -ieme generation
+prob mutation  0.9300000000000007
+j= 306
+307 -ieme generation
+prob mutation  0.9300000000000007
+j= 307
+308 -ieme generation
+prob mutation  0.9300000000000007
+j= 308
+309 -ieme generation
+prob mutation  0.9300000000000007
+j= 309
+310 -ieme generation
+prob mutation  0.9300000000000007
+j= 310
+311 -ieme generation
+prob mutation  0.9300000000000007
+j= 311
+312 -ieme generation
+prob mutation  0.9300000000000007
+j= 312
+313 -ieme generation
+prob mutation  0.9300000000000007
+j= 313
+314 -ieme generation
+prob mutation  0.9300000000000007
+j= 314
+315 -ieme generation
+prob mutation  0.9300000000000007
+j= 315
+316 -ieme generation
+prob mutation  0.9300000000000007
+j= 316
+317 -ieme generation
+prob mutation  0.9300000000000007
+j= 317
+318 -ieme generation
+prob mutation  0.9300000000000007
+j= 318
+319 -ieme generation
+prob mutation  0.9300000000000007
+j= 319
+320 -ieme generation
+prob mutation  0.9300000000000007
+j= 320
+321 -ieme generation
+prob mutation  0.9300000000000007
+j= 321
+322 -ieme generation
+prob mutation  0.9300000000000007
+j= 322
+323 -ieme generation
+prob mutation  0.9300000000000007
+j= 323
+324 -ieme generation
+prob mutation  0.9300000000000007
+j= 324
+325 -ieme generation
+prob mutation  0.9300000000000007
+j= 325
+326 -ieme generation
+prob mutation  0.9300000000000007
+j= 326
+327 -ieme generation
+prob mutation  0.9300000000000007
+j= 327
+328 -ieme generation
+prob mutation  0.9300000000000007
+j= 328
+329 -ieme generation
+prob mutation  0.9300000000000007
+j= 329
+330 -ieme generation
+prob mutation  0.9300000000000007
+j= 330
+331 -ieme generation
+prob mutation  0.9300000000000007
+j= 331
+332 -ieme generation
+prob mutation  0.9300000000000007
+j= 332
+333 -ieme generation
+prob mutation  0.9300000000000007
+j= 333
+334 -ieme generation
+prob mutation  0.9300000000000007
+j= 334
+335 -ieme generation
+prob mutation  0.9300000000000007
+j= 335
+336 -ieme generation
+prob mutation  0.9300000000000007
+j= 336
+337 -ieme generation
+prob mutation  0.9300000000000007
+j= 337
+338 -ieme generation
+prob mutation  0.9300000000000007
+j= 338
+339 -ieme generation
+prob mutation  0.9300000000000007
+j= 339
+340 -ieme generation
+prob mutation  0.9300000000000007
+j= 340
+341 -ieme generation
+prob mutation  0.9300000000000007
+j= 341
+342 -ieme generation
+prob mutation  0.9300000000000007
+j= 342
+343 -ieme generation
+prob mutation  0.9300000000000007
+j= 343
+344 -ieme generation
+prob mutation  0.9300000000000007
+j= 344
+345 -ieme generation
+prob mutation  0.9300000000000007
+j= 345
+346 -ieme generation
+prob mutation  0.9300000000000007
+j= 346
+347 -ieme generation
+prob mutation  0.9300000000000007
+j= 347
+348 -ieme generation
+prob mutation  0.9300000000000007
+j= 348
+349 -ieme generation
+prob mutation  0.9300000000000007
+j= 349
+350 -ieme generation
+prob mutation  0.9300000000000007
+j= 350
+plotmaze, len(visitedPosition) = 9812
+351 -ieme generation
+prob mutation  0.9300000000000007
+j= 351
+352 -ieme generation
+prob mutation  0.9300000000000007
+j= 352
+353 -ieme generation
+prob mutation  0.9300000000000007
+j= 353
+354 -ieme generation
+prob mutation  0.9300000000000007
+j= 354
+355 -ieme generation
+prob mutation  0.9300000000000007
+j= 355
+356 -ieme generation
+prob mutation  0.9300000000000007
+j= 356
+357 -ieme generation
+prob mutation  0.9300000000000007
+j= 357
+358 -ieme generation
+prob mutation  0.9300000000000007
+j= 358
+359 -ieme generation
+prob mutation  0.9300000000000007
+j= 359
+360 -ieme generation
+prob mutation  0.9300000000000007
+j= 360
+361 -ieme generation
+prob mutation  0.9300000000000007
+j= 361
+362 -ieme generation
+prob mutation  0.9300000000000007
+j= 362
+363 -ieme generation
+prob mutation  0.9300000000000007
+j= 363
+364 -ieme generation
+prob mutation  0.9300000000000007
+j= 364
+365 -ieme generation
+prob mutation  0.9300000000000007
+j= 365
+366 -ieme generation
+prob mutation  0.9300000000000007
+j= 366
+367 -ieme generation
+prob mutation  0.9300000000000007
+j= 367
+368 -ieme generation
+prob mutation  0.9300000000000007
+j= 368
+369 -ieme generation
+prob mutation  0.9300000000000007
+j= 369
+370 -ieme generation
+prob mutation  0.9300000000000007
+j= 370
+371 -ieme generation
+prob mutation  0.9300000000000007
+j= 371
+372 -ieme generation
+prob mutation  0.9300000000000007
+j= 372
+373 -ieme generation
+prob mutation  0.9300000000000007
+j= 373
+374 -ieme generation
+prob mutation  0.9300000000000007
+j= 374
+375 -ieme generation
+prob mutation  0.9300000000000007
+j= 375
+376 -ieme generation
+prob mutation  0.9300000000000007
+j= 376
+377 -ieme generation
+prob mutation  0.9300000000000007
+j= 377
+378 -ieme generation
+prob mutation  0.9300000000000007
+j= 378
+379 -ieme generation
+prob mutation  0.9300000000000007
+j= 379
+380 -ieme generation
+prob mutation  0.9300000000000007
+j= 380
+381 -ieme generation
+prob mutation  0.9300000000000007
+j= 381
+382 -ieme generation
+prob mutation  0.9300000000000007
+j= 382
+383 -ieme generation
+prob mutation  0.9300000000000007
+j= 383
+384 -ieme generation
+prob mutation  0.9300000000000007
+j= 384
+385 -ieme generation
+prob mutation  0.9300000000000007
+j= 385
+386 -ieme generation
+prob mutation  0.9300000000000007
+j= 386
+387 -ieme generation
+prob mutation  0.9300000000000007
+j= 387
+388 -ieme generation
+prob mutation  0.9300000000000007
+j= 388
+389 -ieme generation
+prob mutation  0.9300000000000007
+j= 389
+390 -ieme generation
+prob mutation  0.9300000000000007
+j= 390
+391 -ieme generation
+prob mutation  0.9300000000000007
+j= 391
+392 -ieme generation
+prob mutation  0.9300000000000007
+j= 392
+393 -ieme generation
+prob mutation  0.9300000000000007
+j= 393
+394 -ieme generation
+prob mutation  0.9300000000000007
+j= 394
+395 -ieme generation
+prob mutation  0.9300000000000007
+j= 395
+396 -ieme generation
+prob mutation  0.9300000000000007
+j= 396
+397 -ieme generation
+prob mutation  0.9300000000000007
+j= 397
+398 -ieme generation
+prob mutation  0.9300000000000007
+j= 398
+399 -ieme generation
+prob mutation  0.9350000000000007
+j= 399
+400 -ieme generation
+prob mutation  0.9400000000000007
+j= 400
+plotmaze, len(visitedPosition) = 11519
+401 -ieme generation
+prob mutation  0.9400000000000007
+j= 401
+402 -ieme generation
+prob mutation  0.9400000000000007
+j= 402
+403 -ieme generation
+prob mutation  0.9450000000000007
+j= 403
+404 -ieme generation
+prob mutation  0.9450000000000007
+j= 404
+405 -ieme generation
+prob mutation  0.9450000000000007
+j= 405
+406 -ieme generation
+prob mutation  0.9450000000000007
+j= 406
+407 -ieme generation
+prob mutation  0.9500000000000007
+j= 407
+408 -ieme generation
+prob mutation  0.9550000000000007
+j= 408
+409 -ieme generation
+prob mutation  0.9550000000000007
+j= 409
+410 -ieme generation
+prob mutation  0.9600000000000007
+j= 410
+411 -ieme generation
+prob mutation  0.9650000000000007
+j= 411
+412 -ieme generation
+prob mutation  0.9650000000000007
+j= 412
+413 -ieme generation
+prob mutation  0.9650000000000007
+j= 413
+414 -ieme generation
+prob mutation  0.9650000000000007
+j= 414
+415 -ieme generation
+prob mutation  0.9650000000000007
+j= 415
+416 -ieme generation
+prob mutation  0.9650000000000007
+j= 416
+417 -ieme generation
+prob mutation  0.9650000000000007
+j= 417
+418 -ieme generation
+prob mutation  0.9700000000000008
+j= 418
+419 -ieme generation
+prob mutation  0.9750000000000008
+j= 419
+420 -ieme generation
+prob mutation  0.9750000000000008
+j= 420
+421 -ieme generation
+prob mutation  0.9800000000000008
+j= 421
+422 -ieme generation
+prob mutation  0.9800000000000008
+j= 422
+423 -ieme generation
+prob mutation  0.9850000000000008
+j= 423
+424 -ieme generation
+prob mutation  0.9900000000000008
+j= 424
+425 -ieme generation
+prob mutation  0.9900000000000008
+j= 425
+426 -ieme generation
+prob mutation  0.9950000000000008
+j= 426
+427 -ieme generation
+prob mutation  1.0000000000000007
+j= 427
+428 -ieme generation
+prob mutation  1.0050000000000006
+j= 428
+429 -ieme generation
+prob mutation  1.0100000000000005
+j= 429
+430 -ieme generation
+prob mutation  1.0150000000000003
+j= 430
+431 -ieme generation
+prob mutation  1.0200000000000002
+j= 431
+432 -ieme generation
+prob mutation  1.0250000000000001
+j= 432
+433 -ieme generation
+prob mutation  1.03
+j= 433
+434 -ieme generation
+prob mutation  1.035
+j= 434
+435 -ieme generation
+prob mutation  1.035
+j= 435
+436 -ieme generation
+prob mutation  1.0399999999999998
+j= 436
+437 -ieme generation
+prob mutation  1.0449999999999997
+j= 437
+438 -ieme generation
+prob mutation  1.0499999999999996
+j= 438
+439 -ieme generation
+prob mutation  1.0549999999999995
+j= 439
+440 -ieme generation
+prob mutation  1.0599999999999994
+j= 440
+441 -ieme generation
+prob mutation  1.0649999999999993
+j= 441
+442 -ieme generation
+prob mutation  1.0699999999999992
+j= 442
+443 -ieme generation
+prob mutation  1.074999999999999
+j= 443
+444 -ieme generation
+prob mutation  1.079999999999999
+j= 444
+445 -ieme generation
+prob mutation  1.0849999999999989
+j= 445
+446 -ieme generation
+prob mutation  1.0899999999999987
+j= 446
+447 -ieme generation
+prob mutation  1.0949999999999986
+j= 447
+448 -ieme generation
+prob mutation  1.0999999999999985
+j= 448
+449 -ieme generation
+prob mutation  1.1049999999999984
+j= 449
+450 -ieme generation
+prob mutation  1.1099999999999983
+j= 450
+plotmaze, len(visitedPosition) = 12307
+451 -ieme generation
+prob mutation  1.1149999999999982
+j= 451
+452 -ieme generation
+prob mutation  1.119999999999998
+j= 452
+453 -ieme generation
+prob mutation  1.124999999999998
+j= 453
+454 -ieme generation
+prob mutation  1.129999999999998
+j= 454
+455 -ieme generation
+prob mutation  1.1349999999999978
+j= 455
+456 -ieme generation
+prob mutation  1.1399999999999977
+j= 456
+457 -ieme generation
+prob mutation  1.1449999999999976
+j= 457
+458 -ieme generation
+prob mutation  1.1499999999999975
+j= 458
+459 -ieme generation
+prob mutation  1.1549999999999974
+j= 459
+460 -ieme generation
+prob mutation  1.1599999999999973
+j= 460
+461 -ieme generation
+prob mutation  1.1649999999999971
+j= 461
+462 -ieme generation
+prob mutation  1.169999999999997
+j= 462
+463 -ieme generation
+prob mutation  1.169999999999997
+j= 463
+464 -ieme generation
+prob mutation  1.174999999999997
+j= 464
+465 -ieme generation
+prob mutation  1.1799999999999968
+j= 465
+466 -ieme generation
+prob mutation  1.1849999999999967
+j= 466
+467 -ieme generation
+prob mutation  1.1899999999999966
+j= 467
+468 -ieme generation
+prob mutation  1.1949999999999965
+j= 468
+469 -ieme generation
+prob mutation  1.1999999999999964
+j= 469
+470 -ieme generation
+prob mutation  1.2049999999999963
+j= 470
+471 -ieme generation
+prob mutation  1.2099999999999962
+j= 471
+472 -ieme generation
+prob mutation  1.214999999999996
+j= 472
+473 -ieme generation
+prob mutation  1.219999999999996
+j= 473
+474 -ieme generation
+prob mutation  1.2249999999999959
+j= 474
+475 -ieme generation
+prob mutation  1.2299999999999958
+j= 475
+476 -ieme generation
+prob mutation  1.2349999999999957
+j= 476
+477 -ieme generation
+prob mutation  1.2399999999999956
+j= 477
+478 -ieme generation
+prob mutation  1.2449999999999954
+j= 478
+479 -ieme generation
+prob mutation  1.2499999999999953
+j= 479
+480 -ieme generation
+prob mutation  1.2549999999999952
+j= 480
+481 -ieme generation
+prob mutation  1.2599999999999951
+j= 481
+482 -ieme generation
+prob mutation  1.264999999999995
+j= 482
+483 -ieme generation
+prob mutation  1.269999999999995
+j= 483
+484 -ieme generation
+prob mutation  1.2749999999999948
+j= 484
+485 -ieme generation
+prob mutation  1.2799999999999947
+j= 485
+486 -ieme generation
+prob mutation  1.2849999999999946
+j= 486
+487 -ieme generation
+prob mutation  1.2899999999999945
+j= 487
+488 -ieme generation
+prob mutation  1.2949999999999944
+j= 488
+489 -ieme generation
+prob mutation  1.2999999999999943
+j= 489
+490 -ieme generation
+prob mutation  1.3049999999999942
+j= 490
+491 -ieme generation
+prob mutation  1.309999999999994
+j= 491
+492 -ieme generation
+prob mutation  1.314999999999994
+j= 492
+493 -ieme generation
+prob mutation  1.3199999999999938
+j= 493
+494 -ieme generation
+prob mutation  1.3249999999999937
+j= 494
+495 -ieme generation
+prob mutation  1.3299999999999936
+j= 495
+496 -ieme generation
+prob mutation  1.3349999999999935
+j= 496
+497 -ieme generation
+prob mutation  1.3399999999999934
+j= 497
+498 -ieme generation
+prob mutation  1.3449999999999933
+j= 498
+499 -ieme generation
+prob mutation  1.3499999999999932
+j= 499
+500 -ieme generation
+prob mutation  1.354999999999993
+j= 500
+plotmaze, len(visitedPosition) = 12811
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.
+1 -ieme generation
+prob mutation  0.005
+j= 1
+2 -ieme generation
+prob mutation  0.005
+j= 2
+3 -ieme generation
+prob mutation  0.005
+j= 3
+4 -ieme generation
+prob mutation  0.005
+j= 4
+5 -ieme generation
+prob mutation  0.005
+j= 5
+6 -ieme generation
+prob mutation  0.005
+j= 6
+7 -ieme generation
+prob mutation  0.005
+j= 7
+8 -ieme generation
+prob mutation  0.005
+j= 8
+9 -ieme generation
+prob mutation  0.005
+j= 9
+10 -ieme generation
+prob mutation  0.005
+j= 10
+11 -ieme generation
+prob mutation  0.005
+j= 11
+12 -ieme generation
+prob mutation  0.005
+j= 12
+13 -ieme generation
+prob mutation  0.005
+j= 13
+14 -ieme generation
+prob mutation  0.005
+j= 14
+15 -ieme generation
+prob mutation  0.005
+j= 15
+16 -ieme generation
+prob mutation  0.005
+j= 16
+17 -ieme generation
+prob mutation  0.005
+j= 17
+18 -ieme generation
+prob mutation  0.005
+j= 18
+19 -ieme generation
+prob mutation  0.005
+j= 19
+20 -ieme generation
+prob mutation  0.005
+j= 20
+21 -ieme generation
+prob mutation  0.005
+j= 21
+22 -ieme generation
+prob mutation  0.005
+j= 22
+23 -ieme generation
+prob mutation  0.005
+j= 23
+24 -ieme generation
+prob mutation  0.005
+j= 24
+25 -ieme generation
+prob mutation  0.005
+j= 25
+26 -ieme generation
+prob mutation  0.005
+j= 26
+27 -ieme generation
+prob mutation  0.005
+j= 27
+28 -ieme generation
+prob mutation  0.005
+j= 28
+29 -ieme generation
+prob mutation  0.005
+j= 29
+30 -ieme generation
+prob mutation  0.005
+j= 30
+31 -ieme generation
+prob mutation  0.005
+j= 31
+32 -ieme generation
+prob mutation  0.005
+j= 32
+33 -ieme generation
+prob mutation  0.005
+j= 33
+34 -ieme generation
+prob mutation  0.005
+j= 34
+35 -ieme generation
+prob mutation  0.005
+j= 35
+36 -ieme generation
+prob mutation  0.005
+j= 36
+37 -ieme generation
+prob mutation  0.005
+j= 37
+38 -ieme generation
+prob mutation  0.005
+j= 38
+39 -ieme generation
+prob mutation  0.005
+j= 39
+40 -ieme generation
+prob mutation  0.005
+j= 40
+41 -ieme generation
+prob mutation  0.005
+j= 41
+42 -ieme generation
+prob mutation  0.005
+j= 42
+43 -ieme generation
+prob mutation  0.005
+j= 43
+44 -ieme generation
+prob mutation  0.005
+j= 44
+45 -ieme generation
+prob mutation  0.005
+j= 45
+46 -ieme generation
+prob mutation  0.005
+j= 46
+47 -ieme generation
+prob mutation  0.01
+j= 47
+48 -ieme generation
+prob mutation  0.015
+j= 48
+49 -ieme generation
+prob mutation  0.02
+j= 49
+50 -ieme generation
+prob mutation  0.025
+j= 50
+plotmaze, len(visitedPosition) = 3796
+51 -ieme generation
+prob mutation  0.030000000000000002
+j= 51
+52 -ieme generation
+prob mutation  0.035
+j= 52
+53 -ieme generation
+prob mutation  0.04
+j= 53
+54 -ieme generation
+prob mutation  0.045
+j= 54
+55 -ieme generation
+prob mutation  0.049999999999999996
+j= 55
+56 -ieme generation
+prob mutation  0.05499999999999999
+j= 56
+57 -ieme generation
+prob mutation  0.05999999999999999
+j= 57
+58 -ieme generation
+prob mutation  0.06499999999999999
+j= 58
+59 -ieme generation
+prob mutation  0.06999999999999999
+j= 59
+60 -ieme generation
+prob mutation  0.075
+j= 60
+61 -ieme generation
+prob mutation  0.08
+j= 61
+62 -ieme generation
+prob mutation  0.085
+j= 62
+63 -ieme generation
+prob mutation  0.09000000000000001
+j= 63
+64 -ieme generation
+prob mutation  0.09500000000000001
+j= 64
+65 -ieme generation
+prob mutation  0.10000000000000002
+j= 65
+66 -ieme generation
+prob mutation  0.10500000000000002
+j= 66
+67 -ieme generation
+prob mutation  0.11000000000000003
+j= 67
+68 -ieme generation
+prob mutation  0.11500000000000003
+j= 68
+69 -ieme generation
+prob mutation  0.12000000000000004
+j= 69
+70 -ieme generation
+prob mutation  0.12500000000000003
+j= 70
+71 -ieme generation
+prob mutation  0.13000000000000003
+j= 71
+72 -ieme generation
+prob mutation  0.13500000000000004
+j= 72
+73 -ieme generation
+prob mutation  0.14000000000000004
+j= 73
+74 -ieme generation
+prob mutation  0.14500000000000005
+j= 74
+75 -ieme generation
+prob mutation  0.15000000000000005
+j= 75
+76 -ieme generation
+prob mutation  0.15500000000000005
+j= 76
+77 -ieme generation
+prob mutation  0.16000000000000006
+j= 77
+78 -ieme generation
+prob mutation  0.16500000000000006
+j= 78
+79 -ieme generation
+prob mutation  0.17000000000000007
+j= 79
+80 -ieme generation
+prob mutation  0.17500000000000007
+j= 80
+81 -ieme generation
+prob mutation  0.18000000000000008
+j= 81
+82 -ieme generation
+prob mutation  0.18500000000000008
+j= 82
+83 -ieme generation
+prob mutation  0.19000000000000009
+j= 83
+84 -ieme generation
+prob mutation  0.1950000000000001
+j= 84
+85 -ieme generation
+prob mutation  0.2000000000000001
+j= 85
+86 -ieme generation
+prob mutation  0.2050000000000001
+j= 86
+87 -ieme generation
+prob mutation  0.2100000000000001
+j= 87
+88 -ieme generation
+prob mutation  0.2150000000000001
+j= 88
+89 -ieme generation
+prob mutation  0.2200000000000001
+j= 89
+90 -ieme generation
+prob mutation  0.22500000000000012
+j= 90
+91 -ieme generation
+prob mutation  0.23000000000000012
+j= 91
+92 -ieme generation
+prob mutation  0.23500000000000013
+j= 92
+93 -ieme generation
+prob mutation  0.24000000000000013
+j= 93
+94 -ieme generation
+prob mutation  0.24500000000000013
+j= 94
+95 -ieme generation
+prob mutation  0.2500000000000001
+j= 95
+96 -ieme generation
+prob mutation  0.2550000000000001
+j= 96
+97 -ieme generation
+prob mutation  0.2600000000000001
+j= 97
+98 -ieme generation
+prob mutation  0.2650000000000001
+j= 98
+99 -ieme generation
+prob mutation  0.27000000000000013
+j= 99
+100 -ieme generation
+prob mutation  0.27500000000000013
+j= 100
+plotmaze, len(visitedPosition) = 4133
+101 -ieme generation
+prob mutation  0.28000000000000014
+j= 101
+102 -ieme generation
+prob mutation  0.28500000000000014
+j= 102
+103 -ieme generation
+prob mutation  0.29000000000000015
+j= 103
+104 -ieme generation
+prob mutation  0.29500000000000015
+j= 104
+105 -ieme generation
+prob mutation  0.30000000000000016
+j= 105
+106 -ieme generation
+prob mutation  0.30500000000000016
+j= 106
+107 -ieme generation
+prob mutation  0.31000000000000016
+j= 107
+108 -ieme generation
+prob mutation  0.31500000000000017
+j= 108
+109 -ieme generation
+prob mutation  0.3200000000000002
+j= 109
+110 -ieme generation
+prob mutation  0.3200000000000002
+j= 110
+111 -ieme generation
+prob mutation  0.3250000000000002
+j= 111
+112 -ieme generation
+prob mutation  0.3300000000000002
+j= 112
+113 -ieme generation
+prob mutation  0.3350000000000002
+j= 113
+114 -ieme generation
+prob mutation  0.3400000000000002
+j= 114
+115 -ieme generation
+prob mutation  0.3450000000000002
+j= 115
+116 -ieme generation
+prob mutation  0.3500000000000002
+j= 116
+117 -ieme generation
+prob mutation  0.3550000000000002
+j= 117
+118 -ieme generation
+prob mutation  0.3600000000000002
+j= 118
+119 -ieme generation
+prob mutation  0.3650000000000002
+j= 119
+120 -ieme generation
+prob mutation  0.3700000000000002
+j= 120
+121 -ieme generation
+prob mutation  0.3750000000000002
+j= 121
+122 -ieme generation
+prob mutation  0.3800000000000002
+j= 122
+123 -ieme generation
+prob mutation  0.3800000000000002
+j= 123
+124 -ieme generation
+prob mutation  0.3800000000000002
+j= 124
+125 -ieme generation
+prob mutation  0.38500000000000023
+j= 125
+126 -ieme generation
+prob mutation  0.38500000000000023
+j= 126
+127 -ieme generation
+prob mutation  0.39000000000000024
+j= 127
+128 -ieme generation
+prob mutation  0.39500000000000024
+j= 128
+129 -ieme generation
+prob mutation  0.40000000000000024
+j= 129
+130 -ieme generation
+prob mutation  0.40500000000000025
+j= 130
+131 -ieme generation
+prob mutation  0.41000000000000025
+j= 131
+132 -ieme generation
+prob mutation  0.41500000000000026
+j= 132
+133 -ieme generation
+prob mutation  0.42000000000000026
+j= 133
+134 -ieme generation
+prob mutation  0.42500000000000027
+j= 134
+135 -ieme generation
+prob mutation  0.43000000000000027
+j= 135
+136 -ieme generation
+prob mutation  0.4350000000000003
+j= 136
+137 -ieme generation
+prob mutation  0.4400000000000003
+j= 137
+138 -ieme generation
+prob mutation  0.4450000000000003
+j= 138
+139 -ieme generation
+prob mutation  0.4500000000000003
+j= 139
+140 -ieme generation
+prob mutation  0.4550000000000003
+j= 140
+141 -ieme generation
+prob mutation  0.4600000000000003
+j= 141
+142 -ieme generation
+prob mutation  0.4650000000000003
+j= 142
+143 -ieme generation
+prob mutation  0.4700000000000003
+j= 143
+144 -ieme generation
+prob mutation  0.4750000000000003
+j= 144
+145 -ieme generation
+prob mutation  0.4800000000000003
+j= 145
+146 -ieme generation
+prob mutation  0.4850000000000003
+j= 146
+147 -ieme generation
+prob mutation  0.4900000000000003
+j= 147
+148 -ieme generation
+prob mutation  0.49500000000000033
+j= 148
+149 -ieme generation
+prob mutation  0.5000000000000003
+j= 149
+150 -ieme generation
+prob mutation  0.5050000000000003
+j= 150
+plotmaze, len(visitedPosition) = 4805
+151 -ieme generation
+prob mutation  0.5100000000000003
+j= 151
+152 -ieme generation
+prob mutation  0.5150000000000003
+j= 152
+153 -ieme generation
+prob mutation  0.5200000000000004
+j= 153
+154 -ieme generation
+prob mutation  0.5250000000000004
+j= 154
+155 -ieme generation
+prob mutation  0.5300000000000004
+j= 155
+156 -ieme generation
+prob mutation  0.5350000000000004
+j= 156
+157 -ieme generation
+prob mutation  0.5400000000000004
+j= 157
+158 -ieme generation
+prob mutation  0.5450000000000004
+j= 158
+159 -ieme generation
+prob mutation  0.5500000000000004
+j= 159
+160 -ieme generation
+prob mutation  0.5550000000000004
+j= 160
+161 -ieme generation
+prob mutation  0.5600000000000004
+j= 161
+162 -ieme generation
+prob mutation  0.5650000000000004
+j= 162
+163 -ieme generation
+prob mutation  0.5700000000000004
+j= 163
+164 -ieme generation
+prob mutation  0.5750000000000004
+j= 164
+165 -ieme generation
+prob mutation  0.5800000000000004
+j= 165
+166 -ieme generation
+prob mutation  0.5850000000000004
+j= 166
+167 -ieme generation
+prob mutation  0.5900000000000004
+j= 167
+168 -ieme generation
+prob mutation  0.5950000000000004
+j= 168
+169 -ieme generation
+prob mutation  0.5950000000000004
+j= 169
+170 -ieme generation
+prob mutation  0.6000000000000004
+j= 170
+171 -ieme generation
+prob mutation  0.6000000000000004
+j= 171
+172 -ieme generation
+prob mutation  0.6000000000000004
+j= 172
+173 -ieme generation
+prob mutation  0.6000000000000004
+j= 173
+174 -ieme generation
+prob mutation  0.6050000000000004
+j= 174
+175 -ieme generation
+prob mutation  0.6050000000000004
+j= 175
+176 -ieme generation
+prob mutation  0.6050000000000004
+j= 176
+177 -ieme generation
+prob mutation  0.6050000000000004
+j= 177
+178 -ieme generation
+prob mutation  0.6050000000000004
+j= 178
+179 -ieme generation
+prob mutation  0.6050000000000004
+j= 179
+180 -ieme generation
+prob mutation  0.6050000000000004
+j= 180
+181 -ieme generation
+prob mutation  0.6050000000000004
+j= 181
+182 -ieme generation
+prob mutation  0.6050000000000004
+j= 182
+183 -ieme generation
+prob mutation  0.6050000000000004
+j= 183
+184 -ieme generation
+prob mutation  0.6050000000000004
+j= 184
+185 -ieme generation
+prob mutation  0.6050000000000004
+j= 185
+186 -ieme generation
+prob mutation  0.6050000000000004
+j= 186
+187 -ieme generation
+prob mutation  0.6050000000000004
+j= 187
+188 -ieme generation
+prob mutation  0.6050000000000004
+j= 188
+189 -ieme generation
+prob mutation  0.6050000000000004
+j= 189
+190 -ieme generation
+prob mutation  0.6050000000000004
+j= 190
+191 -ieme generation
+prob mutation  0.6050000000000004
+j= 191
+192 -ieme generation
+prob mutation  0.6050000000000004
+j= 192
+193 -ieme generation
+prob mutation  0.6050000000000004
+j= 193
+194 -ieme generation
+prob mutation  0.6050000000000004
+j= 194
+195 -ieme generation
+prob mutation  0.6050000000000004
+j= 195
+196 -ieme generation
+prob mutation  0.6050000000000004
+j= 196
+197 -ieme generation
+prob mutation  0.6050000000000004
+j= 197
+198 -ieme generation
+prob mutation  0.6050000000000004
+j= 198
+199 -ieme generation
+prob mutation  0.6050000000000004
+j= 199
+200 -ieme generation
+prob mutation  0.6050000000000004
+j= 200
+plotmaze, len(visitedPosition) = 6114
+201 -ieme generation
+prob mutation  0.6050000000000004
+j= 201
+202 -ieme generation
+prob mutation  0.6050000000000004
+j= 202
+203 -ieme generation
+prob mutation  0.6050000000000004
+j= 203
+204 -ieme generation
+prob mutation  0.6050000000000004
+j= 204
+205 -ieme generation
+prob mutation  0.6050000000000004
+j= 205
+206 -ieme generation
+prob mutation  0.6050000000000004
+j= 206
+207 -ieme generation
+prob mutation  0.6050000000000004
+j= 207
+208 -ieme generation
+prob mutation  0.6050000000000004
+j= 208
+209 -ieme generation
+prob mutation  0.6050000000000004
+j= 209
+210 -ieme generation
+prob mutation  0.6050000000000004
+j= 210
+211 -ieme generation
+prob mutation  0.6050000000000004
+j= 211
+212 -ieme generation
+prob mutation  0.6050000000000004
+j= 212
+213 -ieme generation
+prob mutation  0.6050000000000004
+j= 213
+214 -ieme generation
+prob mutation  0.6050000000000004
+j= 214
+215 -ieme generation
+prob mutation  0.6050000000000004
+j= 215
+216 -ieme generation
+prob mutation  0.6050000000000004
+j= 216
+217 -ieme generation
+prob mutation  0.6050000000000004
+j= 217
+218 -ieme generation
+prob mutation  0.6050000000000004
+j= 218
+219 -ieme generation
+prob mutation  0.6050000000000004
+j= 219
+220 -ieme generation
+prob mutation  0.6050000000000004
+j= 220
+221 -ieme generation
+prob mutation  0.6050000000000004
+j= 221
+222 -ieme generation
+prob mutation  0.6050000000000004
+j= 222
+223 -ieme generation
+prob mutation  0.6050000000000004
+j= 223
+224 -ieme generation
+prob mutation  0.6050000000000004
+j= 224
+225 -ieme generation
+prob mutation  0.6050000000000004
+j= 225
+226 -ieme generation
+prob mutation  0.6050000000000004
+j= 226
+227 -ieme generation
+prob mutation  0.6050000000000004
+j= 227
+228 -ieme generation
+prob mutation  0.6050000000000004
+j= 228
+229 -ieme generation
+prob mutation  0.6050000000000004
+j= 229
+230 -ieme generation
+prob mutation  0.6050000000000004
+j= 230
+231 -ieme generation
+prob mutation  0.6050000000000004
+j= 231
+232 -ieme generation
+prob mutation  0.6050000000000004
+j= 232
+233 -ieme generation
+prob mutation  0.6050000000000004
+j= 233
+234 -ieme generation
+prob mutation  0.6050000000000004
+j= 234
+235 -ieme generation
+prob mutation  0.6050000000000004
+j= 235
+236 -ieme generation
+prob mutation  0.6050000000000004
+j= 236
+237 -ieme generation
+prob mutation  0.6050000000000004
+j= 237
+238 -ieme generation
+prob mutation  0.6050000000000004
+j= 238
+239 -ieme generation
+prob mutation  0.6050000000000004
+j= 239
+240 -ieme generation
+prob mutation  0.6050000000000004
+j= 240
+241 -ieme generation
+prob mutation  0.6050000000000004
+j= 241
+242 -ieme generation
+prob mutation  0.6050000000000004
+j= 242
+243 -ieme generation
+prob mutation  0.6050000000000004
+j= 243
+244 -ieme generation
+prob mutation  0.6050000000000004
+j= 244
+245 -ieme generation
+prob mutation  0.6050000000000004
+j= 245
+246 -ieme generation
+prob mutation  0.6050000000000004
+j= 246
+247 -ieme generation
+prob mutation  0.6050000000000004
+j= 247
+248 -ieme generation
+prob mutation  0.6050000000000004
+j= 248
+249 -ieme generation
+prob mutation  0.6050000000000004
+j= 249
+250 -ieme generation
+prob mutation  0.6050000000000004
+j= 250
+plotmaze, len(visitedPosition) = 8024
+251 -ieme generation
+prob mutation  0.6100000000000004
+j= 251
+252 -ieme generation
+prob mutation  0.6100000000000004
+j= 252
+253 -ieme generation
+prob mutation  0.6100000000000004
+j= 253
+254 -ieme generation
+prob mutation  0.6100000000000004
+j= 254
+255 -ieme generation
+prob mutation  0.6100000000000004
+j= 255
+256 -ieme generation
+prob mutation  0.6100000000000004
+j= 256
+257 -ieme generation
+prob mutation  0.6100000000000004
+j= 257
+258 -ieme generation
+prob mutation  0.6100000000000004
+j= 258
+259 -ieme generation
+prob mutation  0.6100000000000004
+j= 259
+260 -ieme generation
+prob mutation  0.6100000000000004
+j= 260
+261 -ieme generation
+prob mutation  0.6100000000000004
+j= 261
+262 -ieme generation
+prob mutation  0.6100000000000004
+j= 262
+263 -ieme generation
+prob mutation  0.6100000000000004
+j= 263
+264 -ieme generation
+prob mutation  0.6100000000000004
+j= 264
+265 -ieme generation
+prob mutation  0.6100000000000004
+j= 265
+266 -ieme generation
+prob mutation  0.6100000000000004
+j= 266
+267 -ieme generation
+prob mutation  0.6100000000000004
+j= 267
+268 -ieme generation
+prob mutation  0.6100000000000004
+j= 268
+269 -ieme generation
+prob mutation  0.6100000000000004
+j= 269
+270 -ieme generation
+prob mutation  0.6100000000000004
+j= 270
+271 -ieme generation
+prob mutation  0.6100000000000004
+j= 271
+272 -ieme generation
+prob mutation  0.6100000000000004
+j= 272
+273 -ieme generation
+prob mutation  0.6100000000000004
+j= 273
+274 -ieme generation
+prob mutation  0.6100000000000004
+j= 274
+275 -ieme generation
+prob mutation  0.6100000000000004
+j= 275
+276 -ieme generation
+prob mutation  0.6100000000000004
+j= 276
+277 -ieme generation
+prob mutation  0.6100000000000004
+j= 277
+278 -ieme generation
+prob mutation  0.6100000000000004
+j= 278
+279 -ieme generation
+prob mutation  0.6100000000000004
+j= 279
+280 -ieme generation
+prob mutation  0.6100000000000004
+j= 280
+281 -ieme generation
+prob mutation  0.6100000000000004
+j= 281
+282 -ieme generation
+prob mutation  0.6100000000000004
+j= 282
+283 -ieme generation
+prob mutation  0.6100000000000004
+j= 283
+284 -ieme generation
+prob mutation  0.6100000000000004
+j= 284
+285 -ieme generation
+prob mutation  0.6100000000000004
+j= 285
+286 -ieme generation
+prob mutation  0.6100000000000004
+j= 286
+287 -ieme generation
+prob mutation  0.6100000000000004
+j= 287
+288 -ieme generation
+prob mutation  0.6100000000000004
+j= 288
+289 -ieme generation
+prob mutation  0.6100000000000004
+j= 289
+290 -ieme generation
+prob mutation  0.6100000000000004
+j= 290
+291 -ieme generation
+prob mutation  0.6100000000000004
+j= 291
+292 -ieme generation
+prob mutation  0.6100000000000004
+j= 292
+293 -ieme generation
+prob mutation  0.6100000000000004
+j= 293
+294 -ieme generation
+prob mutation  0.6100000000000004
+j= 294
+295 -ieme generation
+prob mutation  0.6100000000000004
+j= 295
+296 -ieme generation
+prob mutation  0.6100000000000004
+j= 296
+297 -ieme generation
+prob mutation  0.6100000000000004
+j= 297
+298 -ieme generation
+prob mutation  0.6100000000000004
+j= 298
+299 -ieme generation
+prob mutation  0.6100000000000004
+j= 299
+300 -ieme generation
+prob mutation  0.6100000000000004
+j= 300
+plotmaze, len(visitedPosition) = 9502
+301 -ieme generation
+prob mutation  0.6100000000000004
+j= 301
+302 -ieme generation
+prob mutation  0.6100000000000004
+j= 302
+303 -ieme generation
+prob mutation  0.6100000000000004
+j= 303
+304 -ieme generation
+prob mutation  0.6100000000000004
+j= 304
+305 -ieme generation
+prob mutation  0.6100000000000004
+j= 305
+306 -ieme generation
+prob mutation  0.6100000000000004
+j= 306
+307 -ieme generation
+prob mutation  0.6150000000000004
+j= 307
+308 -ieme generation
+prob mutation  0.6150000000000004
+j= 308
+309 -ieme generation
+prob mutation  0.6150000000000004
+j= 309
+310 -ieme generation
+prob mutation  0.6150000000000004
+j= 310
+311 -ieme generation
+prob mutation  0.6150000000000004
+j= 311
+312 -ieme generation
+prob mutation  0.6150000000000004
+j= 312
+313 -ieme generation
+prob mutation  0.6150000000000004
+j= 313
+314 -ieme generation
+prob mutation  0.6150000000000004
+j= 314
+315 -ieme generation
+prob mutation  0.6150000000000004
+j= 315
+316 -ieme generation
+prob mutation  0.6150000000000004
+j= 316
+317 -ieme generation
+prob mutation  0.6150000000000004
+j= 317
+318 -ieme generation
+prob mutation  0.6150000000000004
+j= 318
+319 -ieme generation
+prob mutation  0.6150000000000004
+j= 319
+320 -ieme generation
+prob mutation  0.6150000000000004
+j= 320
+321 -ieme generation
+prob mutation  0.6150000000000004
+j= 321
+322 -ieme generation
+prob mutation  0.6150000000000004
+j= 322
+323 -ieme generation
+prob mutation  0.6150000000000004
+j= 323
+324 -ieme generation
+prob mutation  0.6150000000000004
+j= 324
+325 -ieme generation
+prob mutation  0.6150000000000004
+j= 325
+326 -ieme generation
+prob mutation  0.6150000000000004
+j= 326
+327 -ieme generation
+prob mutation  0.6150000000000004
+j= 327
+328 -ieme generation
+prob mutation  0.6150000000000004
+j= 328
+329 -ieme generation
+prob mutation  0.6150000000000004
+j= 329
+330 -ieme generation
+prob mutation  0.6150000000000004
+j= 330
+331 -ieme generation
+prob mutation  0.6150000000000004
+j= 331
+332 -ieme generation
+prob mutation  0.6150000000000004
+j= 332
+333 -ieme generation
+prob mutation  0.6150000000000004
+j= 333
+334 -ieme generation
+prob mutation  0.6150000000000004
+j= 334
+335 -ieme generation
+prob mutation  0.6150000000000004
+j= 335
+336 -ieme generation
+prob mutation  0.6150000000000004
+j= 336
+337 -ieme generation
+prob mutation  0.6150000000000004
+j= 337
+338 -ieme generation
+prob mutation  0.6150000000000004
+j= 338
+339 -ieme generation
+prob mutation  0.6150000000000004
+j= 339
+340 -ieme generation
+prob mutation  0.6150000000000004
+j= 340
+341 -ieme generation
+prob mutation  0.6150000000000004
+j= 341
+342 -ieme generation
+prob mutation  0.6150000000000004
+j= 342
+343 -ieme generation
+prob mutation  0.6150000000000004
+j= 343
+344 -ieme generation
+prob mutation  0.6150000000000004
+j= 344
+345 -ieme generation
+prob mutation  0.6150000000000004
+j= 345
+346 -ieme generation
+prob mutation  0.6150000000000004
+j= 346
+347 -ieme generation
+prob mutation  0.6150000000000004
+j= 347
+348 -ieme generation
+prob mutation  0.6150000000000004
+j= 348
+349 -ieme generation
+prob mutation  0.6150000000000004
+j= 349
+350 -ieme generation
+prob mutation  0.6150000000000004
+j= 350
+plotmaze, len(visitedPosition) = 11260
+351 -ieme generation
+prob mutation  0.6150000000000004
+j= 351
+352 -ieme generation
+prob mutation  0.6150000000000004
+j= 352
+353 -ieme generation
+prob mutation  0.6200000000000004
+j= 353
+354 -ieme generation
+prob mutation  0.6200000000000004
+j= 354
+355 -ieme generation
+prob mutation  0.6200000000000004
+j= 355
+356 -ieme generation
+prob mutation  0.6200000000000004
+j= 356
+357 -ieme generation
+prob mutation  0.6200000000000004
+j= 357
+358 -ieme generation
+prob mutation  0.6200000000000004
+j= 358
+359 -ieme generation
+prob mutation  0.6200000000000004
+j= 359
+360 -ieme generation
+prob mutation  0.6200000000000004
+j= 360
+361 -ieme generation
+prob mutation  0.6200000000000004
+j= 361
+362 -ieme generation
+prob mutation  0.6200000000000004
+j= 362
+363 -ieme generation
+prob mutation  0.6200000000000004
+j= 363
+364 -ieme generation
+prob mutation  0.6200000000000004
+j= 364
+365 -ieme generation
+prob mutation  0.6200000000000004
+j= 365
+366 -ieme generation
+prob mutation  0.6200000000000004
+j= 366
+367 -ieme generation
+prob mutation  0.6200000000000004
+j= 367
+368 -ieme generation
+prob mutation  0.6200000000000004
+j= 368
+369 -ieme generation
+prob mutation  0.6200000000000004
+j= 369
+370 -ieme generation
+prob mutation  0.6200000000000004
+j= 370
+371 -ieme generation
+prob mutation  0.6200000000000004
+j= 371
+372 -ieme generation
+prob mutation  0.6200000000000004
+j= 372
+373 -ieme generation
+prob mutation  0.6200000000000004
+j= 373
+374 -ieme generation
+prob mutation  0.6200000000000004
+j= 374
+375 -ieme generation
+prob mutation  0.6200000000000004
+j= 375
+376 -ieme generation
+prob mutation  0.6200000000000004
+j= 376
+377 -ieme generation
+prob mutation  0.6200000000000004
+j= 377
+378 -ieme generation
+prob mutation  0.6250000000000004
+j= 378
+379 -ieme generation
+prob mutation  0.6250000000000004
+j= 379
+380 -ieme generation
+prob mutation  0.6250000000000004
+j= 380
+381 -ieme generation
+prob mutation  0.6250000000000004
+j= 381
+382 -ieme generation
+prob mutation  0.6250000000000004
+j= 382
+383 -ieme generation
+prob mutation  0.6250000000000004
+j= 383
+384 -ieme generation
+prob mutation  0.6250000000000004
+j= 384
+385 -ieme generation
+prob mutation  0.6250000000000004
+j= 385
+386 -ieme generation
+prob mutation  0.6250000000000004
+j= 386
+387 -ieme generation
+prob mutation  0.6250000000000004
+j= 387
+388 -ieme generation
+prob mutation  0.6250000000000004
+j= 388
+389 -ieme generation
+prob mutation  0.6300000000000004
+j= 389
+390 -ieme generation
+prob mutation  0.6300000000000004
+j= 390
+391 -ieme generation
+prob mutation  0.6350000000000005
+j= 391
+392 -ieme generation
+prob mutation  0.6350000000000005
+j= 392
+393 -ieme generation
+prob mutation  0.6400000000000005
+j= 393
+394 -ieme generation
+prob mutation  0.6450000000000005
+j= 394
+395 -ieme generation
+prob mutation  0.6500000000000005
+j= 395
+396 -ieme generation
+prob mutation  0.6550000000000005
+j= 396
+397 -ieme generation
+prob mutation  0.6600000000000005
+j= 397
+398 -ieme generation
+prob mutation  0.6650000000000005
+j= 398
+399 -ieme generation
+prob mutation  0.6700000000000005
+j= 399
+400 -ieme generation
+prob mutation  0.6750000000000005
+j= 400
+plotmaze, len(visitedPosition) = 12637
+401 -ieme generation
+prob mutation  0.6800000000000005
+j= 401
+402 -ieme generation
+prob mutation  0.6850000000000005
+j= 402
+403 -ieme generation
+prob mutation  0.6900000000000005
+j= 403
+404 -ieme generation
+prob mutation  0.6950000000000005
+j= 404
+405 -ieme generation
+prob mutation  0.7000000000000005
+j= 405
+406 -ieme generation
+prob mutation  0.7050000000000005
+j= 406
+407 -ieme generation
+prob mutation  0.7100000000000005
+j= 407
+408 -ieme generation
+prob mutation  0.7150000000000005
+j= 408
+409 -ieme generation
+prob mutation  0.7200000000000005
+j= 409
+410 -ieme generation
+prob mutation  0.7250000000000005
+j= 410
+411 -ieme generation
+prob mutation  0.7300000000000005
+j= 411
+412 -ieme generation
+prob mutation  0.7350000000000005
+j= 412
+413 -ieme generation
+prob mutation  0.7400000000000005
+j= 413
+414 -ieme generation
+prob mutation  0.7450000000000006
+j= 414
+415 -ieme generation
+prob mutation  0.7500000000000006
+j= 415
+416 -ieme generation
+prob mutation  0.7550000000000006
+j= 416
+417 -ieme generation
+prob mutation  0.7600000000000006
+j= 417
+418 -ieme generation
+prob mutation  0.7650000000000006
+j= 418
+419 -ieme generation
+prob mutation  0.7700000000000006
+j= 419
+420 -ieme generation
+prob mutation  0.7750000000000006
+j= 420
+421 -ieme generation
+prob mutation  0.7800000000000006
+j= 421
+422 -ieme generation
+prob mutation  0.7850000000000006
+j= 422
+423 -ieme generation
+prob mutation  0.7900000000000006
+j= 423
+424 -ieme generation
+prob mutation  0.7950000000000006
+j= 424
+425 -ieme generation
+prob mutation  0.8000000000000006
+j= 425
+426 -ieme generation
+prob mutation  0.8050000000000006
+j= 426
+427 -ieme generation
+prob mutation  0.8100000000000006
+j= 427
+428 -ieme generation
+prob mutation  0.8150000000000006
+j= 428
+429 -ieme generation
+prob mutation  0.8200000000000006
+j= 429
+430 -ieme generation
+prob mutation  0.8250000000000006
+j= 430
+431 -ieme generation
+prob mutation  0.8300000000000006
+j= 431
+432 -ieme generation
+prob mutation  0.8350000000000006
+j= 432
+433 -ieme generation
+prob mutation  0.8400000000000006
+j= 433
+434 -ieme generation
+prob mutation  0.8450000000000006
+j= 434
+435 -ieme generation
+prob mutation  0.8500000000000006
+j= 435
+436 -ieme generation
+prob mutation  0.8550000000000006
+j= 436
+437 -ieme generation
+prob mutation  0.8600000000000007
+j= 437
+438 -ieme generation
+prob mutation  0.8650000000000007
+j= 438
+439 -ieme generation
+prob mutation  0.8700000000000007
+j= 439
+440 -ieme generation
+prob mutation  0.8750000000000007
+j= 440
+441 -ieme generation
+prob mutation  0.8800000000000007
+j= 441
+442 -ieme generation
+prob mutation  0.8850000000000007
+j= 442
+443 -ieme generation
+prob mutation  0.8900000000000007
+j= 443
+444 -ieme generation
+prob mutation  0.8950000000000007
+j= 444
+445 -ieme generation
+prob mutation  0.9000000000000007
+j= 445
+446 -ieme generation
+prob mutation  0.9050000000000007
+j= 446
+447 -ieme generation
+prob mutation  0.9100000000000007
+j= 447
+448 -ieme generation
+prob mutation  0.9150000000000007
+j= 448
+449 -ieme generation
+prob mutation  0.9200000000000007
+j= 449
+450 -ieme generation
+prob mutation  0.9250000000000007
+j= 450
+plotmaze, len(visitedPosition) = 12834
+451 -ieme generation
+prob mutation  0.9300000000000007
+j= 451
+452 -ieme generation
+prob mutation  0.9350000000000007
+j= 452
+453 -ieme generation
+prob mutation  0.9400000000000007
+j= 453
+454 -ieme generation
+prob mutation  0.9450000000000007
+j= 454
+455 -ieme generation
+prob mutation  0.9500000000000007
+j= 455
+456 -ieme generation
+prob mutation  0.9550000000000007
+j= 456
+457 -ieme generation
+prob mutation  0.9600000000000007
+j= 457
+458 -ieme generation
+prob mutation  0.9650000000000007
+j= 458
+459 -ieme generation
+prob mutation  0.9700000000000008
+j= 459
+460 -ieme generation
+prob mutation  0.9750000000000008
+j= 460
+461 -ieme generation
+prob mutation  0.9800000000000008
+j= 461
+462 -ieme generation
+prob mutation  0.9850000000000008
+j= 462
+463 -ieme generation
+prob mutation  0.9900000000000008
+j= 463
+464 -ieme generation
+prob mutation  0.9950000000000008
+j= 464
+465 -ieme generation
+prob mutation  1.0000000000000007
+j= 465
+466 -ieme generation
+prob mutation  1.0050000000000006
+j= 466
+467 -ieme generation
+prob mutation  1.0100000000000005
+j= 467
+468 -ieme generation
+prob mutation  1.0150000000000003
+j= 468
+469 -ieme generation
+prob mutation  1.0200000000000002
+j= 469
+470 -ieme generation
+prob mutation  1.0250000000000001
+j= 470
+471 -ieme generation
+prob mutation  1.03
+j= 471
+472 -ieme generation
+prob mutation  1.035
+j= 472
+473 -ieme generation
+prob mutation  1.0399999999999998
+j= 473
+474 -ieme generation
+prob mutation  1.0449999999999997
+j= 474
+475 -ieme generation
+prob mutation  1.0499999999999996
+j= 475
+476 -ieme generation
+prob mutation  1.0549999999999995
+j= 476
+477 -ieme generation
+prob mutation  1.0599999999999994
+j= 477
+478 -ieme generation
+prob mutation  1.0649999999999993
+j= 478
+479 -ieme generation
+prob mutation  1.0699999999999992
+j= 479
+480 -ieme generation
+prob mutation  1.074999999999999
+j= 480
+481 -ieme generation
+prob mutation  1.079999999999999
+j= 481
+482 -ieme generation
+prob mutation  1.0849999999999989
+j= 482
+483 -ieme generation
+prob mutation  1.0899999999999987
+j= 483
+484 -ieme generation
+prob mutation  1.0949999999999986
+j= 484
+485 -ieme generation
+prob mutation  1.0999999999999985
+j= 485
+486 -ieme generation
+prob mutation  1.1049999999999984
+j= 486
+487 -ieme generation
+prob mutation  1.1099999999999983
+j= 487
+488 -ieme generation
+prob mutation  1.1149999999999982
+j= 488
+489 -ieme generation
+prob mutation  1.119999999999998
+j= 489
+490 -ieme generation
+prob mutation  1.124999999999998
+j= 490
+491 -ieme generation
+prob mutation  1.129999999999998
+j= 491
+492 -ieme generation
+prob mutation  1.1349999999999978
+j= 492
+493 -ieme generation
+prob mutation  1.1399999999999977
+j= 493
+494 -ieme generation
+prob mutation  1.1449999999999976
+j= 494
+495 -ieme generation
+prob mutation  1.1499999999999975
+j= 495
+496 -ieme generation
+prob mutation  1.1549999999999974
+j= 496
+497 -ieme generation
+prob mutation  1.1599999999999973
+j= 497
+498 -ieme generation
+prob mutation  1.1649999999999971
+j= 498
+499 -ieme generation
+prob mutation  1.169999999999997
+j= 499
+500 -ieme generation
+prob mutation  1.174999999999997
+j= 500
+plotmaze, len(visitedPosition) = 12980
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 75 requests (74 known processed) with 0 events remaining.

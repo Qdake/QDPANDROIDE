@@ -78,6 +78,9 @@ def eval_genomes(population,generation,nb_run):
             if butAtteint(positionFinale):
                 plotmaze(visitedPositions,"./rf/fitnessGuideMaze_{}_run_{}_generation_image_finale.png".format(nb_run,j))
                 return;   
+            f = open("./rf/fitness_5_run.txt","a");
+            f.write(str(positionFinale)+"\n");
+            f.close();
         ### generer prochaine generation
         nextPopulation = [];      
         distribution = rangementParQualite(p = 0.1,taille = taillePopulation);
@@ -99,7 +102,6 @@ def eval_genomes(population,generation,nb_run):
         #generation de graph
         if j%50 == 0 and j!=0:
             plotmaze(visitedPositions,"./rf/fitnessGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-
     
     
 
@@ -109,4 +111,4 @@ probMutation = 0.01 ## probabilite de mutation
 solution = None
 for nb_run in range(1,2):
     p = genererPopulation(N,[16,12,1])
-    eval_genomes(p,1000,nb_run);
+    eval_genomes(p,500,nb_run);

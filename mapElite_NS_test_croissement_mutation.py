@@ -83,24 +83,10 @@ def mutationFaible(nn,):
         gene[p] = (1/2+np.random.rand())*gene[p]
     nn.weights = nn.roll_weights(gene);
     return nn;
-import random
-def varier(B):
-    global probMutation;
-    r = [];
-    for i in range((len(B)-200)//2):
-        individu1= B[2*i];
-        individu2 = B[2*i+1];
-        individu3,individu4 = croissement(individu1,individu2);
-        #mutation
-        individu3 = mutation(individu3,probMutation);
-        individu4 = mutation(individu4,probMutation);
-        #ajouter dans la prochaine population
-        r.append(individu3);
-        r.append(individu4);
-    for i in range(200):
-        r.append(mutationFaible(B[i]))
-    return r;
 def eval_genomes(nb_run):
+    fn = "./2305/map_"+str(nb_run)+"_run_croisementmutation.txt"
+    f = open(fn,"a");
+    f.close();
     global probMutation;
     size_layers = (16,12,1);
     
@@ -116,11 +102,13 @@ def eval_genomes(nb_run):
             R.add(position)
             X[position[0]][position[1]] = genome;
             visitedPosition.add(position);
-    
+        f = open(fn,"a");
+        f.write(str(position)+"\n");
+        f.close();
     nouveaute_position = [];
     for position in visitedPosition:
         nouveaute_position.append((position,sum(les_k_plus_petits_elements(20,[distc(position,i) for i in R]))));
-            
+        
     for generation in range(1,1001):
         
         delta = 0;
@@ -128,7 +116,7 @@ def eval_genomes(nb_run):
         positions = select_k_position(250,nouveaute_position);
         B = [X[position[0]][position[1]] for position in positions];
         # mutation pour generer leurs enfants
-        B = varier(B)
+        B = [mutationFaible(i) for i in B]
         # evaluer les genomes
         pos = [robot.simulationNavigationSansImage(genome) for genome in B];
         # ajouter dans les grid et la list de positions  visitees dans le passe
@@ -141,8 +129,11 @@ def eval_genomes(nb_run):
                 delta += 1;
                 # si le goal est atteint
                 if butAtteint(position):
-                    plotmaze(visitedPosition,"./result2005/result_NS_plus_mapelite_croissement_mutation/NS_mapElite_Maze_{}_run_{}_generation_image_finale.png".format(nb_run,generation))
+                    plotmaze(visitedPosition,"./2305/NS_mapElite_Maze_{}_run_{}_generation.png".format(nb_run,generation))
                     return;
+            f = open(fn,"a");
+            f.write(str(position)+"\n");
+            f.close();
         nouveaute_position = [];
         # calculer nouveaute pour tout genome de la population
         for position in visitedPosition:
@@ -158,11 +149,9 @@ def eval_genomes(nb_run):
         #generation de graph
         print("generation = ",generation );
         if generation%5 == 0 and generation!=0:
-#            plotmaze(visitedPosition,"./result/noveltyGuideMaze_{}_run_{}_generation_image.png".format(nb_run,j))
-            plotmaze(visitedPosition,"./result2005/result_NS_plus_mapelite_croissement_mutation/NS_mapElite_Maze_{}_run_{}_generation_image.png".format(nb_run,generation))
+            plotmaze(visitedPosition,"./2305/NS_mapElite_Maze_{}_run_{}_generation.png".format(nb_run,generation))
         if delta <20:
             probMutation += 0.01
         print("prob mutation ",probMutation);
 probMutation = 0.01
-for nb_run in range(1):
-    eval_genomes(nb_run);
+eval_genomes(23052);
